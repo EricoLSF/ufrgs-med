@@ -62,13 +62,69 @@ settings     key (PK)
 3. Mudança local → Dexie hook marca dirty → debounce 5s → push (PATCH no Drive)
 4. Conflito: last-write-wins por modifiedTime do Drive
 
+## Camada IA — Primo
+
+> O **Primo** é o assistente de IA do app. Nome vem do [playbook](docs/playbook.md), onde ele aparece como copiloto do "primo" (usuário-alvo). É a camada que diferencia o app de um banco de questões qualquer.
+
+**Status: bloqueado em [dependência externa](#dependencias-externas) — API key da LLM com o Carlos.**
+
+### Features do Primo (derivadas do playbook)
+
+| # | Feature | Prioridade | Notas |
+|---|---|---|---|
+| P1 | **Erro → 5 variantes** | Alta | Botão "Gerar variantes" na tela de revisão pós-resposta. Diagnostica gap + gera 5 questões sintéticas dificuldade crescente. ROI mais alto |
+| P2 | **Post-mortem socrático** | Alta | Chat: cola questão errada, Primo faz perguntas até você descobrir onde quebrou. Não dá resposta |
+| P3 | **Feynman invertido** | Média | Você explica tópico, Primo pergunta "por quê?" até esgotar. Lista pontos onde travou |
+| P4 | **Depth-bombing** | Média | 10 questões progressivas sobre 1 tópico, calibradas pra culminar em "pior questão UFRGS plausível" |
+| P5 | **Síntese inter-disciplinar** | Média | 5 questões cross-domain/semana (bio+quím, fís+mat etc.) |
+| P6 | **Coach de redação** | Alta | Cola redação → nota por critério UFRGS + 3 problemas + reescrita de UM parágrafo |
+| P7 | **Companion das obras** | Baixa | Tutor por obra obrigatória de literatura |
+| P8 | **Question of the Day** | Média | Background job diário: identifica 3 tópicos mais fracos do tracker, gera 1 questão, notifica |
+| P9 | **Heatmap de incidência por tópico** | Baixa | Auto-tag das provas anteriores → mostra densidade de cobrança por matéria |
+
+### Arquitetura proposta
+
+```
+src/lib/llm/                  # provider-agnostic
+├── anthropic.ts              # Claude API client (default)
+├── prompts.ts                # templates derivados do playbook
+└── types.ts                  # Provider, Message
+
+src/features/primo/
+├── chat.tsx                  # chat UI básico
+├── actions/                  # cada feature P1-P9 como ação
+│   ├── error-variants.tsx
+│   ├── socratic.tsx
+│   ├── ...
+└── question-of-day.ts        # job
+
+src/routes/primo.tsx          # rota /primo
+```
+
+- API key fica em `db.settings` (igual Drive Client ID), nunca em código
+- Provider abstraído: padrão Anthropic Claude (recomendado pelo playbook), mas dá pra trocar
+- Chamadas direto do browser (CORS habilitado pela Anthropic com `anthropic-dangerous-direct-browser-access`)
+- Cada ação tem prompt template editável em `prompts.ts`
+
+### Integração com o resto do app
+
+- **Editor de questões** ganha botão "Gerar variantes" (P1) usando a questão atual + atempt mais recente
+- **Sessão de estudo** após errar mostra opção "Discutir com o Primo" (P2)
+- **Dashboard** mostra Question of the Day (P8)
+- **Stats** ganha aba "Heatmap UFRGS" (P9)
+
 ## Roadmap
 
-### Próximas (alta prioridade)
+### Bloqueado em API key (Primo)
+- [ ] **P1** Erro → 5 variantes (botão na revisão pós-resposta)
+- [ ] **P2** Post-mortem socrático (chat)
+- [ ] **P6** Coach de redação (com rubrica UFRGS)
+- [ ] **P8** Question of the Day
+
+### Próximas (alta prioridade, NÃO bloqueado)
 - [ ] Importar mais provas: scrape UFRGS 2023, 2022, 2021... (~700 questões adicionais)
 - [ ] Tela de "questões pendentes de revisão" — filtra `needsReview=1` e flag manual de "revisada"
 - [ ] Suporte a imagens em questões (PDF → extrair imagens → upload pra... onde?)
-- [ ] Preservar numeração de linha em textos-base (Português referencia "linha 03")
 - [ ] Editor: WYSIWYG / split aprimorado com botões pra inserir LaTeX
 
 ### Médias
@@ -96,4 +152,29 @@ settings     key (PK)
 - ~~Tauri desktop~~ — install pesado (Rust + MSVC), zero ganho real vs PWA
 - ~~OAuth login no app~~ — single-user; Drive já tem auth dele próprio
 - ~~Multi-usuário / classes~~ — escopo pessoal
-- ~~Backend de IA pra gerar questões~~ — fora de escopo; melhor importar provas reais
+- ~~Backend de IA pra gerar questões~~ — fora de escopo (chamadas direto do browser pra LLM)
+
+## Dependências externas
+
+### API key da LLM — bloqueia camada Primo
+
+**Responsável: Carlos.**
+
+Pra ativar o Primo (P1-P9 acima) precisamos de uma API key. Recomendação:
+
+- **Anthropic Claude API** (preferida — playbook foi escrito pra Claude)
+  - https://console.anthropic.com → Settings → API Keys → Create Key
+  - Modelos sugeridos: `claude-sonnet-4-6` (qualidade) ou `claude-haiku-4-5-20251001` (custo/latência)
+  - Custo estimado: **~R$10-30/mês** pra uso pesado de 1 vestibulando (100-500 calls/dia)
+  - Pré-pago, sem cartão de crédito travado
+
+Alternativas aceitáveis:
+- OpenAI (`gpt-5`) — qualidade similar, custo similar
+- Google Gemini — mais barato, qualidade ligeiramente inferior pra raciocínio
+- Self-hosted (Ollama) — grátis mas exige máquina rodando
+
+**Sem essa key, o Primo fica desabilitado.** O resto do app funciona normalmente.
+
+### Mensagem pro Carlos
+
+> Salve, Carlos. Tô construindo um app de estudo pro vestibular UFRGS de Medicina. Preciso de uma API key da Anthropic (ou OpenAI/Gemini) pra integrar features de IA: gerar questões a partir dos meus erros, coach socrático, revisão de redação. Uso estimado R$10-30/mês — pré-pago, sem risco. Você consegue criar uma key em console.anthropic.com (Settings → API Keys) e me passar?

@@ -8,6 +8,14 @@ Diário de mudanças relevantes, em ordem cronológica reversa. Cada entrada tem
 
 ## 2026-05-18
 
+### Plano — Primo (assistente IA) + integração do playbook
+- Playbook `playbook-ufrgs-medicina.html` (do Downloads) preservado em `public/playbook.html` + resumo em `docs/playbook.md`
+- `PLAN.md`: nova seção "Camada IA — Primo" mapeando P1-P9 (erro→variantes, post-mortem socrático, Feynman invertido, depth-bombing, redação, etc.)
+- `PLAN.md`: nova seção "Dependências externas" com mensagem-modelo pro Carlos pedindo API key da Anthropic/OpenAI
+- `TODO.md`: bloco "Bloqueado em dependência externa" no topo com os 9 itens do Primo
+- Arquitetura proposta (não implementada): `src/lib/llm/` (provider-agnostic) + `src/features/primo/` (chat + actions). Chamadas direto do browser
+- Nome "Primo" vem do contexto do playbook (escrito pra usuário-alvo chamado primo)
+
 ### Scraper — numeração de linhas em textos-base
 - `numberLines()` em `scripts/scrape-ufrgs.ts` prefixa cada linha não-vazia com `NN  `
 - Texto-base é renderizado em code-block markdown (monospace, alinhamento perfeito de coluna)

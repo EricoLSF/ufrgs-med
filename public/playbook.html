@@ -1,0 +1,1008 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Playbook UFRGS Medicina — Estudo Aumentado por IA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #15110d;
+    --bg-grain: #18130e;
+    --surface: #1d1812;
+    --surface-2: #261f17;
+    --border: #322a22;
+    --border-soft: #2a231c;
+    --fg: #f0e7d8;
+    --fg-muted: #a89a85;
+    --fg-subtle: #6b6052;
+    --accent: #d4956f;
+    --accent-strong: #e8a87c;
+    --accent-bg: rgba(212, 149, 111, 0.08);
+    --accent-line: rgba(212, 149, 111, 0.25);
+    --done: #7fa86b;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    background-image:
+      radial-gradient(at 15% 8%, rgba(212, 149, 111, 0.06) 0%, transparent 45%),
+      radial-gradient(at 85% 95%, rgba(212, 149, 111, 0.04) 0%, transparent 50%);
+    background-attachment: fixed;
+    color: var(--fg);
+    font-family: 'IBM Plex Sans', system-ui, sans-serif;
+    font-weight: 400;
+    line-height: 1.65;
+    font-size: 16px;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .container {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 80px 32px 120px;
+  }
+
+  /* ---- Header ---- */
+  header {
+    margin-bottom: 80px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .eyebrow::before {
+    content: '';
+    width: 32px;
+    height: 1px;
+    background: var(--accent);
+  }
+
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: clamp(38px, 5vw, 56px);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    color: var(--fg);
+    margin-bottom: 20px;
+    font-variation-settings: 'opsz' 144, 'SOFT' 30;
+  }
+
+  h1 em {
+    font-style: italic;
+    font-weight: 400;
+    color: var(--accent-strong);
+    font-variation-settings: 'opsz' 144, 'SOFT' 100;
+  }
+
+  .subtitle {
+    font-family: 'Fraunces', serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: var(--fg-muted);
+    font-style: italic;
+    max-width: 520px;
+    line-height: 1.4;
+  }
+
+  .meta {
+    margin-top: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px 36px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--fg-subtle);
+  }
+
+  .meta span strong {
+    color: var(--fg-muted);
+    font-weight: 500;
+    display: block;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+
+  /* ---- Sections ---- */
+  section {
+    margin-bottom: 72px;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    margin-bottom: 32px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border-soft);
+  }
+
+  .section-num {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--accent);
+    font-weight: 500;
+  }
+
+  h2 {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 28px;
+    letter-spacing: -0.01em;
+    color: var(--fg);
+    font-variation-settings: 'opsz' 144;
+  }
+
+  .section-intro {
+    color: var(--fg-muted);
+    margin-bottom: 36px;
+    font-size: 16px;
+    max-width: 640px;
+  }
+
+  /* ---- Items ---- */
+  .item {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 20px;
+    padding: 24px 0;
+    border-bottom: 1px solid var(--border-soft);
+    transition: opacity 0.2s ease;
+  }
+
+  .item:last-child {
+    border-bottom: none;
+  }
+
+  .item-checkbox {
+    margin-top: 6px;
+    width: 18px;
+    height: 18px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    border-radius: 3px;
+    cursor: pointer;
+    position: relative;
+    flex-shrink: 0;
+    transition: all 0.15s ease;
+    appearance: none;
+    -webkit-appearance: none;
+  }
+
+  .item-checkbox:hover {
+    border-color: var(--accent);
+  }
+
+  .item-checkbox:checked {
+    background: var(--accent);
+    border-color: var(--accent);
+  }
+
+  .item-checkbox:checked::after {
+    content: '';
+    position: absolute;
+    left: 5px;
+    top: 1px;
+    width: 5px;
+    height: 10px;
+    border: solid var(--bg);
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+  }
+
+  .item.done .item-title {
+    color: var(--fg-subtle);
+    text-decoration: line-through;
+    text-decoration-color: var(--fg-subtle);
+  }
+
+  .item.done .item-body {
+    opacity: 0.5;
+  }
+
+  .item-content {
+    min-width: 0;
+  }
+
+  .item-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 19px;
+    color: var(--fg);
+    margin-bottom: 8px;
+    line-height: 1.3;
+    transition: color 0.2s ease;
+  }
+
+  .item-body {
+    color: var(--fg-muted);
+    font-size: 15px;
+    line-height: 1.6;
+    transition: opacity 0.2s ease;
+  }
+
+  .item-body p {
+    margin-bottom: 8px;
+  }
+
+  .item-body p:last-child {
+    margin-bottom: 0;
+  }
+
+  .item-example {
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: var(--accent-bg);
+    border-left: 2px solid var(--accent-line);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--fg);
+    line-height: 1.55;
+    border-radius: 0 4px 4px 0;
+  }
+
+  .item-example::before {
+    content: 'EXEMPLO';
+    display: block;
+    font-size: 10px;
+    color: var(--accent);
+    letter-spacing: 0.15em;
+    margin-bottom: 6px;
+    font-weight: 500;
+  }
+
+  /* ---- Meta callout ---- */
+  .callout {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    padding: 24px 28px;
+    margin: 32px 0;
+    border-radius: 2px;
+  }
+
+  .callout-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--accent-strong);
+    margin-bottom: 10px;
+  }
+
+  .callout p {
+    color: var(--fg-muted);
+    font-size: 15px;
+    margin-bottom: 8px;
+  }
+
+  .callout p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* ---- Weekly rhythm table ---- */
+  .rhythm {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 0;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    overflow: hidden;
+    margin-top: 16px;
+  }
+
+  .rhythm-row {
+    display: contents;
+  }
+
+  .rhythm-day, .rhythm-task {
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border-soft);
+  }
+
+  .rhythm-row:last-child .rhythm-day,
+  .rhythm-row:last-child .rhythm-task {
+    border-bottom: none;
+  }
+
+  .rhythm-day {
+    background: var(--surface);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--accent);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    border-right: 1px solid var(--border-soft);
+  }
+
+  .rhythm-task {
+    color: var(--fg-muted);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .rhythm-task strong {
+    color: var(--fg);
+    font-weight: 500;
+  }
+
+  /* ---- Prompt library ---- */
+  .prompt {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 20px 24px;
+    margin-bottom: 20px;
+  }
+
+  .prompt-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--accent);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .copy-btn {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--fg-muted);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    padding: 4px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: all 0.15s ease;
+  }
+
+  .copy-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .copy-btn.copied {
+    border-color: var(--done);
+    color: var(--done);
+  }
+
+  .prompt-text {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    color: var(--fg);
+    line-height: 1.6;
+    white-space: pre-wrap;
+  }
+
+  /* ---- Final CTA ---- */
+  .start {
+    background: var(--surface);
+    border: 1px solid var(--accent-line);
+    border-radius: 4px;
+    padding: 32px 36px;
+    margin-top: 48px;
+  }
+
+  .start h3 {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: var(--accent-strong);
+    margin-bottom: 18px;
+    font-style: italic;
+  }
+
+  .start ol {
+    list-style: none;
+    counter-reset: step;
+  }
+
+  .start ol li {
+    counter-increment: step;
+    padding-left: 36px;
+    position: relative;
+    color: var(--fg);
+    margin-bottom: 14px;
+    font-size: 15px;
+  }
+
+  .start ol li:last-child {
+    margin-bottom: 0;
+  }
+
+  .start ol li::before {
+    content: counter(step, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--accent);
+    font-weight: 500;
+  }
+
+  /* ---- Footer ---- */
+  footer {
+    margin-top: 96px;
+    padding-top: 32px;
+    border-top: 1px solid var(--border);
+    color: var(--fg-subtle);
+    font-size: 13px;
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 1.6;
+  }
+
+  /* Subtle progress indicator */
+  .progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: transparent;
+    z-index: 100;
+  }
+
+  .progress-bar {
+    height: 100%;
+    background: var(--accent);
+    width: 0%;
+    transition: width 0.1s ease;
+    box-shadow: 0 0 8px var(--accent);
+  }
+
+  /* Mobile */
+  @media (max-width: 640px) {
+    .container { padding: 48px 20px 80px; }
+    header { margin-bottom: 56px; }
+    section { margin-bottom: 56px; }
+    .rhythm { grid-template-columns: 1fr; }
+    .rhythm-day { border-right: none; }
+    .meta { gap: 16px 24px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="progress"><div class="progress-bar" id="progressBar"></div></div>
+
+<div class="container">
+
+<header>
+  <div class="eyebrow">Playbook · Vestibular 2026</div>
+  <h1>UFRGS Medicina<br><em>vantagem assimétrica</em></h1>
+  <p class="subtitle">Como usar IA pra complementar o cursinho, comprimir o ciclo erro→aprendizado, e construir as próprias ferramentas no caminho.</p>
+  <div class="meta">
+    <span><strong>Para</strong>Primo, 19, Porto Alegre</span>
+    <span><strong>Contexto</strong>Cursinho + ENEM + Vestibular UFRGS</span>
+    <span><strong>Janela</strong>Provas em ~novembro</span>
+  </div>
+</header>
+
+<!-- META -->
+<section>
+  <div class="section-header">
+    <span class="section-num">00</span>
+    <h2>A meta honesta</h2>
+  </div>
+  <p class="section-intro">Onde a vantagem mora, e onde ela não mora.</p>
+
+  <div class="callout">
+    <div class="callout-title">O cursinho não é onde se ganha — é onde se evita perder</div>
+    <p>O cursinho garante que ele não fica pra trás na base. Todo mundo na sala vai ter essa base. O diferencial vem de quatro coisas que o cursinho, por design de massa, não entrega bem:</p>
+    <p><strong style="color: var(--fg);">1.</strong> Ciclo erro→aprendizado curto e personalizado. <strong style="color: var(--fg);">2.</strong> Volume de prática no estilo específico UFRGS, não só ENEM. <strong style="color: var(--fg);">3.</strong> Profundidade conceitual onde o vestibular cobra (Bio, Quim, Fis pesam 3 no SISU saúde). <strong style="color: var(--fg);">4.</strong> Redação trabalhada de verdade, semana após semana — onde a maioria afunda.</p>
+    <p>O que o Claude faz bem é exatamente isso: virar amplificador desses quatro vetores. O que ele <em>não</em> substitui é repetição, sono e calmaria sob pressão.</p>
+  </div>
+</section>
+
+<!-- BASE -->
+<section>
+  <div class="section-header">
+    <span class="section-num">01</span>
+    <h2>Camada base — sem volume nada funciona</h2>
+  </div>
+  <p class="section-intro">Não tem como fugir. O que dá pra fazer é tornar o volume mais eficiente.</p>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="base-1">
+    <div class="item-content">
+      <div class="item-title">Provas anteriores da UFRGS como dataset-mãe</div>
+      <div class="item-body">
+        <p>10+ anos de provas no site da Coperse, em PDF. Esse é o material mais valioso que existe — é literalmente o estilo da banca. Cursinho não consegue dar prioridade só pra UFRGS; ele consegue. Meta: fazer todas as provas dos últimos 8 anos até setembro, com pelo menos 2 passadas nas mais recentes (uma cega, uma corrigida com análise).</p>
+        <div class="item-example">Site: vestibular.ufrgs.br → Provas Anteriores. Baixar tudo de uma vez, separar por matéria, criar pastas.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="base-2">
+    <div class="item-content">
+      <div class="item-title">Banco pessoal de questões com tracking</div>
+      <div class="item-body">
+        <p>Toda questão que ele faz (cursinho, prova anterior, sintética) entra num banco com tags: matéria, tópico, dificuldade, fonte, acertou/errou, motivo do erro. Sem isso, ele estuda no escuro. Pode ser planilha, Notion, ou um app próprio (ver seção 03). O que importa é existir o dado.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="base-3">
+    <div class="item-content">
+      <div class="item-title">Simulado semanal no formato UFRGS, cronometrado</div>
+      <div class="item-body">
+        <p>Todo sábado de manhã: 4h, formato real (15 questões × matéria, sem interrupção, sem celular). Domingo: post-mortem completo de cada erro. Isso treina a coisa que ninguém treina: resistência psicológica de 4h direto. Quem chega cansado na prova real perde 10 questões fáceis.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="base-4">
+    <div class="item-content">
+      <div class="item-title">SRS (repetição espaçada) pro long tail factual</div>
+      <div class="item-body">
+        <p>Biologia, história, geografia e literatura têm uma cauda longa de fatos que aparecem aleatoriamente e não se aprende por raciocínio. Anki resolve isso. Custo: 15-20min/dia. ROI absurdo. Decks comunitários pra ENEM existem, mas o melhor é criar os próprios a partir dos erros (cada erro vira um card).</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PERSONALIZAÇÃO -->
+<section>
+  <div class="section-header">
+    <span class="section-num">02</span>
+    <h2>Camada de personalização — Claude como copiloto</h2>
+  </div>
+  <p class="section-intro">Não usar IA pra pedir resposta. Usar pra coisas que humano-tutor cobraria R$200/h.</p>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="pers-1">
+    <div class="item-content">
+      <div class="item-title">Erro → questões sintéticas no mesmo gap</div>
+      <div class="item-body">
+        <p>O uso de maior alavanca de tudo. Ele cola a questão errada e a resposta dele; o Claude diagnostica qual é o gap conceitual (não só "você errou"), e gera 5 questões novas que atacam esse gap exato, em dificuldade crescente. Cada erro vira 5 acertos próximos.</p>
+        <div class="item-example">"Esta é questão UFRGS de [matéria]. Resposta certa: D. Eu marquei B. Diagnostique o gap conceitual sob o erro e gere 5 variantes no estilo UFRGS, em dificuldade crescente, atacando esse mesmo gap."</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="pers-2">
+    <div class="item-content">
+      <div class="item-title">Post-mortem socrático em vez de "gabarito comentado"</div>
+      <div class="item-body">
+        <p>Gabarito comentado mostra a resposta. Post-mortem socrático investiga <em>por que</em> ele errou: foi conceito? procedural? leitura? ansiedade? armadilha da banca? Cada tipo de erro tem tratamento diferente. Ele aprende a se diagnosticar.</p>
+        <div class="item-example">"Não me dê a resposta ainda. Faça perguntas que me façam descobrir onde meu raciocínio quebrou. Comece pela mais ampla."</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="pers-3">
+    <div class="item-content">
+      <div class="item-title">Feynman invertido com pushback</div>
+      <div class="item-body">
+        <p>Ele explica um tópico pro Claude como se fosse aluno burro. O Claude faz as perguntas "mas por quê?" até ele bater no teto do que entende. Aí surge a próxima coisa a estudar. Muito mais rápido que ler 30 páginas de apostila.</p>
+        <div class="item-example">"Vou te explicar [equilíbrio iônico]. Finja que é meu aluno e me interrompa com 'mas por quê' toda vez que eu pular um passo ou usar termo sem definir. Não me ajude — só pergunte."</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="pers-4">
+    <div class="item-content">
+      <div class="item-title">Depth-bombing por tópico</div>
+      <div class="item-body">
+        <p>Sequência de 10 questões progressivamente mais difíceis sobre o mesmo conceito, sendo a #10 calibrada pra ser "a pior questão UFRGS plausível sobre isso." Cura tópicos que ele "sabe" superficialmente. Faz sentido em tópicos pesados: termoquímica, genética, mecânica clássica, função quadrática, etc.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="pers-5">
+    <div class="item-content">
+      <div class="item-title">Síntese inter-disciplinar (o que ninguém treina)</div>
+      <div class="item-body">
+        <p>UFRGS gosta de questões que misturam: bio+quim (bioquímica), fis+quim (termodinâmica), fis+mat (cinemática vetorial), geo+hist, port+lit. Quase ninguém treina explicitamente. Peça 5 questões cross-domain por semana.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="pers-6">
+    <div class="item-content">
+      <div class="item-title">Redação: rubrica UFRGS + revisão iterativa</div>
+      <div class="item-body">
+        <p>Redação é onde mais se ganha pontos com retorno marginal alto, porque a maioria escreve mal. Uma redação por semana, mínimo. Claude avalia pela rubrica UFRGS (proposta, estrutura, argumentação, norma culta, coesão), aponta os 3 problemas mais graves, e devolve uma versão revisada de um parágrafo como referência — não a redação inteira.</p>
+        <div class="item-example">"Avalie esta redação pela rubrica UFRGS [colar rubrica]. Aponte os 3 problemas mais graves em ordem de impacto. Reescreva apenas o parágrafo de desenvolvimento como exemplo, mantendo minha tese. Não reescreva o resto."</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="pers-7">
+    <div class="item-content">
+      <div class="item-title">Companion das obras obrigatórias</div>
+      <div class="item-body">
+        <p>UFRGS cobra leituras obrigatórias na prova de literatura. Crie um "tutor" por obra: passa o resumo + capítulos + sua leitura, e o Claude quiza sobre personagens, simbolismo, contexto histórico, estilo, e prováveis ângulos de questão UFRGS-style. Funciona em paralelo à leitura, não substitui.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- VIBE CODING -->
+<section>
+  <div class="section-header">
+    <span class="section-num">03</span>
+    <h2>Camada vibe-coded — as ferramentas que ele constrói</h2>
+  </div>
+  <p class="section-intro">Construir as próprias ferramentas com Claude Code tem três retornos: estuda enquanto constrói (a ferramenta força você a entender o seu próprio processo), aprende programação (skill universal pós-vestibular), e fica com sistemas sob medida que ninguém tem.</p>
+
+  <div class="callout">
+    <div class="callout-title">Stack mínima sugerida</div>
+    <p>Python ou Node + SQLite + interface CLI ou web simples (Streamlit pra Python; HTML + JS pra web). Tudo via Claude Code no terminal. Não precisa ser bonito — precisa funcionar. 1-2 horas pra cada um dos apps abaixo, com IA escrevendo o código.</p>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="vibe-1">
+    <div class="item-content">
+      <div class="item-title">Question Tracker (o primeiro a construir)</div>
+      <div class="item-body">
+        <p>SQLite com tabela de questões: id, matéria, tópico, fonte, dificuldade, acertou, motivo_erro, data. UI simples pra adicionar questões e ver dashboards: accuracy por matéria, por tópico, sua curva ao longo do tempo, top 5 tópicos com mais erro. <strong style="color: var(--fg);">Isso é a base de tudo o resto.</strong></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="vibe-2">
+    <div class="item-content">
+      <div class="item-title">Question of the Day</div>
+      <div class="item-body">
+        <p>Script que roda toda manhã: lê o tracker, identifica seus 3 tópicos mais fracos, chama a API do Claude pra gerar 1 questão UFRGS-style sobre um deles, e te manda por Telegram/email/notificação. Ele acorda com a questão do dia já no celular. Custo: ~R$0,01 por dia.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="vibe-3">
+    <div class="item-content">
+      <div class="item-title">Gerador erro → prática (botão único)</div>
+      <div class="item-body">
+        <p>Ele cola a questão errada num campo, aperta um botão, recebe 5 variantes geradas. Versão um pouco mais sofisticada: ao confirmar que ele acertou as variantes, marca o tópico como "consolidando" no tracker.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="vibe-4">
+    <div class="item-content">
+      <div class="item-title">SRS custom (Anki pessoal)</div>
+      <div class="item-body">
+        <p>Se Anki incomoda, ele constrói o próprio em 2 horas. Algoritmo SM-2 é trivial. Vantagem: ele customiza intervalos, tipos de card, integra com o tracker. Não é melhor que Anki em features, mas é dele.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="vibe-5">
+    <div class="item-content">
+      <div class="item-title">Gerador de simulado UFRGS-style</div>
+      <div class="item-body">
+        <p>Monta uma prova de 75 questões respeitando o formato UFRGS (15 por matéria, dia 1: PT/LIT/HIS/GEO/MAT). Pode misturar questões reais de provas anteriores + questões sintéticas no estilo. Cronômetro embutido. No fim, plota a curva de tempo por questão — útil pra ver onde ele empaca.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="vibe-6">
+    <div class="item-content">
+      <div class="item-title">Coach de redação com rubrica</div>
+      <div class="item-body">
+        <p>Web app de uma página: cola a redação, escolhe o tipo de prova (UFRGS ou ENEM), recebe nota provisória por critério, comentários por parágrafo, e sugestão de revisão. Versão pro: salva histórico, mostra evolução das notas semana a semana.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="vibe-7">
+    <div class="item-content">
+      <div class="item-title">Heatmap de incidência por tópico</div>
+      <div class="item-body">
+        <p>Pega as últimas 10 provas UFRGS, faz o Claude tagger cada questão por tópico, gera um heatmap de quais tópicos a banca mais cobra por matéria. Ele estuda guiado por densidade real de cobrança, não pelo que o cursinho considera importante.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- EDGES -->
+<section>
+  <div class="section-header">
+    <span class="section-num">04</span>
+    <h2>Edges — a vantagem sobre a massa</h2>
+  </div>
+  <p class="section-intro">Coisas que a maioria não faz porque dá trabalho. Que é exatamente por isso que funcionam.</p>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="edge-1">
+    <div class="item-content">
+      <div class="item-title">1-2 "boss questions" por dia</div>
+      <div class="item-body">
+        <p>Toda noite, uma questão deliberadamente acima do nível médio do dia. Calibrada pra ser frustrante. Resolve com calma, sem pressa, mesmo se levar 40min. Esse músculo — atacar uma questão difícil sem desistir — é o que separa quem passa no top da prova de quem fica no meio.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="edge-2">
+    <div class="item-content">
+      <div class="item-title">Speed drills (5 questões em 8 minutos)</div>
+      <div class="item-body">
+        <p>Velocidade na prova real é decisiva. Treinar isso de propósito: bloco de 5 questões fáceis-médias por matéria, cronômetro brutal. Não é pra acertar tudo — é pra calibrar quando bater retirada e pular. Saber pular questão é skill.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="edge-3">
+    <div class="item-content">
+      <div class="item-title">Estudar a banca, não só a matéria</div>
+      <div class="item-body">
+        <p>UFRGS tem padrões de armadilha próprios. Ler 20 questões anuladas ou polêmicas dos últimos anos, ver os tipos de pegadinha que a banca usa. Cada banca tem um "humor". Conhecer o da UFRGS = identificar a armadilha antes de cair.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="edge-4">
+    <div class="item-content">
+      <div class="item-title">Redação loop disciplinado</div>
+      <div class="item-body">
+        <p>Maior assimetria do vestibular. Maioria escreve 0-3 redações o ano inteiro. Quem escreve 30 com revisão real chega na prova com vantagem de fato. Uma por semana, sem exceção. Repertório próprio (3-5 referências que ele domina) > repertório enciclopédico fraco.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="item">
+    <input type="checkbox" class="item-checkbox" data-id="edge-5">
+    <div class="item-content">
+      <div class="item-title">Saúde física como decisão estratégica</div>
+      <div class="item-body">
+        <p>Não é frescura. 7-8h de sono, 30min/dia de exercício, comida decente. Dois anos de cursinho sem isso destrói rendimento marginal de forma que ninguém percebe. O cursinho não fala disso porque não vende. Ele tem 19, dorme; daqui a 6 anos ele entende o quanto isso importou.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RITMO -->
+<section>
+  <div class="section-header">
+    <span class="section-num">05</span>
+    <h2>Ritmo semanal sugerido</h2>
+  </div>
+  <p class="section-intro">Como tudo isso cabe na semana sem entrar em conflito com o cursinho. Esse é um exemplo — calibrar com a carga real dele.</p>
+
+  <div class="rhythm">
+    <div class="rhythm-row">
+      <div class="rhythm-day">Diário</div>
+      <div class="rhythm-task"><strong>15min SRS</strong> (Anki ou app próprio) · <strong>1 boss question</strong> à noite · todo erro vai pro tracker no mesmo dia, com motivo</div>
+    </div>
+    <div class="rhythm-row">
+      <div class="rhythm-day">Pós-aula</div>
+      <div class="rhythm-task"><strong>30min de "depth pass"</strong> com Claude no tópico que o cursinho cobriu — Feynman invertido ou depth-bombing, conforme a matéria</div>
+    </div>
+    <div class="rhythm-row">
+      <div class="rhythm-day">Ter / Qui</div>
+      <div class="rhythm-task"><strong>Bloco UFRGS prova anterior:</strong> 1 matéria, 15 questões, cronometrado. Erros geram questões sintéticas no mesmo dia</div>
+    </div>
+    <div class="rhythm-row">
+      <div class="rhythm-day">Quarta</div>
+      <div class="rhythm-task"><strong>Redação semanal</strong> + revisão pela rubrica + reescrita de 1 parágrafo</div>
+    </div>
+    <div class="rhythm-row">
+      <div class="rhythm-day">Sábado</div>
+      <div class="rhythm-task"><strong>Simulado UFRGS-format 4h</strong> de manhã. Sem celular, sem pausa real</div>
+    </div>
+    <div class="rhythm-row">
+      <div class="rhythm-day">Domingo</div>
+      <div class="rhythm-task"><strong>Post-mortem do simulado:</strong> cada erro vira tag no tracker + 3 questões sintéticas. Tarde livre — descanso é parte do plano</div>
+    </div>
+  </div>
+</section>
+
+<!-- BIBLIOTECA DE PROMPTS -->
+<section>
+  <div class="section-header">
+    <span class="section-num">06</span>
+    <h2>Biblioteca de prompts (copia e cola)</h2>
+  </div>
+  <p class="section-intro">Salva esses em algum lugar acessível. São os que dão maior retorno por minuto.</p>
+
+  <div class="prompt">
+    <div class="prompt-label">
+      <span>Erro → 5 variantes</span>
+      <button class="copy-btn" data-target="p1">Copiar</button>
+    </div>
+    <div class="prompt-text" id="p1">Esta é uma questão do vestibular UFRGS de [matéria]:
+
+[colar enunciado]
+
+Gabarito: [letra]. Eu marquei: [letra].
+
+Faça três coisas:
+1. Diagnostique qual é o gap conceitual sob o meu erro (não só o que tá certo).
+2. Gere 5 questões novas no estilo UFRGS, em dificuldade crescente, atacando esse mesmo gap.
+3. Pra cada questão, gabarito + 1 frase sobre a armadilha principal.</div>
+  </div>
+
+  <div class="prompt">
+    <div class="prompt-label">
+      <span>Post-mortem socrático</span>
+      <button class="copy-btn" data-target="p2">Copiar</button>
+    </div>
+    <div class="prompt-text" id="p2">Errei a questão abaixo. NÃO me dê a resposta ainda. Em vez disso, me faça perguntas socráticas, uma de cada vez, que me forcem a descobrir sozinho onde meu raciocínio quebrou.
+
+Comece pela pergunta mais ampla. Vá afinando conforme eu respondo. Só me dê a resposta se eu pedir explicitamente ou se eu travar completamente depois de 3 tentativas.
+
+[colar questão + minha resposta + gabarito]</div>
+  </div>
+
+  <div class="prompt">
+    <div class="prompt-label">
+      <span>Feynman invertido</span>
+      <button class="copy-btn" data-target="p3">Copiar</button>
+    </div>
+    <div class="prompt-text" id="p3">Vou te explicar [TÓPICO] como se você fosse meu aluno. Sua tarefa: me interromper toda vez que eu (a) pular um passo lógico, (b) usar um termo técnico sem definir, ou (c) afirmar algo sem justificar.
+
+Faça apenas perguntas. Não me ensine, não me corrija — só pergunte "por quê" / "como você sabe" / "o que isso significa". Continue até eu não conseguir mais responder. No final, liste os pontos onde travei.</div>
+  </div>
+
+  <div class="prompt">
+    <div class="prompt-label">
+      <span>Depth-bombing</span>
+      <button class="copy-btn" data-target="p4">Copiar</button>
+    </div>
+    <div class="prompt-text" id="p4">Gere 10 questões UFRGS-style sobre [TÓPICO], em dificuldade estritamente crescente:
+
+- Questões 1-3: fáceis, mas com pegadinhas leves de leitura
+- Questões 4-6: nível médio do vestibular UFRGS
+- Questões 7-9: difíceis, do tipo que diferencia top 10%
+- Questão 10: o mais difícil que a UFRGS plausivelmente poderia cobrar
+
+Pra cada uma, alternativas A-E, gabarito, e 1 linha sobre o conceito-chave testado.</div>
+  </div>
+
+  <div class="prompt">
+    <div class="prompt-label">
+      <span>Redação UFRGS</span>
+      <button class="copy-btn" data-target="p5">Copiar</button>
+    </div>
+    <div class="prompt-text" id="p5">Avalie a redação abaixo pelos critérios UFRGS (adequação à proposta, estrutura, argumentação, norma culta, coesão e progressão). Faça três coisas, nessa ordem:
+
+1. Nota provisória por critério (1-5) com justificativa de 1 linha cada.
+2. Os 3 problemas mais graves em ordem decrescente de impacto na nota.
+3. Reescreva APENAS o parágrafo de desenvolvimento como referência, mantendo minha tese. Não reescreva o resto.
+
+Não seja gentil — seja útil. Vou prestar UFRGS medicina.
+
+[colar redação]</div>
+  </div>
+</section>
+
+<!-- COMEÇAR -->
+<div class="start">
+  <h3>Pra começar essa semana</h3>
+  <ol>
+    <li>Baixar as 3 últimas provas UFRGS do site da Coperse e organizar em pasta. Não fazer ainda — só preparar.</li>
+    <li>Sentar com Claude Code 1 hora e construir a v0 do Question Tracker. Mínimo: adicionar questão, marcar acerto/erro, ver accuracy por matéria. Sem UI bonita.</li>
+    <li>Fazer 1 questão de prova anterior, errá-la de propósito ou não, e rodar o prompt "Erro → 5 variantes". Sentir o loop completo uma vez. Daí decidir o que adotar primeiro.</li>
+  </ol>
+</div>
+
+<footer>
+  v0.1 · feito sob medida · ajustar conforme calibração real do ritmo de estudo<br>
+  o playbook é hipótese, não dogma — quanto mais cedo o primo questionar e adaptar, melhor
+</footer>
+
+</div>
+
+<script>
+  // Progress bar
+  function updateProgress() {
+    const scrollTop = window.scrollY;
+    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    const progress = (scrollTop / docHeight) * 100;
+    document.getElementById('progressBar').style.width = progress + '%';
+  }
+  window.addEventListener('scroll', updateProgress);
+
+  // Checkbox state with persistence
+  async function loadCheckboxes() {
+    const checkboxes = document.querySelectorAll('.item-checkbox');
+    for (const cb of checkboxes) {
+      const id = cb.dataset.id;
+      try {
+        const result = await window.storage.get('check:' + id);
+        if (result && result.value === 'true') {
+          cb.checked = true;
+          cb.closest('.item').classList.add('done');
+        }
+      } catch (e) {
+        // Key doesn't exist yet, that's fine
+      }
+    }
+  }
+
+  function bindCheckboxes() {
+    document.querySelectorAll('.item-checkbox').forEach(cb => {
+      cb.addEventListener('change', async () => {
+        const id = cb.dataset.id;
+        const item = cb.closest('.item');
+        if (cb.checked) {
+          item.classList.add('done');
+        } else {
+          item.classList.remove('done');
+        }
+        try {
+          await window.storage.set('check:' + id, cb.checked ? 'true' : 'false');
+        } catch (e) {
+          console.error('Storage failed:', e);
+        }
+      });
+    });
+  }
+
+  // Copy buttons
+  document.querySelectorAll('.copy-btn').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const targetId = btn.dataset.target;
+      const text = document.getElementById(targetId).innerText;
+      try {
+        await navigator.clipboard.writeText(text);
+        const original = btn.textContent;
+        btn.textContent = 'Copiado';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = original;
+          btn.classList.remove('copied');
+        }, 1800);
+      } catch (e) {
+        btn.textContent = 'Erro';
+        setTimeout(() => { btn.textContent = 'Copiar'; }, 1800);
+      }
+    });
+  });
+
+  // Init
+  bindCheckboxes();
+  if (typeof window.storage !== 'undefined') {
+    loadCheckboxes();
+  }
+  updateProgress();
+</script>
+
+</body>
+</html>

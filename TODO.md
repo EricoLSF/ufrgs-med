@@ -2,6 +2,24 @@
 
 > Backlog ativo. Itens são removidos quando feitos (entram no `LOG.md`). Prioridade reflete impacto sobre estudar dia-a-dia.
 
+## 🔴 Bloqueado em dependência externa
+
+### API key da LLM — pedir ao **Carlos**
+Sem isso, toda a camada Primo (P1-P9) fica parada. Detalhes e mensagem-modelo em [`PLAN.md → Dependências externas`](PLAN.md#dependencias-externas).
+
+Quando a key chegar, destravam:
+- [ ] **P1** Erro → 5 variantes (ROI mais alto — playbook chama de "feature de maior alavanca")
+- [ ] **P2** Post-mortem socrático (chat que faz perguntas em vez de dar resposta)
+- [ ] **P6** Coach de redação (rubrica UFRGS + reescrita de 1 parágrafo)
+- [ ] **P8** Question of the Day (notificação diária com questão sintética nos seus pontos fracos)
+- [ ] **P3** Feynman invertido
+- [ ] **P4** Depth-bombing (10 questões progressivas)
+- [ ] **P5** Síntese inter-disciplinar
+- [ ] **P7** Companion das obras obrigatórias
+- [ ] **P9** Heatmap de incidência por tópico
+
+Arquitetura pré-pensada: `src/lib/llm/` + `src/features/primo/`. Detalhes em `PLAN.md`.
+
 ## Imediato
 
 - [ ] Scrapear UFRGS 2023, 2022, 2021 — replicar o fluxo de 2024 pra cada ano. Cada `--out` vira um starter pack adicional em `public/`
