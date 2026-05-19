@@ -8,6 +8,12 @@ Diário de mudanças relevantes, em ordem cronológica reversa. Cada entrada tem
 
 ## 2026-05-18
 
+### Scraper — numeração de linhas em textos-base
+- `numberLines()` em `scripts/scrape-ufrgs.ts` prefixa cada linha não-vazia com `NN  `
+- Texto-base é renderizado em code-block markdown (monospace, alinhamento perfeito de coluna)
+- Questões UFRGS de Português/Inglês que pedem "linha 03" agora ficam respondíveis
+- Re-scrape + re-import: dedup por `external_id` atualiza statementMd, mantém SRS/attempts
+
 ### Phase 9-11 — Documentação + GitHub
 - Adicionado `README.md`, `PLAN.md`, `TODO.md`, `LOG.md`, `CLAUDE.md`
 - Rota `/help` renderiza markdowns de `docs/` via `import.meta.glob` raw

@@ -188,9 +188,18 @@ function parseContexts(norm: string, slices: Slice[]): Context[] {
     if (raw.length < 50 || raw.length > 5000) continue
     if (NOISY_START.test(raw)) continue
 
-    contexts.push({ from, to, text: raw })
+    contexts.push({ from, to, text: numberLines(raw) })
   }
   return contexts
+}
+
+// Prefix each non-empty line with a zero-padded sequential number, so questions
+// that reference "linha 03" remain answerable. UFRGS provas print these numbers
+// in the original PDF margin but pdfjs strips them.
+function numberLines(text: string): string {
+  const lines = text.split('\n').map((l) => l.trim()).filter(Boolean)
+  const width = Math.max(2, String(lines.length).length)
+  return lines.map((line, i) => `${String(i + 1).padStart(width, '0')}  ${line}`).join('\n')
 }
 
 function splitAlternatives(chunk: string): { statement: string; options: string[] } | null {
@@ -333,7 +342,7 @@ async function main() {
       .filter((c) => q.number >= c.from && q.number <= c.to)
       .sort((a, b) => (a.to - a.from) - (b.to - b.from))[0]
     const statementMd = ctx
-      ? `**Texto-base (questões ${ctx.from}–${ctx.to}):**\n\n${ctx.text}\n\n---\n\n${q.statement}`
+      ? `**Texto-base (questões ${ctx.from}–${ctx.to}):**\n\n\`\`\`\n${ctx.text}\n\`\`\`\n\n---\n\n${q.statement}`
       : q.statement
     questions.push({
       externalId: `${args.prefix}${yearSlug}-${String(q.number).padStart(2, '0')}`,

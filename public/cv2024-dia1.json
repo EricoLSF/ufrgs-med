@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-05-18T23:12:50.433Z",
+  "exportedAt": "2026-05-19T00:07:42.297Z",
   "subjects": [
     {
       "id": -1,
@@ -36,7 +36,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–9):**\n\nNo momento em que abrimos um livro nos\n\npomos no reino da palavra escrita,\n\ncompartilhando desse sortilégio ........ fala\n\nVerissimo no texto\nSinais mortíferos, dessa\n\nmágica de sinais gravados ........ une as\n\nmentes das quais saíram sinais, e outros sinais,\n\ne outros sinais...\n\nNinguém duvida de que a manifestação\n\nfalada é a linguagem primeira, é a linguagem\n\nnatural, que prescinde das tábuas e dos sulcos\n\nque um dia os homens inventaram para\n\ncumprir desígnios que foram sendo\n\nestabelecidos, para o bem e para o mal.\n\nNas sagas que cantou, Homero distinguia\n\nheróis da palavra, heróis que eram os homens\n\nde fala forte, de fala efetiva, de fala eficiente.\n\nAssim como havia heróis excelentes na ação,\n\nhavia aqueles excelentes na palavra (porque,\n\npara o épico, excelente em tudo só Zeus!). E\n\nentre eles Homero ressalta muito\n\nsignificativamente a figura do velho conselheiro\n\nNestor, sempre à parte dos combates, mas\n\ndono de palavras sábias que dirigiam rumos\n\ndas ações. Ele ressalta, entre todos – no foco\n\nda epopeia – , a figura de Odisseu/Ulisses, que\n\nnunca foi cantado como herói de combate\n\nrenhido, mas que foi o senhor das palavras\n\nastutas que construíram a\nOdisseia.\n\nHoje a força da palavra falada é a mesma,\n\nnada mudou, na história da humanidade,\n\nquanto ao exercício natural da capacidade que\n\no humano tem de falar e quanto à destinação\n\nnatural desse exercício. Mas, que diferença!!\n\nE vem agora o lado prático dessa conversa\n\ninicial: sem discussão, pode-se dizer que a\n\npalavra escrita é sustentáculo da cultura,\n\nembora não ouse supor que as sociedades\n\nágrafas sejam excluídas da noção de “cultura”,\n\ne que os textos de Homero, que então eram\n\napenas cantados, não tenham sido sustentáculo\n\nde cultura no mundo grego, exatamente por\n\nonde chegaram ao registro escrito.\n\nDiz Verissimo que a palavr a escrita “dá\n\npermanência à linguagem”, e isso se\n\ncomprovaria, banalmente, no fato de que hoje\n\nos versos de Homero nos chegam somente\n\ncravados em folha de papel ou em tela de\n\ncomputador. Mas com certeza o cronista, que\n\nnão esqueceu a permanência do texto oral de\n\nHomero, também não terá esquecido que, já\n\nhá algum tempo, gravam-se falas, e que,\n\nportanto, a tecnologia humana já soube dar\n\nregistro permanente também à palavra falada.\n\nOcorre que a permanência de que fala\n\nVerissimo é outra: acima do fato de que a\n\nescrita representa um registro concreto\n\npermanente, está o fato de que ela leva a\n\npalavra a “outro domínio”. A palavra falada\n\npovoa um domínio que, já por funcionar\n\nautomaticamente segundo o\nsoftware que\n\ntrouxemos à vida com a vida, não desvenda\n\ntodos os sortilégios nos quais entramos quando\n\ncomplicamos o viver. Que digam os versos dos\n\npoetas que no geral se produzem no suporte\n\ngráfico e assim nos chegam (no papel ou em\n\ntela do monitor, insisto), mas vêm carregados\n\nda melodia que lhes dá sentido, e por aí nos\n\ntransportam a um mundo particularmente mágico\n\na que passamos a pertencer com a leitura!!!\n\nEste é, por si, o mundo da palavra mágica!!\n\nE chegamos à função da escola nesse\n\nmundo da mágica da linguagem. Se, como diz\n\nVeri ssimo, a escrita traz o preço de “ro ubar a\n\npalavra à sua vulgaridade democrática”, cabe\n\naos professores, que são aqueles ........ é dado\n\nlevar às gerações a força da linguagem e a\n\nforça da cultura reverter o processo e reverter\n\no argumento: cabe-lhes valorizar a democrática\n\npalavra falada, sim, mas sua missão muito\n\nparticular é\nvulgarizar democraticamente a\n\npalavra (escrita) dos livros sem tirar-lhes o\n\nsortilégio: acreditemos ou não em sortilégios...\n\nAdaptado de: MOURA NEVES, M.H. Introdução.\nA\n\ngramática do português revelada em textos. São\n\nPaulo: Editora da Unesp, 2018.\n\n---\n\nAssinale a alternativa que preenche\n\ncorretamente as lacunas das linhas 03, 05 e 75,\n\nnesta ordem.",
+      "statementMd": "**Texto-base (questões 1–9):**\n\n```\n01  No momento em que abrimos um livro nos\n02  pomos no reino da palavra escrita,\n03  compartilhando desse sortilégio ........ fala\n04  Verissimo no texto\n05  Sinais mortíferos, dessa\n06  mágica de sinais gravados ........ une as\n07  mentes das quais saíram sinais, e outros sinais,\n08  e outros sinais...\n09  Ninguém duvida de que a manifestação\n10  falada é a linguagem primeira, é a linguagem\n11  natural, que prescinde das tábuas e dos sulcos\n12  que um dia os homens inventaram para\n13  cumprir desígnios que foram sendo\n14  estabelecidos, para o bem e para o mal.\n15  Nas sagas que cantou, Homero distinguia\n16  heróis da palavra, heróis que eram os homens\n17  de fala forte, de fala efetiva, de fala eficiente.\n18  Assim como havia heróis excelentes na ação,\n19  havia aqueles excelentes na palavra (porque,\n20  para o épico, excelente em tudo só Zeus!). E\n21  entre eles Homero ressalta muito\n22  significativamente a figura do velho conselheiro\n23  Nestor, sempre à parte dos combates, mas\n24  dono de palavras sábias que dirigiam rumos\n25  das ações. Ele ressalta, entre todos – no foco\n26  da epopeia – , a figura de Odisseu/Ulisses, que\n27  nunca foi cantado como herói de combate\n28  renhido, mas que foi o senhor das palavras\n29  astutas que construíram a\n30  Odisseia.\n31  Hoje a força da palavra falada é a mesma,\n32  nada mudou, na história da humanidade,\n33  quanto ao exercício natural da capacidade que\n34  o humano tem de falar e quanto à destinação\n35  natural desse exercício. Mas, que diferença!!\n36  E vem agora o lado prático dessa conversa\n37  inicial: sem discussão, pode-se dizer que a\n38  palavra escrita é sustentáculo da cultura,\n39  embora não ouse supor que as sociedades\n40  ágrafas sejam excluídas da noção de “cultura”,\n41  e que os textos de Homero, que então eram\n42  apenas cantados, não tenham sido sustentáculo\n43  de cultura no mundo grego, exatamente por\n44  onde chegaram ao registro escrito.\n45  Diz Verissimo que a palavr a escrita “dá\n46  permanência à linguagem”, e isso se\n47  comprovaria, banalmente, no fato de que hoje\n48  os versos de Homero nos chegam somente\n49  cravados em folha de papel ou em tela de\n50  computador. Mas com certeza o cronista, que\n51  não esqueceu a permanência do texto oral de\n52  Homero, também não terá esquecido que, já\n53  há algum tempo, gravam-se falas, e que,\n54  portanto, a tecnologia humana já soube dar\n55  registro permanente também à palavra falada.\n56  Ocorre que a permanência de que fala\n57  Verissimo é outra: acima do fato de que a\n58  escrita representa um registro concreto\n59  permanente, está o fato de que ela leva a\n60  palavra a “outro domínio”. A palavra falada\n61  povoa um domínio que, já por funcionar\n62  automaticamente segundo o\n63  software que\n64  trouxemos à vida com a vida, não desvenda\n65  todos os sortilégios nos quais entramos quando\n66  complicamos o viver. Que digam os versos dos\n67  poetas que no geral se produzem no suporte\n68  gráfico e assim nos chegam (no papel ou em\n69  tela do monitor, insisto), mas vêm carregados\n70  da melodia que lhes dá sentido, e por aí nos\n71  transportam a um mundo particularmente mágico\n72  a que passamos a pertencer com a leitura!!!\n73  Este é, por si, o mundo da palavra mágica!!\n74  E chegamos à função da escola nesse\n75  mundo da mágica da linguagem. Se, como diz\n76  Veri ssimo, a escrita traz o preço de “ro ubar a\n77  palavra à sua vulgaridade democrática”, cabe\n78  aos professores, que são aqueles ........ é dado\n79  levar às gerações a força da linguagem e a\n80  força da cultura reverter o processo e reverter\n81  o argumento: cabe-lhes valorizar a democrática\n82  palavra falada, sim, mas sua missão muito\n83  particular é\n84  vulgarizar democraticamente a\n85  palavra (escrita) dos livros sem tirar-lhes o\n86  sortilégio: acreditemos ou não em sortilégios...\n87  Adaptado de: MOURA NEVES, M.H. Introdução.\n88  A\n89  gramática do português revelada em textos. São\n90  Paulo: Editora da Unesp, 2018.\n```\n\n---\n\nAssinale a alternativa que preenche\n\ncorretamente as lacunas das linhas 03, 05 e 75,\n\nnesta ordem.",
       "alternatives": [
         "de que – que – a quem",
         "sobre o qual – as quais – para quem",
@@ -50,8 +50,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-02",
@@ -60,7 +60,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–9):**\n\nNo momento em que abrimos um livro nos\n\npomos no reino da palavra escrita,\n\ncompartilhando desse sortilégio ........ fala\n\nVerissimo no texto\nSinais mortíferos, dessa\n\nmágica de sinais gravados ........ une as\n\nmentes das quais saíram sinais, e outros sinais,\n\ne outros sinais...\n\nNinguém duvida de que a manifestação\n\nfalada é a linguagem primeira, é a linguagem\n\nnatural, que prescinde das tábuas e dos sulcos\n\nque um dia os homens inventaram para\n\ncumprir desígnios que foram sendo\n\nestabelecidos, para o bem e para o mal.\n\nNas sagas que cantou, Homero distinguia\n\nheróis da palavra, heróis que eram os homens\n\nde fala forte, de fala efetiva, de fala eficiente.\n\nAssim como havia heróis excelentes na ação,\n\nhavia aqueles excelentes na palavra (porque,\n\npara o épico, excelente em tudo só Zeus!). E\n\nentre eles Homero ressalta muito\n\nsignificativamente a figura do velho conselheiro\n\nNestor, sempre à parte dos combates, mas\n\ndono de palavras sábias que dirigiam rumos\n\ndas ações. Ele ressalta, entre todos – no foco\n\nda epopeia – , a figura de Odisseu/Ulisses, que\n\nnunca foi cantado como herói de combate\n\nrenhido, mas que foi o senhor das palavras\n\nastutas que construíram a\nOdisseia.\n\nHoje a força da palavra falada é a mesma,\n\nnada mudou, na história da humanidade,\n\nquanto ao exercício natural da capacidade que\n\no humano tem de falar e quanto à destinação\n\nnatural desse exercício. Mas, que diferença!!\n\nE vem agora o lado prático dessa conversa\n\ninicial: sem discussão, pode-se dizer que a\n\npalavra escrita é sustentáculo da cultura,\n\nembora não ouse supor que as sociedades\n\nágrafas sejam excluídas da noção de “cultura”,\n\ne que os textos de Homero, que então eram\n\napenas cantados, não tenham sido sustentáculo\n\nde cultura no mundo grego, exatamente por\n\nonde chegaram ao registro escrito.\n\nDiz Verissimo que a palavr a escrita “dá\n\npermanência à linguagem”, e isso se\n\ncomprovaria, banalmente, no fato de que hoje\n\nos versos de Homero nos chegam somente\n\ncravados em folha de papel ou em tela de\n\ncomputador. Mas com certeza o cronista, que\n\nnão esqueceu a permanência do texto oral de\n\nHomero, também não terá esquecido que, já\n\nhá algum tempo, gravam-se falas, e que,\n\nportanto, a tecnologia humana já soube dar\n\nregistro permanente também à palavra falada.\n\nOcorre que a permanência de que fala\n\nVerissimo é outra: acima do fato de que a\n\nescrita representa um registro concreto\n\npermanente, está o fato de que ela leva a\n\npalavra a “outro domínio”. A palavra falada\n\npovoa um domínio que, já por funcionar\n\nautomaticamente segundo o\nsoftware que\n\ntrouxemos à vida com a vida, não desvenda\n\ntodos os sortilégios nos quais entramos quando\n\ncomplicamos o viver. Que digam os versos dos\n\npoetas que no geral se produzem no suporte\n\ngráfico e assim nos chegam (no papel ou em\n\ntela do monitor, insisto), mas vêm carregados\n\nda melodia que lhes dá sentido, e por aí nos\n\ntransportam a um mundo particularmente mágico\n\na que passamos a pertencer com a leitura!!!\n\nEste é, por si, o mundo da palavra mágica!!\n\nE chegamos à função da escola nesse\n\nmundo da mágica da linguagem. Se, como diz\n\nVeri ssimo, a escrita traz o preço de “ro ubar a\n\npalavra à sua vulgaridade democrática”, cabe\n\naos professores, que são aqueles ........ é dado\n\nlevar às gerações a força da linguagem e a\n\nforça da cultura reverter o processo e reverter\n\no argumento: cabe-lhes valorizar a democrática\n\npalavra falada, sim, mas sua missão muito\n\nparticular é\nvulgarizar democraticamente a\n\npalavra (escrita) dos livros sem tirar-lhes o\n\nsortilégio: acreditemos ou não em sortilégios...\n\nAdaptado de: MOURA NEVES, M.H. Introdução.\nA\n\ngramática do português revelada em textos. São\n\nPaulo: Editora da Unesp, 2018.\n\n---\n\nConsidere as seguintes afirmações sobre algumas das ideias expressas no texto.\n\nI - O texto aborda a relação entre as palavras falada e escrita na sociedade, a partir da noção de\n\nvulgaridade democrática.\n\nII - O texto afirma que a escola deve se centrar somente na escrita para, via sortilégio da leitura, dar\n\nacesso ao mundo da palavra mágica.\n\nIII- O texto apresenta as relações entre as palavras falada e escrita, a partir do lugar de cada uma na\n\ncultura.\n\nQuais estão corretas?",
+      "statementMd": "**Texto-base (questões 1–9):**\n\n```\n01  No momento em que abrimos um livro nos\n02  pomos no reino da palavra escrita,\n03  compartilhando desse sortilégio ........ fala\n04  Verissimo no texto\n05  Sinais mortíferos, dessa\n06  mágica de sinais gravados ........ une as\n07  mentes das quais saíram sinais, e outros sinais,\n08  e outros sinais...\n09  Ninguém duvida de que a manifestação\n10  falada é a linguagem primeira, é a linguagem\n11  natural, que prescinde das tábuas e dos sulcos\n12  que um dia os homens inventaram para\n13  cumprir desígnios que foram sendo\n14  estabelecidos, para o bem e para o mal.\n15  Nas sagas que cantou, Homero distinguia\n16  heróis da palavra, heróis que eram os homens\n17  de fala forte, de fala efetiva, de fala eficiente.\n18  Assim como havia heróis excelentes na ação,\n19  havia aqueles excelentes na palavra (porque,\n20  para o épico, excelente em tudo só Zeus!). E\n21  entre eles Homero ressalta muito\n22  significativamente a figura do velho conselheiro\n23  Nestor, sempre à parte dos combates, mas\n24  dono de palavras sábias que dirigiam rumos\n25  das ações. Ele ressalta, entre todos – no foco\n26  da epopeia – , a figura de Odisseu/Ulisses, que\n27  nunca foi cantado como herói de combate\n28  renhido, mas que foi o senhor das palavras\n29  astutas que construíram a\n30  Odisseia.\n31  Hoje a força da palavra falada é a mesma,\n32  nada mudou, na história da humanidade,\n33  quanto ao exercício natural da capacidade que\n34  o humano tem de falar e quanto à destinação\n35  natural desse exercício. Mas, que diferença!!\n36  E vem agora o lado prático dessa conversa\n37  inicial: sem discussão, pode-se dizer que a\n38  palavra escrita é sustentáculo da cultura,\n39  embora não ouse supor que as sociedades\n40  ágrafas sejam excluídas da noção de “cultura”,\n41  e que os textos de Homero, que então eram\n42  apenas cantados, não tenham sido sustentáculo\n43  de cultura no mundo grego, exatamente por\n44  onde chegaram ao registro escrito.\n45  Diz Verissimo que a palavr a escrita “dá\n46  permanência à linguagem”, e isso se\n47  comprovaria, banalmente, no fato de que hoje\n48  os versos de Homero nos chegam somente\n49  cravados em folha de papel ou em tela de\n50  computador. Mas com certeza o cronista, que\n51  não esqueceu a permanência do texto oral de\n52  Homero, também não terá esquecido que, já\n53  há algum tempo, gravam-se falas, e que,\n54  portanto, a tecnologia humana já soube dar\n55  registro permanente também à palavra falada.\n56  Ocorre que a permanência de que fala\n57  Verissimo é outra: acima do fato de que a\n58  escrita representa um registro concreto\n59  permanente, está o fato de que ela leva a\n60  palavra a “outro domínio”. A palavra falada\n61  povoa um domínio que, já por funcionar\n62  automaticamente segundo o\n63  software que\n64  trouxemos à vida com a vida, não desvenda\n65  todos os sortilégios nos quais entramos quando\n66  complicamos o viver. Que digam os versos dos\n67  poetas que no geral se produzem no suporte\n68  gráfico e assim nos chegam (no papel ou em\n69  tela do monitor, insisto), mas vêm carregados\n70  da melodia que lhes dá sentido, e por aí nos\n71  transportam a um mundo particularmente mágico\n72  a que passamos a pertencer com a leitura!!!\n73  Este é, por si, o mundo da palavra mágica!!\n74  E chegamos à função da escola nesse\n75  mundo da mágica da linguagem. Se, como diz\n76  Veri ssimo, a escrita traz o preço de “ro ubar a\n77  palavra à sua vulgaridade democrática”, cabe\n78  aos professores, que são aqueles ........ é dado\n79  levar às gerações a força da linguagem e a\n80  força da cultura reverter o processo e reverter\n81  o argumento: cabe-lhes valorizar a democrática\n82  palavra falada, sim, mas sua missão muito\n83  particular é\n84  vulgarizar democraticamente a\n85  palavra (escrita) dos livros sem tirar-lhes o\n86  sortilégio: acreditemos ou não em sortilégios...\n87  Adaptado de: MOURA NEVES, M.H. Introdução.\n88  A\n89  gramática do português revelada em textos. São\n90  Paulo: Editora da Unesp, 2018.\n```\n\n---\n\nConsidere as seguintes afirmações sobre algumas das ideias expressas no texto.\n\nI - O texto aborda a relação entre as palavras falada e escrita na sociedade, a partir da noção de\n\nvulgaridade democrática.\n\nII - O texto afirma que a escola deve se centrar somente na escrita para, via sortilégio da leitura, dar\n\nacesso ao mundo da palavra mágica.\n\nIII- O texto apresenta as relações entre as palavras falada e escrita, a partir do lugar de cada uma na\n\ncultura.\n\nQuais estão corretas?",
       "alternatives": [
         "Apenas I.",
         "Apenas II.",
@@ -74,8 +74,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-03",
@@ -84,7 +84,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–9):**\n\nNo momento em que abrimos um livro nos\n\npomos no reino da palavra escrita,\n\ncompartilhando desse sortilégio ........ fala\n\nVerissimo no texto\nSinais mortíferos, dessa\n\nmágica de sinais gravados ........ une as\n\nmentes das quais saíram sinais, e outros sinais,\n\ne outros sinais...\n\nNinguém duvida de que a manifestação\n\nfalada é a linguagem primeira, é a linguagem\n\nnatural, que prescinde das tábuas e dos sulcos\n\nque um dia os homens inventaram para\n\ncumprir desígnios que foram sendo\n\nestabelecidos, para o bem e para o mal.\n\nNas sagas que cantou, Homero distinguia\n\nheróis da palavra, heróis que eram os homens\n\nde fala forte, de fala efetiva, de fala eficiente.\n\nAssim como havia heróis excelentes na ação,\n\nhavia aqueles excelentes na palavra (porque,\n\npara o épico, excelente em tudo só Zeus!). E\n\nentre eles Homero ressalta muito\n\nsignificativamente a figura do velho conselheiro\n\nNestor, sempre à parte dos combates, mas\n\ndono de palavras sábias que dirigiam rumos\n\ndas ações. Ele ressalta, entre todos – no foco\n\nda epopeia – , a figura de Odisseu/Ulisses, que\n\nnunca foi cantado como herói de combate\n\nrenhido, mas que foi o senhor das palavras\n\nastutas que construíram a\nOdisseia.\n\nHoje a força da palavra falada é a mesma,\n\nnada mudou, na história da humanidade,\n\nquanto ao exercício natural da capacidade que\n\no humano tem de falar e quanto à destinação\n\nnatural desse exercício. Mas, que diferença!!\n\nE vem agora o lado prático dessa conversa\n\ninicial: sem discussão, pode-se dizer que a\n\npalavra escrita é sustentáculo da cultura,\n\nembora não ouse supor que as sociedades\n\nágrafas sejam excluídas da noção de “cultura”,\n\ne que os textos de Homero, que então eram\n\napenas cantados, não tenham sido sustentáculo\n\nde cultura no mundo grego, exatamente por\n\nonde chegaram ao registro escrito.\n\nDiz Verissimo que a palavr a escrita “dá\n\npermanência à linguagem”, e isso se\n\ncomprovaria, banalmente, no fato de que hoje\n\nos versos de Homero nos chegam somente\n\ncravados em folha de papel ou em tela de\n\ncomputador. Mas com certeza o cronista, que\n\nnão esqueceu a permanência do texto oral de\n\nHomero, também não terá esquecido que, já\n\nhá algum tempo, gravam-se falas, e que,\n\nportanto, a tecnologia humana já soube dar\n\nregistro permanente também à palavra falada.\n\nOcorre que a permanência de que fala\n\nVerissimo é outra: acima do fato de que a\n\nescrita representa um registro concreto\n\npermanente, está o fato de que ela leva a\n\npalavra a “outro domínio”. A palavra falada\n\npovoa um domínio que, já por funcionar\n\nautomaticamente segundo o\nsoftware que\n\ntrouxemos à vida com a vida, não desvenda\n\ntodos os sortilégios nos quais entramos quando\n\ncomplicamos o viver. Que digam os versos dos\n\npoetas que no geral se produzem no suporte\n\ngráfico e assim nos chegam (no papel ou em\n\ntela do monitor, insisto), mas vêm carregados\n\nda melodia que lhes dá sentido, e por aí nos\n\ntransportam a um mundo particularmente mágico\n\na que passamos a pertencer com a leitura!!!\n\nEste é, por si, o mundo da palavra mágica!!\n\nE chegamos à função da escola nesse\n\nmundo da mágica da linguagem. Se, como diz\n\nVeri ssimo, a escrita traz o preço de “ro ubar a\n\npalavra à sua vulgaridade democrática”, cabe\n\naos professores, que são aqueles ........ é dado\n\nlevar às gerações a força da linguagem e a\n\nforça da cultura reverter o processo e reverter\n\no argumento: cabe-lhes valorizar a democrática\n\npalavra falada, sim, mas sua missão muito\n\nparticular é\nvulgarizar democraticamente a\n\npalavra (escrita) dos livros sem tirar-lhes o\n\nsortilégio: acreditemos ou não em sortilégios...\n\nAdaptado de: MOURA NEVES, M.H. Introdução.\nA\n\ngramática do português revelada em textos. São\n\nPaulo: Editora da Unesp, 2018.\n\n---\n\nAssinale a alternativa que apresenta sinônimos adequados para as palavras\nsortilégio (l. 03),\n\ndesígnios (l. 12) e\nágrafas (l. 38), respectivamente, conforme foram empregadas no texto.",
+      "statementMd": "**Texto-base (questões 1–9):**\n\n```\n01  No momento em que abrimos um livro nos\n02  pomos no reino da palavra escrita,\n03  compartilhando desse sortilégio ........ fala\n04  Verissimo no texto\n05  Sinais mortíferos, dessa\n06  mágica de sinais gravados ........ une as\n07  mentes das quais saíram sinais, e outros sinais,\n08  e outros sinais...\n09  Ninguém duvida de que a manifestação\n10  falada é a linguagem primeira, é a linguagem\n11  natural, que prescinde das tábuas e dos sulcos\n12  que um dia os homens inventaram para\n13  cumprir desígnios que foram sendo\n14  estabelecidos, para o bem e para o mal.\n15  Nas sagas que cantou, Homero distinguia\n16  heróis da palavra, heróis que eram os homens\n17  de fala forte, de fala efetiva, de fala eficiente.\n18  Assim como havia heróis excelentes na ação,\n19  havia aqueles excelentes na palavra (porque,\n20  para o épico, excelente em tudo só Zeus!). E\n21  entre eles Homero ressalta muito\n22  significativamente a figura do velho conselheiro\n23  Nestor, sempre à parte dos combates, mas\n24  dono de palavras sábias que dirigiam rumos\n25  das ações. Ele ressalta, entre todos – no foco\n26  da epopeia – , a figura de Odisseu/Ulisses, que\n27  nunca foi cantado como herói de combate\n28  renhido, mas que foi o senhor das palavras\n29  astutas que construíram a\n30  Odisseia.\n31  Hoje a força da palavra falada é a mesma,\n32  nada mudou, na história da humanidade,\n33  quanto ao exercício natural da capacidade que\n34  o humano tem de falar e quanto à destinação\n35  natural desse exercício. Mas, que diferença!!\n36  E vem agora o lado prático dessa conversa\n37  inicial: sem discussão, pode-se dizer que a\n38  palavra escrita é sustentáculo da cultura,\n39  embora não ouse supor que as sociedades\n40  ágrafas sejam excluídas da noção de “cultura”,\n41  e que os textos de Homero, que então eram\n42  apenas cantados, não tenham sido sustentáculo\n43  de cultura no mundo grego, exatamente por\n44  onde chegaram ao registro escrito.\n45  Diz Verissimo que a palavr a escrita “dá\n46  permanência à linguagem”, e isso se\n47  comprovaria, banalmente, no fato de que hoje\n48  os versos de Homero nos chegam somente\n49  cravados em folha de papel ou em tela de\n50  computador. Mas com certeza o cronista, que\n51  não esqueceu a permanência do texto oral de\n52  Homero, também não terá esquecido que, já\n53  há algum tempo, gravam-se falas, e que,\n54  portanto, a tecnologia humana já soube dar\n55  registro permanente também à palavra falada.\n56  Ocorre que a permanência de que fala\n57  Verissimo é outra: acima do fato de que a\n58  escrita representa um registro concreto\n59  permanente, está o fato de que ela leva a\n60  palavra a “outro domínio”. A palavra falada\n61  povoa um domínio que, já por funcionar\n62  automaticamente segundo o\n63  software que\n64  trouxemos à vida com a vida, não desvenda\n65  todos os sortilégios nos quais entramos quando\n66  complicamos o viver. Que digam os versos dos\n67  poetas que no geral se produzem no suporte\n68  gráfico e assim nos chegam (no papel ou em\n69  tela do monitor, insisto), mas vêm carregados\n70  da melodia que lhes dá sentido, e por aí nos\n71  transportam a um mundo particularmente mágico\n72  a que passamos a pertencer com a leitura!!!\n73  Este é, por si, o mundo da palavra mágica!!\n74  E chegamos à função da escola nesse\n75  mundo da mágica da linguagem. Se, como diz\n76  Veri ssimo, a escrita traz o preço de “ro ubar a\n77  palavra à sua vulgaridade democrática”, cabe\n78  aos professores, que são aqueles ........ é dado\n79  levar às gerações a força da linguagem e a\n80  força da cultura reverter o processo e reverter\n81  o argumento: cabe-lhes valorizar a democrática\n82  palavra falada, sim, mas sua missão muito\n83  particular é\n84  vulgarizar democraticamente a\n85  palavra (escrita) dos livros sem tirar-lhes o\n86  sortilégio: acreditemos ou não em sortilégios...\n87  Adaptado de: MOURA NEVES, M.H. Introdução.\n88  A\n89  gramática do português revelada em textos. São\n90  Paulo: Editora da Unesp, 2018.\n```\n\n---\n\nAssinale a alternativa que apresenta sinônimos adequados para as palavras\nsortilégio (l. 03),\n\ndesígnios (l. 12) e\nágrafas (l. 38), respectivamente, conforme foram empregadas no texto.",
       "alternatives": [
         "sorte – desejos – agrárias",
         "fascínio – destinos – bárbaras",
@@ -98,8 +98,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-04",
@@ -108,7 +108,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–9):**\n\nNo momento em que abrimos um livro nos\n\npomos no reino da palavra escrita,\n\ncompartilhando desse sortilégio ........ fala\n\nVerissimo no texto\nSinais mortíferos, dessa\n\nmágica de sinais gravados ........ une as\n\nmentes das quais saíram sinais, e outros sinais,\n\ne outros sinais...\n\nNinguém duvida de que a manifestação\n\nfalada é a linguagem primeira, é a linguagem\n\nnatural, que prescinde das tábuas e dos sulcos\n\nque um dia os homens inventaram para\n\ncumprir desígnios que foram sendo\n\nestabelecidos, para o bem e para o mal.\n\nNas sagas que cantou, Homero distinguia\n\nheróis da palavra, heróis que eram os homens\n\nde fala forte, de fala efetiva, de fala eficiente.\n\nAssim como havia heróis excelentes na ação,\n\nhavia aqueles excelentes na palavra (porque,\n\npara o épico, excelente em tudo só Zeus!). E\n\nentre eles Homero ressalta muito\n\nsignificativamente a figura do velho conselheiro\n\nNestor, sempre à parte dos combates, mas\n\ndono de palavras sábias que dirigiam rumos\n\ndas ações. Ele ressalta, entre todos – no foco\n\nda epopeia – , a figura de Odisseu/Ulisses, que\n\nnunca foi cantado como herói de combate\n\nrenhido, mas que foi o senhor das palavras\n\nastutas que construíram a\nOdisseia.\n\nHoje a força da palavra falada é a mesma,\n\nnada mudou, na história da humanidade,\n\nquanto ao exercício natural da capacidade que\n\no humano tem de falar e quanto à destinação\n\nnatural desse exercício. Mas, que diferença!!\n\nE vem agora o lado prático dessa conversa\n\ninicial: sem discussão, pode-se dizer que a\n\npalavra escrita é sustentáculo da cultura,\n\nembora não ouse supor que as sociedades\n\nágrafas sejam excluídas da noção de “cultura”,\n\ne que os textos de Homero, que então eram\n\napenas cantados, não tenham sido sustentáculo\n\nde cultura no mundo grego, exatamente por\n\nonde chegaram ao registro escrito.\n\nDiz Verissimo que a palavr a escrita “dá\n\npermanência à linguagem”, e isso se\n\ncomprovaria, banalmente, no fato de que hoje\n\nos versos de Homero nos chegam somente\n\ncravados em folha de papel ou em tela de\n\ncomputador. Mas com certeza o cronista, que\n\nnão esqueceu a permanência do texto oral de\n\nHomero, também não terá esquecido que, já\n\nhá algum tempo, gravam-se falas, e que,\n\nportanto, a tecnologia humana já soube dar\n\nregistro permanente também à palavra falada.\n\nOcorre que a permanência de que fala\n\nVerissimo é outra: acima do fato de que a\n\nescrita representa um registro concreto\n\npermanente, está o fato de que ela leva a\n\npalavra a “outro domínio”. A palavra falada\n\npovoa um domínio que, já por funcionar\n\nautomaticamente segundo o\nsoftware que\n\ntrouxemos à vida com a vida, não desvenda\n\ntodos os sortilégios nos quais entramos quando\n\ncomplicamos o viver. Que digam os versos dos\n\npoetas que no geral se produzem no suporte\n\ngráfico e assim nos chegam (no papel ou em\n\ntela do monitor, insisto), mas vêm carregados\n\nda melodia que lhes dá sentido, e por aí nos\n\ntransportam a um mundo particularmente mágico\n\na que passamos a pertencer com a leitura!!!\n\nEste é, por si, o mundo da palavra mágica!!\n\nE chegamos à função da escola nesse\n\nmundo da mágica da linguagem. Se, como diz\n\nVeri ssimo, a escrita traz o preço de “ro ubar a\n\npalavra à sua vulgaridade democrática”, cabe\n\naos professores, que são aqueles ........ é dado\n\nlevar às gerações a força da linguagem e a\n\nforça da cultura reverter o processo e reverter\n\no argumento: cabe-lhes valorizar a democrática\n\npalavra falada, sim, mas sua missão muito\n\nparticular é\nvulgarizar democraticamente a\n\npalavra (escrita) dos livros sem tirar-lhes o\n\nsortilégio: acreditemos ou não em sortilégios...\n\nAdaptado de: MOURA NEVES, M.H. Introdução.\nA\n\ngramática do português revelada em textos. São\n\nPaulo: Editora da Unesp, 2018.\n\n---\n\nAssinale a alternativa que apresenta relações contextualmente adequadas para\nAssim como (l. 17),\n\nportanto (l. 52) e\nSe (l. 72), nesta ordem.",
+      "statementMd": "**Texto-base (questões 1–9):**\n\n```\n01  No momento em que abrimos um livro nos\n02  pomos no reino da palavra escrita,\n03  compartilhando desse sortilégio ........ fala\n04  Verissimo no texto\n05  Sinais mortíferos, dessa\n06  mágica de sinais gravados ........ une as\n07  mentes das quais saíram sinais, e outros sinais,\n08  e outros sinais...\n09  Ninguém duvida de que a manifestação\n10  falada é a linguagem primeira, é a linguagem\n11  natural, que prescinde das tábuas e dos sulcos\n12  que um dia os homens inventaram para\n13  cumprir desígnios que foram sendo\n14  estabelecidos, para o bem e para o mal.\n15  Nas sagas que cantou, Homero distinguia\n16  heróis da palavra, heróis que eram os homens\n17  de fala forte, de fala efetiva, de fala eficiente.\n18  Assim como havia heróis excelentes na ação,\n19  havia aqueles excelentes na palavra (porque,\n20  para o épico, excelente em tudo só Zeus!). E\n21  entre eles Homero ressalta muito\n22  significativamente a figura do velho conselheiro\n23  Nestor, sempre à parte dos combates, mas\n24  dono de palavras sábias que dirigiam rumos\n25  das ações. Ele ressalta, entre todos – no foco\n26  da epopeia – , a figura de Odisseu/Ulisses, que\n27  nunca foi cantado como herói de combate\n28  renhido, mas que foi o senhor das palavras\n29  astutas que construíram a\n30  Odisseia.\n31  Hoje a força da palavra falada é a mesma,\n32  nada mudou, na história da humanidade,\n33  quanto ao exercício natural da capacidade que\n34  o humano tem de falar e quanto à destinação\n35  natural desse exercício. Mas, que diferença!!\n36  E vem agora o lado prático dessa conversa\n37  inicial: sem discussão, pode-se dizer que a\n38  palavra escrita é sustentáculo da cultura,\n39  embora não ouse supor que as sociedades\n40  ágrafas sejam excluídas da noção de “cultura”,\n41  e que os textos de Homero, que então eram\n42  apenas cantados, não tenham sido sustentáculo\n43  de cultura no mundo grego, exatamente por\n44  onde chegaram ao registro escrito.\n45  Diz Verissimo que a palavr a escrita “dá\n46  permanência à linguagem”, e isso se\n47  comprovaria, banalmente, no fato de que hoje\n48  os versos de Homero nos chegam somente\n49  cravados em folha de papel ou em tela de\n50  computador. Mas com certeza o cronista, que\n51  não esqueceu a permanência do texto oral de\n52  Homero, também não terá esquecido que, já\n53  há algum tempo, gravam-se falas, e que,\n54  portanto, a tecnologia humana já soube dar\n55  registro permanente também à palavra falada.\n56  Ocorre que a permanência de que fala\n57  Verissimo é outra: acima do fato de que a\n58  escrita representa um registro concreto\n59  permanente, está o fato de que ela leva a\n60  palavra a “outro domínio”. A palavra falada\n61  povoa um domínio que, já por funcionar\n62  automaticamente segundo o\n63  software que\n64  trouxemos à vida com a vida, não desvenda\n65  todos os sortilégios nos quais entramos quando\n66  complicamos o viver. Que digam os versos dos\n67  poetas que no geral se produzem no suporte\n68  gráfico e assim nos chegam (no papel ou em\n69  tela do monitor, insisto), mas vêm carregados\n70  da melodia que lhes dá sentido, e por aí nos\n71  transportam a um mundo particularmente mágico\n72  a que passamos a pertencer com a leitura!!!\n73  Este é, por si, o mundo da palavra mágica!!\n74  E chegamos à função da escola nesse\n75  mundo da mágica da linguagem. Se, como diz\n76  Veri ssimo, a escrita traz o preço de “ro ubar a\n77  palavra à sua vulgaridade democrática”, cabe\n78  aos professores, que são aqueles ........ é dado\n79  levar às gerações a força da linguagem e a\n80  força da cultura reverter o processo e reverter\n81  o argumento: cabe-lhes valorizar a democrática\n82  palavra falada, sim, mas sua missão muito\n83  particular é\n84  vulgarizar democraticamente a\n85  palavra (escrita) dos livros sem tirar-lhes o\n86  sortilégio: acreditemos ou não em sortilégios...\n87  Adaptado de: MOURA NEVES, M.H. Introdução.\n88  A\n89  gramática do português revelada em textos. São\n90  Paulo: Editora da Unesp, 2018.\n```\n\n---\n\nAssinale a alternativa que apresenta relações contextualmente adequadas para\nAssim como (l. 17),\n\nportanto (l. 52) e\nSe (l. 72), nesta ordem.",
       "alternatives": [
         "causalidade – explicação – condição",
         "comparação – conclusão – condição",
@@ -122,8 +122,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-05",
@@ -132,7 +132,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–9):**\n\nNo momento em que abrimos um livro nos\n\npomos no reino da palavra escrita,\n\ncompartilhando desse sortilégio ........ fala\n\nVerissimo no texto\nSinais mortíferos, dessa\n\nmágica de sinais gravados ........ une as\n\nmentes das quais saíram sinais, e outros sinais,\n\ne outros sinais...\n\nNinguém duvida de que a manifestação\n\nfalada é a linguagem primeira, é a linguagem\n\nnatural, que prescinde das tábuas e dos sulcos\n\nque um dia os homens inventaram para\n\ncumprir desígnios que foram sendo\n\nestabelecidos, para o bem e para o mal.\n\nNas sagas que cantou, Homero distinguia\n\nheróis da palavra, heróis que eram os homens\n\nde fala forte, de fala efetiva, de fala eficiente.\n\nAssim como havia heróis excelentes na ação,\n\nhavia aqueles excelentes na palavra (porque,\n\npara o épico, excelente em tudo só Zeus!). E\n\nentre eles Homero ressalta muito\n\nsignificativamente a figura do velho conselheiro\n\nNestor, sempre à parte dos combates, mas\n\ndono de palavras sábias que dirigiam rumos\n\ndas ações. Ele ressalta, entre todos – no foco\n\nda epopeia – , a figura de Odisseu/Ulisses, que\n\nnunca foi cantado como herói de combate\n\nrenhido, mas que foi o senhor das palavras\n\nastutas que construíram a\nOdisseia.\n\nHoje a força da palavra falada é a mesma,\n\nnada mudou, na história da humanidade,\n\nquanto ao exercício natural da capacidade que\n\no humano tem de falar e quanto à destinação\n\nnatural desse exercício. Mas, que diferença!!\n\nE vem agora o lado prático dessa conversa\n\ninicial: sem discussão, pode-se dizer que a\n\npalavra escrita é sustentáculo da cultura,\n\nembora não ouse supor que as sociedades\n\nágrafas sejam excluídas da noção de “cultura”,\n\ne que os textos de Homero, que então eram\n\napenas cantados, não tenham sido sustentáculo\n\nde cultura no mundo grego, exatamente por\n\nonde chegaram ao registro escrito.\n\nDiz Verissimo que a palavr a escrita “dá\n\npermanência à linguagem”, e isso se\n\ncomprovaria, banalmente, no fato de que hoje\n\nos versos de Homero nos chegam somente\n\ncravados em folha de papel ou em tela de\n\ncomputador. Mas com certeza o cronista, que\n\nnão esqueceu a permanência do texto oral de\n\nHomero, também não terá esquecido que, já\n\nhá algum tempo, gravam-se falas, e que,\n\nportanto, a tecnologia humana já soube dar\n\nregistro permanente também à palavra falada.\n\nOcorre que a permanência de que fala\n\nVerissimo é outra: acima do fato de que a\n\nescrita representa um registro concreto\n\npermanente, está o fato de que ela leva a\n\npalavra a “outro domínio”. A palavra falada\n\npovoa um domínio que, já por funcionar\n\nautomaticamente segundo o\nsoftware que\n\ntrouxemos à vida com a vida, não desvenda\n\ntodos os sortilégios nos quais entramos quando\n\ncomplicamos o viver. Que digam os versos dos\n\npoetas que no geral se produzem no suporte\n\ngráfico e assim nos chegam (no papel ou em\n\ntela do monitor, insisto), mas vêm carregados\n\nda melodia que lhes dá sentido, e por aí nos\n\ntransportam a um mundo particularmente mágico\n\na que passamos a pertencer com a leitura!!!\n\nEste é, por si, o mundo da palavra mágica!!\n\nE chegamos à função da escola nesse\n\nmundo da mágica da linguagem. Se, como diz\n\nVeri ssimo, a escrita traz o preço de “ro ubar a\n\npalavra à sua vulgaridade democrática”, cabe\n\naos professores, que são aqueles ........ é dado\n\nlevar às gerações a força da linguagem e a\n\nforça da cultura reverter o processo e reverter\n\no argumento: cabe-lhes valorizar a democrática\n\npalavra falada, sim, mas sua missão muito\n\nparticular é\nvulgarizar democraticamente a\n\npalavra (escrita) dos livros sem tirar-lhes o\n\nsortilégio: acreditemos ou não em sortilégios...\n\nAdaptado de: MOURA NEVES, M.H. Introdução.\nA\n\ngramática do português revelada em textos. São\n\nPaulo: Editora da Unesp, 2018.\n\n---\n\nConsidere as seguintes sugestões de alterações na pontuação do texto.\n\nI - Inserção de uma vírgula antes de\nressalta (l. 20).\n\nII - Substituição dos travessões das linhas 24 e 25 por parênteses.\n\nIII- Eliminação das vírgulas depois de\nHomero (l. 39) e depois de\ncantados (l. 40).\n\nQuais dessas sugestões poderiam ser efetuadas sem alterar o sentido original da frase e mantendo-\n\nse sua correção gramatical?",
+      "statementMd": "**Texto-base (questões 1–9):**\n\n```\n01  No momento em que abrimos um livro nos\n02  pomos no reino da palavra escrita,\n03  compartilhando desse sortilégio ........ fala\n04  Verissimo no texto\n05  Sinais mortíferos, dessa\n06  mágica de sinais gravados ........ une as\n07  mentes das quais saíram sinais, e outros sinais,\n08  e outros sinais...\n09  Ninguém duvida de que a manifestação\n10  falada é a linguagem primeira, é a linguagem\n11  natural, que prescinde das tábuas e dos sulcos\n12  que um dia os homens inventaram para\n13  cumprir desígnios que foram sendo\n14  estabelecidos, para o bem e para o mal.\n15  Nas sagas que cantou, Homero distinguia\n16  heróis da palavra, heróis que eram os homens\n17  de fala forte, de fala efetiva, de fala eficiente.\n18  Assim como havia heróis excelentes na ação,\n19  havia aqueles excelentes na palavra (porque,\n20  para o épico, excelente em tudo só Zeus!). E\n21  entre eles Homero ressalta muito\n22  significativamente a figura do velho conselheiro\n23  Nestor, sempre à parte dos combates, mas\n24  dono de palavras sábias que dirigiam rumos\n25  das ações. Ele ressalta, entre todos – no foco\n26  da epopeia – , a figura de Odisseu/Ulisses, que\n27  nunca foi cantado como herói de combate\n28  renhido, mas que foi o senhor das palavras\n29  astutas que construíram a\n30  Odisseia.\n31  Hoje a força da palavra falada é a mesma,\n32  nada mudou, na história da humanidade,\n33  quanto ao exercício natural da capacidade que\n34  o humano tem de falar e quanto à destinação\n35  natural desse exercício. Mas, que diferença!!\n36  E vem agora o lado prático dessa conversa\n37  inicial: sem discussão, pode-se dizer que a\n38  palavra escrita é sustentáculo da cultura,\n39  embora não ouse supor que as sociedades\n40  ágrafas sejam excluídas da noção de “cultura”,\n41  e que os textos de Homero, que então eram\n42  apenas cantados, não tenham sido sustentáculo\n43  de cultura no mundo grego, exatamente por\n44  onde chegaram ao registro escrito.\n45  Diz Verissimo que a palavr a escrita “dá\n46  permanência à linguagem”, e isso se\n47  comprovaria, banalmente, no fato de que hoje\n48  os versos de Homero nos chegam somente\n49  cravados em folha de papel ou em tela de\n50  computador. Mas com certeza o cronista, que\n51  não esqueceu a permanência do texto oral de\n52  Homero, também não terá esquecido que, já\n53  há algum tempo, gravam-se falas, e que,\n54  portanto, a tecnologia humana já soube dar\n55  registro permanente também à palavra falada.\n56  Ocorre que a permanência de que fala\n57  Verissimo é outra: acima do fato de que a\n58  escrita representa um registro concreto\n59  permanente, está o fato de que ela leva a\n60  palavra a “outro domínio”. A palavra falada\n61  povoa um domínio que, já por funcionar\n62  automaticamente segundo o\n63  software que\n64  trouxemos à vida com a vida, não desvenda\n65  todos os sortilégios nos quais entramos quando\n66  complicamos o viver. Que digam os versos dos\n67  poetas que no geral se produzem no suporte\n68  gráfico e assim nos chegam (no papel ou em\n69  tela do monitor, insisto), mas vêm carregados\n70  da melodia que lhes dá sentido, e por aí nos\n71  transportam a um mundo particularmente mágico\n72  a que passamos a pertencer com a leitura!!!\n73  Este é, por si, o mundo da palavra mágica!!\n74  E chegamos à função da escola nesse\n75  mundo da mágica da linguagem. Se, como diz\n76  Veri ssimo, a escrita traz o preço de “ro ubar a\n77  palavra à sua vulgaridade democrática”, cabe\n78  aos professores, que são aqueles ........ é dado\n79  levar às gerações a força da linguagem e a\n80  força da cultura reverter o processo e reverter\n81  o argumento: cabe-lhes valorizar a democrática\n82  palavra falada, sim, mas sua missão muito\n83  particular é\n84  vulgarizar democraticamente a\n85  palavra (escrita) dos livros sem tirar-lhes o\n86  sortilégio: acreditemos ou não em sortilégios...\n87  Adaptado de: MOURA NEVES, M.H. Introdução.\n88  A\n89  gramática do português revelada em textos. São\n90  Paulo: Editora da Unesp, 2018.\n```\n\n---\n\nConsidere as seguintes sugestões de alterações na pontuação do texto.\n\nI - Inserção de uma vírgula antes de\nressalta (l. 20).\n\nII - Substituição dos travessões das linhas 24 e 25 por parênteses.\n\nIII- Eliminação das vírgulas depois de\nHomero (l. 39) e depois de\ncantados (l. 40).\n\nQuais dessas sugestões poderiam ser efetuadas sem alterar o sentido original da frase e mantendo-\n\nse sua correção gramatical?",
       "alternatives": [
         "Apenas I.",
         "Apenas II.",
@@ -146,8 +146,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-06",
@@ -156,7 +156,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–9):**\n\nNo momento em que abrimos um livro nos\n\npomos no reino da palavra escrita,\n\ncompartilhando desse sortilégio ........ fala\n\nVerissimo no texto\nSinais mortíferos, dessa\n\nmágica de sinais gravados ........ une as\n\nmentes das quais saíram sinais, e outros sinais,\n\ne outros sinais...\n\nNinguém duvida de que a manifestação\n\nfalada é a linguagem primeira, é a linguagem\n\nnatural, que prescinde das tábuas e dos sulcos\n\nque um dia os homens inventaram para\n\ncumprir desígnios que foram sendo\n\nestabelecidos, para o bem e para o mal.\n\nNas sagas que cantou, Homero distinguia\n\nheróis da palavra, heróis que eram os homens\n\nde fala forte, de fala efetiva, de fala eficiente.\n\nAssim como havia heróis excelentes na ação,\n\nhavia aqueles excelentes na palavra (porque,\n\npara o épico, excelente em tudo só Zeus!). E\n\nentre eles Homero ressalta muito\n\nsignificativamente a figura do velho conselheiro\n\nNestor, sempre à parte dos combates, mas\n\ndono de palavras sábias que dirigiam rumos\n\ndas ações. Ele ressalta, entre todos – no foco\n\nda epopeia – , a figura de Odisseu/Ulisses, que\n\nnunca foi cantado como herói de combate\n\nrenhido, mas que foi o senhor das palavras\n\nastutas que construíram a\nOdisseia.\n\nHoje a força da palavra falada é a mesma,\n\nnada mudou, na história da humanidade,\n\nquanto ao exercício natural da capacidade que\n\no humano tem de falar e quanto à destinação\n\nnatural desse exercício. Mas, que diferença!!\n\nE vem agora o lado prático dessa conversa\n\ninicial: sem discussão, pode-se dizer que a\n\npalavra escrita é sustentáculo da cultura,\n\nembora não ouse supor que as sociedades\n\nágrafas sejam excluídas da noção de “cultura”,\n\ne que os textos de Homero, que então eram\n\napenas cantados, não tenham sido sustentáculo\n\nde cultura no mundo grego, exatamente por\n\nonde chegaram ao registro escrito.\n\nDiz Verissimo que a palavr a escrita “dá\n\npermanência à linguagem”, e isso se\n\ncomprovaria, banalmente, no fato de que hoje\n\nos versos de Homero nos chegam somente\n\ncravados em folha de papel ou em tela de\n\ncomputador. Mas com certeza o cronista, que\n\nnão esqueceu a permanência do texto oral de\n\nHomero, também não terá esquecido que, já\n\nhá algum tempo, gravam-se falas, e que,\n\nportanto, a tecnologia humana já soube dar\n\nregistro permanente também à palavra falada.\n\nOcorre que a permanência de que fala\n\nVerissimo é outra: acima do fato de que a\n\nescrita representa um registro concreto\n\npermanente, está o fato de que ela leva a\n\npalavra a “outro domínio”. A palavra falada\n\npovoa um domínio que, já por funcionar\n\nautomaticamente segundo o\nsoftware que\n\ntrouxemos à vida com a vida, não desvenda\n\ntodos os sortilégios nos quais entramos quando\n\ncomplicamos o viver. Que digam os versos dos\n\npoetas que no geral se produzem no suporte\n\ngráfico e assim nos chegam (no papel ou em\n\ntela do monitor, insisto), mas vêm carregados\n\nda melodia que lhes dá sentido, e por aí nos\n\ntransportam a um mundo particularmente mágico\n\na que passamos a pertencer com a leitura!!!\n\nEste é, por si, o mundo da palavra mágica!!\n\nE chegamos à função da escola nesse\n\nmundo da mágica da linguagem. Se, como diz\n\nVeri ssimo, a escrita traz o preço de “ro ubar a\n\npalavra à sua vulgaridade democrática”, cabe\n\naos professores, que são aqueles ........ é dado\n\nlevar às gerações a força da linguagem e a\n\nforça da cultura reverter o processo e reverter\n\no argumento: cabe-lhes valorizar a democrática\n\npalavra falada, sim, mas sua missão muito\n\nparticular é\nvulgarizar democraticamente a\n\npalavra (escrita) dos livros sem tirar-lhes o\n\nsortilégio: acreditemos ou não em sortilégios...\n\nAdaptado de: MOURA NEVES, M.H. Introdução.\nA\n\ngramática do português revelada em textos. São\n\nPaulo: Editora da Unesp, 2018.\n\n---\n\nAssinale com V (verdadeiro) ou F (falso) as afirmações a seguir.\n\n( ) A autora usa os parênteses (l. 18-19) para fazer uma alteração no argumento utilizado na\n\nsequência anterior.\n\n( ) A autora usa a expressão\nE vem agora o lado prático dessa conversa inicial (l. 34-35) para\n\nassinalar ao leitor o momento de inserção de um subtópico relacionado ao tema do texto.\n\n( ) A autora traz dados da cultura grega para argumentar sobre a força da palavra falada.\n\n( ) A autora usa a primeira pessoa do plural para incluir o leitor na sua reflexão sobre o tema do qual trata.\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "statementMd": "**Texto-base (questões 1–9):**\n\n```\n01  No momento em que abrimos um livro nos\n02  pomos no reino da palavra escrita,\n03  compartilhando desse sortilégio ........ fala\n04  Verissimo no texto\n05  Sinais mortíferos, dessa\n06  mágica de sinais gravados ........ une as\n07  mentes das quais saíram sinais, e outros sinais,\n08  e outros sinais...\n09  Ninguém duvida de que a manifestação\n10  falada é a linguagem primeira, é a linguagem\n11  natural, que prescinde das tábuas e dos sulcos\n12  que um dia os homens inventaram para\n13  cumprir desígnios que foram sendo\n14  estabelecidos, para o bem e para o mal.\n15  Nas sagas que cantou, Homero distinguia\n16  heróis da palavra, heróis que eram os homens\n17  de fala forte, de fala efetiva, de fala eficiente.\n18  Assim como havia heróis excelentes na ação,\n19  havia aqueles excelentes na palavra (porque,\n20  para o épico, excelente em tudo só Zeus!). E\n21  entre eles Homero ressalta muito\n22  significativamente a figura do velho conselheiro\n23  Nestor, sempre à parte dos combates, mas\n24  dono de palavras sábias que dirigiam rumos\n25  das ações. Ele ressalta, entre todos – no foco\n26  da epopeia – , a figura de Odisseu/Ulisses, que\n27  nunca foi cantado como herói de combate\n28  renhido, mas que foi o senhor das palavras\n29  astutas que construíram a\n30  Odisseia.\n31  Hoje a força da palavra falada é a mesma,\n32  nada mudou, na história da humanidade,\n33  quanto ao exercício natural da capacidade que\n34  o humano tem de falar e quanto à destinação\n35  natural desse exercício. Mas, que diferença!!\n36  E vem agora o lado prático dessa conversa\n37  inicial: sem discussão, pode-se dizer que a\n38  palavra escrita é sustentáculo da cultura,\n39  embora não ouse supor que as sociedades\n40  ágrafas sejam excluídas da noção de “cultura”,\n41  e que os textos de Homero, que então eram\n42  apenas cantados, não tenham sido sustentáculo\n43  de cultura no mundo grego, exatamente por\n44  onde chegaram ao registro escrito.\n45  Diz Verissimo que a palavr a escrita “dá\n46  permanência à linguagem”, e isso se\n47  comprovaria, banalmente, no fato de que hoje\n48  os versos de Homero nos chegam somente\n49  cravados em folha de papel ou em tela de\n50  computador. Mas com certeza o cronista, que\n51  não esqueceu a permanência do texto oral de\n52  Homero, também não terá esquecido que, já\n53  há algum tempo, gravam-se falas, e que,\n54  portanto, a tecnologia humana já soube dar\n55  registro permanente também à palavra falada.\n56  Ocorre que a permanência de que fala\n57  Verissimo é outra: acima do fato de que a\n58  escrita representa um registro concreto\n59  permanente, está o fato de que ela leva a\n60  palavra a “outro domínio”. A palavra falada\n61  povoa um domínio que, já por funcionar\n62  automaticamente segundo o\n63  software que\n64  trouxemos à vida com a vida, não desvenda\n65  todos os sortilégios nos quais entramos quando\n66  complicamos o viver. Que digam os versos dos\n67  poetas que no geral se produzem no suporte\n68  gráfico e assim nos chegam (no papel ou em\n69  tela do monitor, insisto), mas vêm carregados\n70  da melodia que lhes dá sentido, e por aí nos\n71  transportam a um mundo particularmente mágico\n72  a que passamos a pertencer com a leitura!!!\n73  Este é, por si, o mundo da palavra mágica!!\n74  E chegamos à função da escola nesse\n75  mundo da mágica da linguagem. Se, como diz\n76  Veri ssimo, a escrita traz o preço de “ro ubar a\n77  palavra à sua vulgaridade democrática”, cabe\n78  aos professores, que são aqueles ........ é dado\n79  levar às gerações a força da linguagem e a\n80  força da cultura reverter o processo e reverter\n81  o argumento: cabe-lhes valorizar a democrática\n82  palavra falada, sim, mas sua missão muito\n83  particular é\n84  vulgarizar democraticamente a\n85  palavra (escrita) dos livros sem tirar-lhes o\n86  sortilégio: acreditemos ou não em sortilégios...\n87  Adaptado de: MOURA NEVES, M.H. Introdução.\n88  A\n89  gramática do português revelada em textos. São\n90  Paulo: Editora da Unesp, 2018.\n```\n\n---\n\nAssinale com V (verdadeiro) ou F (falso) as afirmações a seguir.\n\n( ) A autora usa os parênteses (l. 18-19) para fazer uma alteração no argumento utilizado na\n\nsequência anterior.\n\n( ) A autora usa a expressão\nE vem agora o lado prático dessa conversa inicial (l. 34-35) para\n\nassinalar ao leitor o momento de inserção de um subtópico relacionado ao tema do texto.\n\n( ) A autora traz dados da cultura grega para argumentar sobre a força da palavra falada.\n\n( ) A autora usa a primeira pessoa do plural para incluir o leitor na sua reflexão sobre o tema do qual trata.\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": [
         "V – F – F – V.",
         "V – F – V – F.",
@@ -170,8 +170,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-07",
@@ -180,7 +180,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–9):**\n\nNo momento em que abrimos um livro nos\n\npomos no reino da palavra escrita,\n\ncompartilhando desse sortilégio ........ fala\n\nVerissimo no texto\nSinais mortíferos, dessa\n\nmágica de sinais gravados ........ une as\n\nmentes das quais saíram sinais, e outros sinais,\n\ne outros sinais...\n\nNinguém duvida de que a manifestação\n\nfalada é a linguagem primeira, é a linguagem\n\nnatural, que prescinde das tábuas e dos sulcos\n\nque um dia os homens inventaram para\n\ncumprir desígnios que foram sendo\n\nestabelecidos, para o bem e para o mal.\n\nNas sagas que cantou, Homero distinguia\n\nheróis da palavra, heróis que eram os homens\n\nde fala forte, de fala efetiva, de fala eficiente.\n\nAssim como havia heróis excelentes na ação,\n\nhavia aqueles excelentes na palavra (porque,\n\npara o épico, excelente em tudo só Zeus!). E\n\nentre eles Homero ressalta muito\n\nsignificativamente a figura do velho conselheiro\n\nNestor, sempre à parte dos combates, mas\n\ndono de palavras sábias que dirigiam rumos\n\ndas ações. Ele ressalta, entre todos – no foco\n\nda epopeia – , a figura de Odisseu/Ulisses, que\n\nnunca foi cantado como herói de combate\n\nrenhido, mas que foi o senhor das palavras\n\nastutas que construíram a\nOdisseia.\n\nHoje a força da palavra falada é a mesma,\n\nnada mudou, na história da humanidade,\n\nquanto ao exercício natural da capacidade que\n\no humano tem de falar e quanto à destinação\n\nnatural desse exercício. Mas, que diferença!!\n\nE vem agora o lado prático dessa conversa\n\ninicial: sem discussão, pode-se dizer que a\n\npalavra escrita é sustentáculo da cultura,\n\nembora não ouse supor que as sociedades\n\nágrafas sejam excluídas da noção de “cultura”,\n\ne que os textos de Homero, que então eram\n\napenas cantados, não tenham sido sustentáculo\n\nde cultura no mundo grego, exatamente por\n\nonde chegaram ao registro escrito.\n\nDiz Verissimo que a palavr a escrita “dá\n\npermanência à linguagem”, e isso se\n\ncomprovaria, banalmente, no fato de que hoje\n\nos versos de Homero nos chegam somente\n\ncravados em folha de papel ou em tela de\n\ncomputador. Mas com certeza o cronista, que\n\nnão esqueceu a permanência do texto oral de\n\nHomero, também não terá esquecido que, já\n\nhá algum tempo, gravam-se falas, e que,\n\nportanto, a tecnologia humana já soube dar\n\nregistro permanente também à palavra falada.\n\nOcorre que a permanência de que fala\n\nVerissimo é outra: acima do fato de que a\n\nescrita representa um registro concreto\n\npermanente, está o fato de que ela leva a\n\npalavra a “outro domínio”. A palavra falada\n\npovoa um domínio que, já por funcionar\n\nautomaticamente segundo o\nsoftware que\n\ntrouxemos à vida com a vida, não desvenda\n\ntodos os sortilégios nos quais entramos quando\n\ncomplicamos o viver. Que digam os versos dos\n\npoetas que no geral se produzem no suporte\n\ngráfico e assim nos chegam (no papel ou em\n\ntela do monitor, insisto), mas vêm carregados\n\nda melodia que lhes dá sentido, e por aí nos\n\ntransportam a um mundo particularmente mágico\n\na que passamos a pertencer com a leitura!!!\n\nEste é, por si, o mundo da palavra mágica!!\n\nE chegamos à função da escola nesse\n\nmundo da mágica da linguagem. Se, como diz\n\nVeri ssimo, a escrita traz o preço de “ro ubar a\n\npalavra à sua vulgaridade democrática”, cabe\n\naos professores, que são aqueles ........ é dado\n\nlevar às gerações a força da linguagem e a\n\nforça da cultura reverter o processo e reverter\n\no argumento: cabe-lhes valorizar a democrática\n\npalavra falada, sim, mas sua missão muito\n\nparticular é\nvulgarizar democraticamente a\n\npalavra (escrita) dos livros sem tirar-lhes o\n\nsortilégio: acreditemos ou não em sortilégios...\n\nAdaptado de: MOURA NEVES, M.H. Introdução.\nA\n\ngramática do português revelada em textos. São\n\nPaulo: Editora da Unesp, 2018.\n\n---\n\nConsidere as afirmações abaixo, sobre alternativas de reescrita de algumas frases do texto, fazendo\n\nos ajustes necessários dos sinais de pontuação em cada caso.\n\nI - O advérbio\nbanalmente (l. 45) poderia ser deslocado para imediatamente depois de\nHomero (l. 46).\n\nII - O advérbio\nhoje (l. 45) poderia ser deslocado para imediatamente depois de\nchegam (l. 46).\n\nIII- A expressão\ncom certeza (l. 48) poderia ser deslocada para imediatamente depois de\nque (l. 51).\n\nQuais alterações poderiam ser efetuadas sem acarretar mudança de sentido na frase original?",
+      "statementMd": "**Texto-base (questões 1–9):**\n\n```\n01  No momento em que abrimos um livro nos\n02  pomos no reino da palavra escrita,\n03  compartilhando desse sortilégio ........ fala\n04  Verissimo no texto\n05  Sinais mortíferos, dessa\n06  mágica de sinais gravados ........ une as\n07  mentes das quais saíram sinais, e outros sinais,\n08  e outros sinais...\n09  Ninguém duvida de que a manifestação\n10  falada é a linguagem primeira, é a linguagem\n11  natural, que prescinde das tábuas e dos sulcos\n12  que um dia os homens inventaram para\n13  cumprir desígnios que foram sendo\n14  estabelecidos, para o bem e para o mal.\n15  Nas sagas que cantou, Homero distinguia\n16  heróis da palavra, heróis que eram os homens\n17  de fala forte, de fala efetiva, de fala eficiente.\n18  Assim como havia heróis excelentes na ação,\n19  havia aqueles excelentes na palavra (porque,\n20  para o épico, excelente em tudo só Zeus!). E\n21  entre eles Homero ressalta muito\n22  significativamente a figura do velho conselheiro\n23  Nestor, sempre à parte dos combates, mas\n24  dono de palavras sábias que dirigiam rumos\n25  das ações. Ele ressalta, entre todos – no foco\n26  da epopeia – , a figura de Odisseu/Ulisses, que\n27  nunca foi cantado como herói de combate\n28  renhido, mas que foi o senhor das palavras\n29  astutas que construíram a\n30  Odisseia.\n31  Hoje a força da palavra falada é a mesma,\n32  nada mudou, na história da humanidade,\n33  quanto ao exercício natural da capacidade que\n34  o humano tem de falar e quanto à destinação\n35  natural desse exercício. Mas, que diferença!!\n36  E vem agora o lado prático dessa conversa\n37  inicial: sem discussão, pode-se dizer que a\n38  palavra escrita é sustentáculo da cultura,\n39  embora não ouse supor que as sociedades\n40  ágrafas sejam excluídas da noção de “cultura”,\n41  e que os textos de Homero, que então eram\n42  apenas cantados, não tenham sido sustentáculo\n43  de cultura no mundo grego, exatamente por\n44  onde chegaram ao registro escrito.\n45  Diz Verissimo que a palavr a escrita “dá\n46  permanência à linguagem”, e isso se\n47  comprovaria, banalmente, no fato de que hoje\n48  os versos de Homero nos chegam somente\n49  cravados em folha de papel ou em tela de\n50  computador. Mas com certeza o cronista, que\n51  não esqueceu a permanência do texto oral de\n52  Homero, também não terá esquecido que, já\n53  há algum tempo, gravam-se falas, e que,\n54  portanto, a tecnologia humana já soube dar\n55  registro permanente também à palavra falada.\n56  Ocorre que a permanência de que fala\n57  Verissimo é outra: acima do fato de que a\n58  escrita representa um registro concreto\n59  permanente, está o fato de que ela leva a\n60  palavra a “outro domínio”. A palavra falada\n61  povoa um domínio que, já por funcionar\n62  automaticamente segundo o\n63  software que\n64  trouxemos à vida com a vida, não desvenda\n65  todos os sortilégios nos quais entramos quando\n66  complicamos o viver. Que digam os versos dos\n67  poetas que no geral se produzem no suporte\n68  gráfico e assim nos chegam (no papel ou em\n69  tela do monitor, insisto), mas vêm carregados\n70  da melodia que lhes dá sentido, e por aí nos\n71  transportam a um mundo particularmente mágico\n72  a que passamos a pertencer com a leitura!!!\n73  Este é, por si, o mundo da palavra mágica!!\n74  E chegamos à função da escola nesse\n75  mundo da mágica da linguagem. Se, como diz\n76  Veri ssimo, a escrita traz o preço de “ro ubar a\n77  palavra à sua vulgaridade democrática”, cabe\n78  aos professores, que são aqueles ........ é dado\n79  levar às gerações a força da linguagem e a\n80  força da cultura reverter o processo e reverter\n81  o argumento: cabe-lhes valorizar a democrática\n82  palavra falada, sim, mas sua missão muito\n83  particular é\n84  vulgarizar democraticamente a\n85  palavra (escrita) dos livros sem tirar-lhes o\n86  sortilégio: acreditemos ou não em sortilégios...\n87  Adaptado de: MOURA NEVES, M.H. Introdução.\n88  A\n89  gramática do português revelada em textos. São\n90  Paulo: Editora da Unesp, 2018.\n```\n\n---\n\nConsidere as afirmações abaixo, sobre alternativas de reescrita de algumas frases do texto, fazendo\n\nos ajustes necessários dos sinais de pontuação em cada caso.\n\nI - O advérbio\nbanalmente (l. 45) poderia ser deslocado para imediatamente depois de\nHomero (l. 46).\n\nII - O advérbio\nhoje (l. 45) poderia ser deslocado para imediatamente depois de\nchegam (l. 46).\n\nIII- A expressão\ncom certeza (l. 48) poderia ser deslocada para imediatamente depois de\nque (l. 51).\n\nQuais alterações poderiam ser efetuadas sem acarretar mudança de sentido na frase original?",
       "alternatives": [
         "Apenas I.",
         "Apenas II.",
@@ -194,8 +194,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-08",
@@ -204,7 +204,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–9):**\n\nNo momento em que abrimos um livro nos\n\npomos no reino da palavra escrita,\n\ncompartilhando desse sortilégio ........ fala\n\nVerissimo no texto\nSinais mortíferos, dessa\n\nmágica de sinais gravados ........ une as\n\nmentes das quais saíram sinais, e outros sinais,\n\ne outros sinais...\n\nNinguém duvida de que a manifestação\n\nfalada é a linguagem primeira, é a linguagem\n\nnatural, que prescinde das tábuas e dos sulcos\n\nque um dia os homens inventaram para\n\ncumprir desígnios que foram sendo\n\nestabelecidos, para o bem e para o mal.\n\nNas sagas que cantou, Homero distinguia\n\nheróis da palavra, heróis que eram os homens\n\nde fala forte, de fala efetiva, de fala eficiente.\n\nAssim como havia heróis excelentes na ação,\n\nhavia aqueles excelentes na palavra (porque,\n\npara o épico, excelente em tudo só Zeus!). E\n\nentre eles Homero ressalta muito\n\nsignificativamente a figura do velho conselheiro\n\nNestor, sempre à parte dos combates, mas\n\ndono de palavras sábias que dirigiam rumos\n\ndas ações. Ele ressalta, entre todos – no foco\n\nda epopeia – , a figura de Odisseu/Ulisses, que\n\nnunca foi cantado como herói de combate\n\nrenhido, mas que foi o senhor das palavras\n\nastutas que construíram a\nOdisseia.\n\nHoje a força da palavra falada é a mesma,\n\nnada mudou, na história da humanidade,\n\nquanto ao exercício natural da capacidade que\n\no humano tem de falar e quanto à destinação\n\nnatural desse exercício. Mas, que diferença!!\n\nE vem agora o lado prático dessa conversa\n\ninicial: sem discussão, pode-se dizer que a\n\npalavra escrita é sustentáculo da cultura,\n\nembora não ouse supor que as sociedades\n\nágrafas sejam excluídas da noção de “cultura”,\n\ne que os textos de Homero, que então eram\n\napenas cantados, não tenham sido sustentáculo\n\nde cultura no mundo grego, exatamente por\n\nonde chegaram ao registro escrito.\n\nDiz Verissimo que a palavr a escrita “dá\n\npermanência à linguagem”, e isso se\n\ncomprovaria, banalmente, no fato de que hoje\n\nos versos de Homero nos chegam somente\n\ncravados em folha de papel ou em tela de\n\ncomputador. Mas com certeza o cronista, que\n\nnão esqueceu a permanência do texto oral de\n\nHomero, também não terá esquecido que, já\n\nhá algum tempo, gravam-se falas, e que,\n\nportanto, a tecnologia humana já soube dar\n\nregistro permanente também à palavra falada.\n\nOcorre que a permanência de que fala\n\nVerissimo é outra: acima do fato de que a\n\nescrita representa um registro concreto\n\npermanente, está o fato de que ela leva a\n\npalavra a “outro domínio”. A palavra falada\n\npovoa um domínio que, já por funcionar\n\nautomaticamente segundo o\nsoftware que\n\ntrouxemos à vida com a vida, não desvenda\n\ntodos os sortilégios nos quais entramos quando\n\ncomplicamos o viver. Que digam os versos dos\n\npoetas que no geral se produzem no suporte\n\ngráfico e assim nos chegam (no papel ou em\n\ntela do monitor, insisto), mas vêm carregados\n\nda melodia que lhes dá sentido, e por aí nos\n\ntransportam a um mundo particularmente mágico\n\na que passamos a pertencer com a leitura!!!\n\nEste é, por si, o mundo da palavra mágica!!\n\nE chegamos à função da escola nesse\n\nmundo da mágica da linguagem. Se, como diz\n\nVeri ssimo, a escrita traz o preço de “ro ubar a\n\npalavra à sua vulgaridade democrática”, cabe\n\naos professores, que são aqueles ........ é dado\n\nlevar às gerações a força da linguagem e a\n\nforça da cultura reverter o processo e reverter\n\no argumento: cabe-lhes valorizar a democrática\n\npalavra falada, sim, mas sua missão muito\n\nparticular é\nvulgarizar democraticamente a\n\npalavra (escrita) dos livros sem tirar-lhes o\n\nsortilégio: acreditemos ou não em sortilégios...\n\nAdaptado de: MOURA NEVES, M.H. Introdução.\nA\n\ngramática do português revelada em textos. São\n\nPaulo: Editora da Unesp, 2018.\n\n---\n\nConsidere as seguintes afirmações sobre o texto.\n\nI - As reticências no final do primeiro parágrafo servem para a autora assinalar uma continuidade\n\nsem limites.\n\nII - As aspas (l. 43-44) servem para a autora assinalar o discurso citado.\n\nIII- As exclamações presentes no texto servem para a autora expressar um sentimento de dúvida\n\npara o leitor.\n\nQuais estão corretas?",
+      "statementMd": "**Texto-base (questões 1–9):**\n\n```\n01  No momento em que abrimos um livro nos\n02  pomos no reino da palavra escrita,\n03  compartilhando desse sortilégio ........ fala\n04  Verissimo no texto\n05  Sinais mortíferos, dessa\n06  mágica de sinais gravados ........ une as\n07  mentes das quais saíram sinais, e outros sinais,\n08  e outros sinais...\n09  Ninguém duvida de que a manifestação\n10  falada é a linguagem primeira, é a linguagem\n11  natural, que prescinde das tábuas e dos sulcos\n12  que um dia os homens inventaram para\n13  cumprir desígnios que foram sendo\n14  estabelecidos, para o bem e para o mal.\n15  Nas sagas que cantou, Homero distinguia\n16  heróis da palavra, heróis que eram os homens\n17  de fala forte, de fala efetiva, de fala eficiente.\n18  Assim como havia heróis excelentes na ação,\n19  havia aqueles excelentes na palavra (porque,\n20  para o épico, excelente em tudo só Zeus!). E\n21  entre eles Homero ressalta muito\n22  significativamente a figura do velho conselheiro\n23  Nestor, sempre à parte dos combates, mas\n24  dono de palavras sábias que dirigiam rumos\n25  das ações. Ele ressalta, entre todos – no foco\n26  da epopeia – , a figura de Odisseu/Ulisses, que\n27  nunca foi cantado como herói de combate\n28  renhido, mas que foi o senhor das palavras\n29  astutas que construíram a\n30  Odisseia.\n31  Hoje a força da palavra falada é a mesma,\n32  nada mudou, na história da humanidade,\n33  quanto ao exercício natural da capacidade que\n34  o humano tem de falar e quanto à destinação\n35  natural desse exercício. Mas, que diferença!!\n36  E vem agora o lado prático dessa conversa\n37  inicial: sem discussão, pode-se dizer que a\n38  palavra escrita é sustentáculo da cultura,\n39  embora não ouse supor que as sociedades\n40  ágrafas sejam excluídas da noção de “cultura”,\n41  e que os textos de Homero, que então eram\n42  apenas cantados, não tenham sido sustentáculo\n43  de cultura no mundo grego, exatamente por\n44  onde chegaram ao registro escrito.\n45  Diz Verissimo que a palavr a escrita “dá\n46  permanência à linguagem”, e isso se\n47  comprovaria, banalmente, no fato de que hoje\n48  os versos de Homero nos chegam somente\n49  cravados em folha de papel ou em tela de\n50  computador. Mas com certeza o cronista, que\n51  não esqueceu a permanência do texto oral de\n52  Homero, também não terá esquecido que, já\n53  há algum tempo, gravam-se falas, e que,\n54  portanto, a tecnologia humana já soube dar\n55  registro permanente também à palavra falada.\n56  Ocorre que a permanência de que fala\n57  Verissimo é outra: acima do fato de que a\n58  escrita representa um registro concreto\n59  permanente, está o fato de que ela leva a\n60  palavra a “outro domínio”. A palavra falada\n61  povoa um domínio que, já por funcionar\n62  automaticamente segundo o\n63  software que\n64  trouxemos à vida com a vida, não desvenda\n65  todos os sortilégios nos quais entramos quando\n66  complicamos o viver. Que digam os versos dos\n67  poetas que no geral se produzem no suporte\n68  gráfico e assim nos chegam (no papel ou em\n69  tela do monitor, insisto), mas vêm carregados\n70  da melodia que lhes dá sentido, e por aí nos\n71  transportam a um mundo particularmente mágico\n72  a que passamos a pertencer com a leitura!!!\n73  Este é, por si, o mundo da palavra mágica!!\n74  E chegamos à função da escola nesse\n75  mundo da mágica da linguagem. Se, como diz\n76  Veri ssimo, a escrita traz o preço de “ro ubar a\n77  palavra à sua vulgaridade democrática”, cabe\n78  aos professores, que são aqueles ........ é dado\n79  levar às gerações a força da linguagem e a\n80  força da cultura reverter o processo e reverter\n81  o argumento: cabe-lhes valorizar a democrática\n82  palavra falada, sim, mas sua missão muito\n83  particular é\n84  vulgarizar democraticamente a\n85  palavra (escrita) dos livros sem tirar-lhes o\n86  sortilégio: acreditemos ou não em sortilégios...\n87  Adaptado de: MOURA NEVES, M.H. Introdução.\n88  A\n89  gramática do português revelada em textos. São\n90  Paulo: Editora da Unesp, 2018.\n```\n\n---\n\nConsidere as seguintes afirmações sobre o texto.\n\nI - As reticências no final do primeiro parágrafo servem para a autora assinalar uma continuidade\n\nsem limites.\n\nII - As aspas (l. 43-44) servem para a autora assinalar o discurso citado.\n\nIII- As exclamações presentes no texto servem para a autora expressar um sentimento de dúvida\n\npara o leitor.\n\nQuais estão corretas?",
       "alternatives": [
         "Apenas I.",
         "Apenas II .",
@@ -218,8 +218,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-09",
@@ -228,7 +228,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–9):**\n\nNo momento em que abrimos um livro nos\n\npomos no reino da palavra escrita,\n\ncompartilhando desse sortilégio ........ fala\n\nVerissimo no texto\nSinais mortíferos, dessa\n\nmágica de sinais gravados ........ une as\n\nmentes das quais saíram sinais, e outros sinais,\n\ne outros sinais...\n\nNinguém duvida de que a manifestação\n\nfalada é a linguagem primeira, é a linguagem\n\nnatural, que prescinde das tábuas e dos sulcos\n\nque um dia os homens inventaram para\n\ncumprir desígnios que foram sendo\n\nestabelecidos, para o bem e para o mal.\n\nNas sagas que cantou, Homero distinguia\n\nheróis da palavra, heróis que eram os homens\n\nde fala forte, de fala efetiva, de fala eficiente.\n\nAssim como havia heróis excelentes na ação,\n\nhavia aqueles excelentes na palavra (porque,\n\npara o épico, excelente em tudo só Zeus!). E\n\nentre eles Homero ressalta muito\n\nsignificativamente a figura do velho conselheiro\n\nNestor, sempre à parte dos combates, mas\n\ndono de palavras sábias que dirigiam rumos\n\ndas ações. Ele ressalta, entre todos – no foco\n\nda epopeia – , a figura de Odisseu/Ulisses, que\n\nnunca foi cantado como herói de combate\n\nrenhido, mas que foi o senhor das palavras\n\nastutas que construíram a\nOdisseia.\n\nHoje a força da palavra falada é a mesma,\n\nnada mudou, na história da humanidade,\n\nquanto ao exercício natural da capacidade que\n\no humano tem de falar e quanto à destinação\n\nnatural desse exercício. Mas, que diferença!!\n\nE vem agora o lado prático dessa conversa\n\ninicial: sem discussão, pode-se dizer que a\n\npalavra escrita é sustentáculo da cultura,\n\nembora não ouse supor que as sociedades\n\nágrafas sejam excluídas da noção de “cultura”,\n\ne que os textos de Homero, que então eram\n\napenas cantados, não tenham sido sustentáculo\n\nde cultura no mundo grego, exatamente por\n\nonde chegaram ao registro escrito.\n\nDiz Verissimo que a palavr a escrita “dá\n\npermanência à linguagem”, e isso se\n\ncomprovaria, banalmente, no fato de que hoje\n\nos versos de Homero nos chegam somente\n\ncravados em folha de papel ou em tela de\n\ncomputador. Mas com certeza o cronista, que\n\nnão esqueceu a permanência do texto oral de\n\nHomero, também não terá esquecido que, já\n\nhá algum tempo, gravam-se falas, e que,\n\nportanto, a tecnologia humana já soube dar\n\nregistro permanente também à palavra falada.\n\nOcorre que a permanência de que fala\n\nVerissimo é outra: acima do fato de que a\n\nescrita representa um registro concreto\n\npermanente, está o fato de que ela leva a\n\npalavra a “outro domínio”. A palavra falada\n\npovoa um domínio que, já por funcionar\n\nautomaticamente segundo o\nsoftware que\n\ntrouxemos à vida com a vida, não desvenda\n\ntodos os sortilégios nos quais entramos quando\n\ncomplicamos o viver. Que digam os versos dos\n\npoetas que no geral se produzem no suporte\n\ngráfico e assim nos chegam (no papel ou em\n\ntela do monitor, insisto), mas vêm carregados\n\nda melodia que lhes dá sentido, e por aí nos\n\ntransportam a um mundo particularmente mágico\n\na que passamos a pertencer com a leitura!!!\n\nEste é, por si, o mundo da palavra mágica!!\n\nE chegamos à função da escola nesse\n\nmundo da mágica da linguagem. Se, como diz\n\nVeri ssimo, a escrita traz o preço de “ro ubar a\n\npalavra à sua vulgaridade democrática”, cabe\n\naos professores, que são aqueles ........ é dado\n\nlevar às gerações a força da linguagem e a\n\nforça da cultura reverter o processo e reverter\n\no argumento: cabe-lhes valorizar a democrática\n\npalavra falada, sim, mas sua missão muito\n\nparticular é\nvulgarizar democraticamente a\n\npalavra (escrita) dos livros sem tirar-lhes o\n\nsortilégio: acreditemos ou não em sortilégios...\n\nAdaptado de: MOURA NEVES, M.H. Introdução.\nA\n\ngramática do português revelada em textos. São\n\nPaulo: Editora da Unesp, 2018.\n\n---\n\nSe a palavra\nversos (l. 63) estivesse no singular, quantas outras palavras na frase (l. 63-69) deveriam\n\nser alteradas para fins de concordância?",
+      "statementMd": "**Texto-base (questões 1–9):**\n\n```\n01  No momento em que abrimos um livro nos\n02  pomos no reino da palavra escrita,\n03  compartilhando desse sortilégio ........ fala\n04  Verissimo no texto\n05  Sinais mortíferos, dessa\n06  mágica de sinais gravados ........ une as\n07  mentes das quais saíram sinais, e outros sinais,\n08  e outros sinais...\n09  Ninguém duvida de que a manifestação\n10  falada é a linguagem primeira, é a linguagem\n11  natural, que prescinde das tábuas e dos sulcos\n12  que um dia os homens inventaram para\n13  cumprir desígnios que foram sendo\n14  estabelecidos, para o bem e para o mal.\n15  Nas sagas que cantou, Homero distinguia\n16  heróis da palavra, heróis que eram os homens\n17  de fala forte, de fala efetiva, de fala eficiente.\n18  Assim como havia heróis excelentes na ação,\n19  havia aqueles excelentes na palavra (porque,\n20  para o épico, excelente em tudo só Zeus!). E\n21  entre eles Homero ressalta muito\n22  significativamente a figura do velho conselheiro\n23  Nestor, sempre à parte dos combates, mas\n24  dono de palavras sábias que dirigiam rumos\n25  das ações. Ele ressalta, entre todos – no foco\n26  da epopeia – , a figura de Odisseu/Ulisses, que\n27  nunca foi cantado como herói de combate\n28  renhido, mas que foi o senhor das palavras\n29  astutas que construíram a\n30  Odisseia.\n31  Hoje a força da palavra falada é a mesma,\n32  nada mudou, na história da humanidade,\n33  quanto ao exercício natural da capacidade que\n34  o humano tem de falar e quanto à destinação\n35  natural desse exercício. Mas, que diferença!!\n36  E vem agora o lado prático dessa conversa\n37  inicial: sem discussão, pode-se dizer que a\n38  palavra escrita é sustentáculo da cultura,\n39  embora não ouse supor que as sociedades\n40  ágrafas sejam excluídas da noção de “cultura”,\n41  e que os textos de Homero, que então eram\n42  apenas cantados, não tenham sido sustentáculo\n43  de cultura no mundo grego, exatamente por\n44  onde chegaram ao registro escrito.\n45  Diz Verissimo que a palavr a escrita “dá\n46  permanência à linguagem”, e isso se\n47  comprovaria, banalmente, no fato de que hoje\n48  os versos de Homero nos chegam somente\n49  cravados em folha de papel ou em tela de\n50  computador. Mas com certeza o cronista, que\n51  não esqueceu a permanência do texto oral de\n52  Homero, também não terá esquecido que, já\n53  há algum tempo, gravam-se falas, e que,\n54  portanto, a tecnologia humana já soube dar\n55  registro permanente também à palavra falada.\n56  Ocorre que a permanência de que fala\n57  Verissimo é outra: acima do fato de que a\n58  escrita representa um registro concreto\n59  permanente, está o fato de que ela leva a\n60  palavra a “outro domínio”. A palavra falada\n61  povoa um domínio que, já por funcionar\n62  automaticamente segundo o\n63  software que\n64  trouxemos à vida com a vida, não desvenda\n65  todos os sortilégios nos quais entramos quando\n66  complicamos o viver. Que digam os versos dos\n67  poetas que no geral se produzem no suporte\n68  gráfico e assim nos chegam (no papel ou em\n69  tela do monitor, insisto), mas vêm carregados\n70  da melodia que lhes dá sentido, e por aí nos\n71  transportam a um mundo particularmente mágico\n72  a que passamos a pertencer com a leitura!!!\n73  Este é, por si, o mundo da palavra mágica!!\n74  E chegamos à função da escola nesse\n75  mundo da mágica da linguagem. Se, como diz\n76  Veri ssimo, a escrita traz o preço de “ro ubar a\n77  palavra à sua vulgaridade democrática”, cabe\n78  aos professores, que são aqueles ........ é dado\n79  levar às gerações a força da linguagem e a\n80  força da cultura reverter o processo e reverter\n81  o argumento: cabe-lhes valorizar a democrática\n82  palavra falada, sim, mas sua missão muito\n83  particular é\n84  vulgarizar democraticamente a\n85  palavra (escrita) dos livros sem tirar-lhes o\n86  sortilégio: acreditemos ou não em sortilégios...\n87  Adaptado de: MOURA NEVES, M.H. Introdução.\n88  A\n89  gramática do português revelada em textos. São\n90  Paulo: Editora da Unesp, 2018.\n```\n\n---\n\nSe a palavra\nversos (l. 63) estivesse no singular, quantas outras palavras na frase (l. 63-69) deveriam\n\nser alteradas para fins de concordância?",
       "alternatives": [
         "Quatro.",
         "Cinco.",
@@ -242,8 +242,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-10",
@@ -252,7 +252,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 10–15):**\n\nUma noite, há anos, acordei bruscamente e\n\numa estranha pergunta explodiu de minha\n\nboca. De que cor eram os olhos de minha mãe?\n\nAtordoada, custei reconhecer o quarto da nova\n\ncasa em que estava morando e não conseguia\n\nme lembrar como havia chegado até ali. E a\n\ninsistente pergunta, martelando, martelando...\n\nDe que cor eram os olhos de minha mãe?\n\nAquela indagação havia surgido há dias, há\n\nmeses, posso dizer. Entre um afazer e outro,\n\neu me pegava pensando de que cor seriam os\n\nolhos de minha mãe. E o que a princípio tinha\n\nsido um mero pensamento interrogativo,\n\nnaquela noite se transformou em uma dolorosa\n\npergunta carregada de um tom acusatório.\n\nEntão, eu não sabia de que cor eram os olhos\n\nde minha mãe?\n\nSendo ........ primeira de sete filhas, desde\n\ncedo, busquei dar conta de minhas próprias\n\ndificuldades, cresci rápido, passando por uma\n\nbreve adolescência. Sempre ao lado de minha\n\nmãe aprendi ........ conhecê-la. Decifrava o seu\n\nsilêncio nas horas de dificuldades, como\n\ntambém sabia reconhecer em seus gestos,\n\nprenúncios de possíveis alegrias. Naquele\n\nmomento, entretanto, me descobria cheia de\n\nculpa, por não recordar de que cor seriam os\n\nseus olhos. Eu achava tudo muito estranho,\n\npois me lembrava nitidamente de vários\n\ndetalhes do corpo dela. Da unha encravada do\n\ndedo mindinho do pé esquerdo... Da verruga\n\nque se perdia no meio da cabeleira crespa e\n\nbela... Um dia, brincando de pentear boneca,\n\nalegria que a mãe nos dava quando, deixando\n\npor uns momentos o lava-lava, o passa-passa\n\ndas roupagens alheias, se tornava uma grande\n\nboneca negra para as filhas, descobrimos uma\n\nbolinha escondida bem no couro cabeludo\n\ndela. Pensamos que fosse carrapato. A mãe\n\ncochilava e uma de minhas irmãs aflita,\n\nquerendo livrar a boneca-mãe daquele\n\npadecer, puxou rápido o bichinho. A mãe e nós\n\nrimos e rimos e rimos de nosso engano. A mãe\n\nriu tanto das lágrimas escorrerem. Mas, de que\n\ncor eram os olhos dela?\n\nEu me lembrava também de algumas\n\nhistórias da infância de minha mãe. Ela havia\n\nnascido em um lugar perdido no interior de\n\nMinas. Ali, as crianças andavam nuas até bem\n\ngrandinhas. As meninas, assim que os seios\n\ncomeçavam a brotar, ganhavam roupas antes\n\ndos meninos. ........ vezes, as histórias da\n\ninfância de minha mãe confundiam-se com\n\n........ de minha própria infância. Lembro-me\n\nde que muitas vezes, quando a mãe cozinhava,\n\nda panela subia cheiro algum. Era como se\n\ncozinhasse, ali, apenas o nosso desesperado\n\ndesejo de alimento. E era justamente nos dias\n\nde parco ou nenhum alimento que ela mais\n\nbrincava com as filhas. Nessas ocasiões a\n\nbrincadeira preferida era aquela em que a mãe\n\nera a Senhora, a Rainha. Ela se assentava em\n\nseu trono, um pequeno banquinho de madeira.\n\nFelizes colhíamos flores cultivadas em um\n\npequeno pedaço de terra que circundava o\n\nnosso barraco. Aquelas flores eram depois\n\nsolenemente distribuídas por seus cabelos,\n\nbraços e colo. E diante dela fazíamos\n\nreverências à Senhora. Postávamos deitadas\n\nno chão e batíamos cabeça para a Rainha. Nós,\n\nprincesas, em volta dela, cantávamos,\n\ndançávamos, sorríamos. A mãe só ria, de uma\n\nmaneira triste e com um sorriso molhado...\n\nMas de que cor eram os olhos de minha mãe?\n\nEu sabia, desde aquela época, que a mãe\n\ninventava esse e outros jogos para distrair a\n\nnossa fome. E a nossa fome se distraía.\n\nDe vez em quando, no final da tarde, antes\n\nque a noite tomasse conta do tempo, ela se\n\nassentava na soleira da porta e juntas\n\nficávamos contemplando as artes das nuvens\n\nno céu. Umas viravam carneirinhos; outras,\n\ncachorrinhos; algumas, gigantes adormecidos,\n\ne havia aquelas que eram só nuvens, algodão\n\ndoce. Tudo tinha de ser muito rápido, antes\n\nque a nuvem derretesse e com ela também se\n\nesvaecessem os nossos sonhos. Mas, de que\n\ncor eram os olhos de minha mãe?\n\nAdaptado de: EVARISTO, C.\nOlhos d´água.\n\nRio de Janeiro: Pallas, 2016.\n\n---\n\nAssinale a alternativa que preenche\n\ncorretamente as lacunas das linhas 18, 22, 52\n\ne 54, nesta ordem.",
+      "statementMd": "**Texto-base (questões 10–15):**\n\n```\n01  Uma noite, há anos, acordei bruscamente e\n02  uma estranha pergunta explodiu de minha\n03  boca. De que cor eram os olhos de minha mãe?\n04  Atordoada, custei reconhecer o quarto da nova\n05  casa em que estava morando e não conseguia\n06  me lembrar como havia chegado até ali. E a\n07  insistente pergunta, martelando, martelando...\n08  De que cor eram os olhos de minha mãe?\n09  Aquela indagação havia surgido há dias, há\n10  meses, posso dizer. Entre um afazer e outro,\n11  eu me pegava pensando de que cor seriam os\n12  olhos de minha mãe. E o que a princípio tinha\n13  sido um mero pensamento interrogativo,\n14  naquela noite se transformou em uma dolorosa\n15  pergunta carregada de um tom acusatório.\n16  Então, eu não sabia de que cor eram os olhos\n17  de minha mãe?\n18  Sendo ........ primeira de sete filhas, desde\n19  cedo, busquei dar conta de minhas próprias\n20  dificuldades, cresci rápido, passando por uma\n21  breve adolescência. Sempre ao lado de minha\n22  mãe aprendi ........ conhecê-la. Decifrava o seu\n23  silêncio nas horas de dificuldades, como\n24  também sabia reconhecer em seus gestos,\n25  prenúncios de possíveis alegrias. Naquele\n26  momento, entretanto, me descobria cheia de\n27  culpa, por não recordar de que cor seriam os\n28  seus olhos. Eu achava tudo muito estranho,\n29  pois me lembrava nitidamente de vários\n30  detalhes do corpo dela. Da unha encravada do\n31  dedo mindinho do pé esquerdo... Da verruga\n32  que se perdia no meio da cabeleira crespa e\n33  bela... Um dia, brincando de pentear boneca,\n34  alegria que a mãe nos dava quando, deixando\n35  por uns momentos o lava-lava, o passa-passa\n36  das roupagens alheias, se tornava uma grande\n37  boneca negra para as filhas, descobrimos uma\n38  bolinha escondida bem no couro cabeludo\n39  dela. Pensamos que fosse carrapato. A mãe\n40  cochilava e uma de minhas irmãs aflita,\n41  querendo livrar a boneca-mãe daquele\n42  padecer, puxou rápido o bichinho. A mãe e nós\n43  rimos e rimos e rimos de nosso engano. A mãe\n44  riu tanto das lágrimas escorrerem. Mas, de que\n45  cor eram os olhos dela?\n46  Eu me lembrava também de algumas\n47  histórias da infância de minha mãe. Ela havia\n48  nascido em um lugar perdido no interior de\n49  Minas. Ali, as crianças andavam nuas até bem\n50  grandinhas. As meninas, assim que os seios\n51  começavam a brotar, ganhavam roupas antes\n52  dos meninos. ........ vezes, as histórias da\n53  infância de minha mãe confundiam-se com\n54  ........ de minha própria infância. Lembro-me\n55  de que muitas vezes, quando a mãe cozinhava,\n56  da panela subia cheiro algum. Era como se\n57  cozinhasse, ali, apenas o nosso desesperado\n58  desejo de alimento. E era justamente nos dias\n59  de parco ou nenhum alimento que ela mais\n60  brincava com as filhas. Nessas ocasiões a\n61  brincadeira preferida era aquela em que a mãe\n62  era a Senhora, a Rainha. Ela se assentava em\n63  seu trono, um pequeno banquinho de madeira.\n64  Felizes colhíamos flores cultivadas em um\n65  pequeno pedaço de terra que circundava o\n66  nosso barraco. Aquelas flores eram depois\n67  solenemente distribuídas por seus cabelos,\n68  braços e colo. E diante dela fazíamos\n69  reverências à Senhora. Postávamos deitadas\n70  no chão e batíamos cabeça para a Rainha. Nós,\n71  princesas, em volta dela, cantávamos,\n72  dançávamos, sorríamos. A mãe só ria, de uma\n73  maneira triste e com um sorriso molhado...\n74  Mas de que cor eram os olhos de minha mãe?\n75  Eu sabia, desde aquela época, que a mãe\n76  inventava esse e outros jogos para distrair a\n77  nossa fome. E a nossa fome se distraía.\n78  De vez em quando, no final da tarde, antes\n79  que a noite tomasse conta do tempo, ela se\n80  assentava na soleira da porta e juntas\n81  ficávamos contemplando as artes das nuvens\n82  no céu. Umas viravam carneirinhos; outras,\n83  cachorrinhos; algumas, gigantes adormecidos,\n84  e havia aquelas que eram só nuvens, algodão\n85  doce. Tudo tinha de ser muito rápido, antes\n86  que a nuvem derretesse e com ela também se\n87  esvaecessem os nossos sonhos. Mas, de que\n88  cor eram os olhos de minha mãe?\n89  Adaptado de: EVARISTO, C.\n90  Olhos d´água.\n91  Rio de Janeiro: Pallas, 2016.\n```\n\n---\n\nAssinale a alternativa que preenche\n\ncorretamente as lacunas das linhas 18, 22, 52\n\ne 54, nesta ordem.",
       "alternatives": [
         "a – a – Às – as",
         "à – a – As – as",
@@ -266,8 +266,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-11",
@@ -276,7 +276,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 10–15):**\n\nUma noite, há anos, acordei bruscamente e\n\numa estranha pergunta explodiu de minha\n\nboca. De que cor eram os olhos de minha mãe?\n\nAtordoada, custei reconhecer o quarto da nova\n\ncasa em que estava morando e não conseguia\n\nme lembrar como havia chegado até ali. E a\n\ninsistente pergunta, martelando, martelando...\n\nDe que cor eram os olhos de minha mãe?\n\nAquela indagação havia surgido há dias, há\n\nmeses, posso dizer. Entre um afazer e outro,\n\neu me pegava pensando de que cor seriam os\n\nolhos de minha mãe. E o que a princípio tinha\n\nsido um mero pensamento interrogativo,\n\nnaquela noite se transformou em uma dolorosa\n\npergunta carregada de um tom acusatório.\n\nEntão, eu não sabia de que cor eram os olhos\n\nde minha mãe?\n\nSendo ........ primeira de sete filhas, desde\n\ncedo, busquei dar conta de minhas próprias\n\ndificuldades, cresci rápido, passando por uma\n\nbreve adolescência. Sempre ao lado de minha\n\nmãe aprendi ........ conhecê-la. Decifrava o seu\n\nsilêncio nas horas de dificuldades, como\n\ntambém sabia reconhecer em seus gestos,\n\nprenúncios de possíveis alegrias. Naquele\n\nmomento, entretanto, me descobria cheia de\n\nculpa, por não recordar de que cor seriam os\n\nseus olhos. Eu achava tudo muito estranho,\n\npois me lembrava nitidamente de vários\n\ndetalhes do corpo dela. Da unha encravada do\n\ndedo mindinho do pé esquerdo... Da verruga\n\nque se perdia no meio da cabeleira crespa e\n\nbela... Um dia, brincando de pentear boneca,\n\nalegria que a mãe nos dava quando, deixando\n\npor uns momentos o lava-lava, o passa-passa\n\ndas roupagens alheias, se tornava uma grande\n\nboneca negra para as filhas, descobrimos uma\n\nbolinha escondida bem no couro cabeludo\n\ndela. Pensamos que fosse carrapato. A mãe\n\ncochilava e uma de minhas irmãs aflita,\n\nquerendo livrar a boneca-mãe daquele\n\npadecer, puxou rápido o bichinho. A mãe e nós\n\nrimos e rimos e rimos de nosso engano. A mãe\n\nriu tanto das lágrimas escorrerem. Mas, de que\n\ncor eram os olhos dela?\n\nEu me lembrava também de algumas\n\nhistórias da infância de minha mãe. Ela havia\n\nnascido em um lugar perdido no interior de\n\nMinas. Ali, as crianças andavam nuas até bem\n\ngrandinhas. As meninas, assim que os seios\n\ncomeçavam a brotar, ganhavam roupas antes\n\ndos meninos. ........ vezes, as histórias da\n\ninfância de minha mãe confundiam-se com\n\n........ de minha própria infância. Lembro-me\n\nde que muitas vezes, quando a mãe cozinhava,\n\nda panela subia cheiro algum. Era como se\n\ncozinhasse, ali, apenas o nosso desesperado\n\ndesejo de alimento. E era justamente nos dias\n\nde parco ou nenhum alimento que ela mais\n\nbrincava com as filhas. Nessas ocasiões a\n\nbrincadeira preferida era aquela em que a mãe\n\nera a Senhora, a Rainha. Ela se assentava em\n\nseu trono, um pequeno banquinho de madeira.\n\nFelizes colhíamos flores cultivadas em um\n\npequeno pedaço de terra que circundava o\n\nnosso barraco. Aquelas flores eram depois\n\nsolenemente distribuídas por seus cabelos,\n\nbraços e colo. E diante dela fazíamos\n\nreverências à Senhora. Postávamos deitadas\n\nno chão e batíamos cabeça para a Rainha. Nós,\n\nprincesas, em volta dela, cantávamos,\n\ndançávamos, sorríamos. A mãe só ria, de uma\n\nmaneira triste e com um sorriso molhado...\n\nMas de que cor eram os olhos de minha mãe?\n\nEu sabia, desde aquela época, que a mãe\n\ninventava esse e outros jogos para distrair a\n\nnossa fome. E a nossa fome se distraía.\n\nDe vez em quando, no final da tarde, antes\n\nque a noite tomasse conta do tempo, ela se\n\nassentava na soleira da porta e juntas\n\nficávamos contemplando as artes das nuvens\n\nno céu. Umas viravam carneirinhos; outras,\n\ncachorrinhos; algumas, gigantes adormecidos,\n\ne havia aquelas que eram só nuvens, algodão\n\ndoce. Tudo tinha de ser muito rápido, antes\n\nque a nuvem derretesse e com ela também se\n\nesvaecessem os nossos sonhos. Mas, de que\n\ncor eram os olhos de minha mãe?\n\nAdaptado de: EVARISTO, C.\nOlhos d´água.\n\nRio de Janeiro: Pallas, 2016.\n\n---\n\nA sequência\nde que cor eram os olhos de minha mãe comparece em todos os parágrafos do texto.\n\nSobre essa sequência, considere as seguintes afirmações.\n\nI - A sequência expressa, nos contextos, o modo como a narradora-personagem tematiza diferentes\n\nrelações entre ela e a sua mãe, com os consequentes sentimentos que emergem dessas relações.\n\nII - A sequência expressa diferentes sentidos por ser uma pergunta antecedida, em alguns contextos\n\nde ocorrência, por diferentes nexos e por se relacionar a momentos distintos da narrativa.\n\nIII- A sequência expressa, em todos os contextos de ocorrência, o desconhecimento da narradora-\n\npersonagem sobre características de sua mãe e o consequente sentimento de culpa sobre esse\n\ndesconhecimento.\n\nQuais estão corretas?",
+      "statementMd": "**Texto-base (questões 10–15):**\n\n```\n01  Uma noite, há anos, acordei bruscamente e\n02  uma estranha pergunta explodiu de minha\n03  boca. De que cor eram os olhos de minha mãe?\n04  Atordoada, custei reconhecer o quarto da nova\n05  casa em que estava morando e não conseguia\n06  me lembrar como havia chegado até ali. E a\n07  insistente pergunta, martelando, martelando...\n08  De que cor eram os olhos de minha mãe?\n09  Aquela indagação havia surgido há dias, há\n10  meses, posso dizer. Entre um afazer e outro,\n11  eu me pegava pensando de que cor seriam os\n12  olhos de minha mãe. E o que a princípio tinha\n13  sido um mero pensamento interrogativo,\n14  naquela noite se transformou em uma dolorosa\n15  pergunta carregada de um tom acusatório.\n16  Então, eu não sabia de que cor eram os olhos\n17  de minha mãe?\n18  Sendo ........ primeira de sete filhas, desde\n19  cedo, busquei dar conta de minhas próprias\n20  dificuldades, cresci rápido, passando por uma\n21  breve adolescência. Sempre ao lado de minha\n22  mãe aprendi ........ conhecê-la. Decifrava o seu\n23  silêncio nas horas de dificuldades, como\n24  também sabia reconhecer em seus gestos,\n25  prenúncios de possíveis alegrias. Naquele\n26  momento, entretanto, me descobria cheia de\n27  culpa, por não recordar de que cor seriam os\n28  seus olhos. Eu achava tudo muito estranho,\n29  pois me lembrava nitidamente de vários\n30  detalhes do corpo dela. Da unha encravada do\n31  dedo mindinho do pé esquerdo... Da verruga\n32  que se perdia no meio da cabeleira crespa e\n33  bela... Um dia, brincando de pentear boneca,\n34  alegria que a mãe nos dava quando, deixando\n35  por uns momentos o lava-lava, o passa-passa\n36  das roupagens alheias, se tornava uma grande\n37  boneca negra para as filhas, descobrimos uma\n38  bolinha escondida bem no couro cabeludo\n39  dela. Pensamos que fosse carrapato. A mãe\n40  cochilava e uma de minhas irmãs aflita,\n41  querendo livrar a boneca-mãe daquele\n42  padecer, puxou rápido o bichinho. A mãe e nós\n43  rimos e rimos e rimos de nosso engano. A mãe\n44  riu tanto das lágrimas escorrerem. Mas, de que\n45  cor eram os olhos dela?\n46  Eu me lembrava também de algumas\n47  histórias da infância de minha mãe. Ela havia\n48  nascido em um lugar perdido no interior de\n49  Minas. Ali, as crianças andavam nuas até bem\n50  grandinhas. As meninas, assim que os seios\n51  começavam a brotar, ganhavam roupas antes\n52  dos meninos. ........ vezes, as histórias da\n53  infância de minha mãe confundiam-se com\n54  ........ de minha própria infância. Lembro-me\n55  de que muitas vezes, quando a mãe cozinhava,\n56  da panela subia cheiro algum. Era como se\n57  cozinhasse, ali, apenas o nosso desesperado\n58  desejo de alimento. E era justamente nos dias\n59  de parco ou nenhum alimento que ela mais\n60  brincava com as filhas. Nessas ocasiões a\n61  brincadeira preferida era aquela em que a mãe\n62  era a Senhora, a Rainha. Ela se assentava em\n63  seu trono, um pequeno banquinho de madeira.\n64  Felizes colhíamos flores cultivadas em um\n65  pequeno pedaço de terra que circundava o\n66  nosso barraco. Aquelas flores eram depois\n67  solenemente distribuídas por seus cabelos,\n68  braços e colo. E diante dela fazíamos\n69  reverências à Senhora. Postávamos deitadas\n70  no chão e batíamos cabeça para a Rainha. Nós,\n71  princesas, em volta dela, cantávamos,\n72  dançávamos, sorríamos. A mãe só ria, de uma\n73  maneira triste e com um sorriso molhado...\n74  Mas de que cor eram os olhos de minha mãe?\n75  Eu sabia, desde aquela época, que a mãe\n76  inventava esse e outros jogos para distrair a\n77  nossa fome. E a nossa fome se distraía.\n78  De vez em quando, no final da tarde, antes\n79  que a noite tomasse conta do tempo, ela se\n80  assentava na soleira da porta e juntas\n81  ficávamos contemplando as artes das nuvens\n82  no céu. Umas viravam carneirinhos; outras,\n83  cachorrinhos; algumas, gigantes adormecidos,\n84  e havia aquelas que eram só nuvens, algodão\n85  doce. Tudo tinha de ser muito rápido, antes\n86  que a nuvem derretesse e com ela também se\n87  esvaecessem os nossos sonhos. Mas, de que\n88  cor eram os olhos de minha mãe?\n89  Adaptado de: EVARISTO, C.\n90  Olhos d´água.\n91  Rio de Janeiro: Pallas, 2016.\n```\n\n---\n\nA sequência\nde que cor eram os olhos de minha mãe comparece em todos os parágrafos do texto.\n\nSobre essa sequência, considere as seguintes afirmações.\n\nI - A sequência expressa, nos contextos, o modo como a narradora-personagem tematiza diferentes\n\nrelações entre ela e a sua mãe, com os consequentes sentimentos que emergem dessas relações.\n\nII - A sequência expressa diferentes sentidos por ser uma pergunta antecedida, em alguns contextos\n\nde ocorrência, por diferentes nexos e por se relacionar a momentos distintos da narrativa.\n\nIII- A sequência expressa, em todos os contextos de ocorrência, o desconhecimento da narradora-\n\npersonagem sobre características de sua mãe e o consequente sentimento de culpa sobre esse\n\ndesconhecimento.\n\nQuais estão corretas?",
       "alternatives": [
         "Apenas I.",
         "Apenas II.",
@@ -290,8 +290,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-12",
@@ -300,7 +300,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 10–15):**\n\nUma noite, há anos, acordei bruscamente e\n\numa estranha pergunta explodiu de minha\n\nboca. De que cor eram os olhos de minha mãe?\n\nAtordoada, custei reconhecer o quarto da nova\n\ncasa em que estava morando e não conseguia\n\nme lembrar como havia chegado até ali. E a\n\ninsistente pergunta, martelando, martelando...\n\nDe que cor eram os olhos de minha mãe?\n\nAquela indagação havia surgido há dias, há\n\nmeses, posso dizer. Entre um afazer e outro,\n\neu me pegava pensando de que cor seriam os\n\nolhos de minha mãe. E o que a princípio tinha\n\nsido um mero pensamento interrogativo,\n\nnaquela noite se transformou em uma dolorosa\n\npergunta carregada de um tom acusatório.\n\nEntão, eu não sabia de que cor eram os olhos\n\nde minha mãe?\n\nSendo ........ primeira de sete filhas, desde\n\ncedo, busquei dar conta de minhas próprias\n\ndificuldades, cresci rápido, passando por uma\n\nbreve adolescência. Sempre ao lado de minha\n\nmãe aprendi ........ conhecê-la. Decifrava o seu\n\nsilêncio nas horas de dificuldades, como\n\ntambém sabia reconhecer em seus gestos,\n\nprenúncios de possíveis alegrias. Naquele\n\nmomento, entretanto, me descobria cheia de\n\nculpa, por não recordar de que cor seriam os\n\nseus olhos. Eu achava tudo muito estranho,\n\npois me lembrava nitidamente de vários\n\ndetalhes do corpo dela. Da unha encravada do\n\ndedo mindinho do pé esquerdo... Da verruga\n\nque se perdia no meio da cabeleira crespa e\n\nbela... Um dia, brincando de pentear boneca,\n\nalegria que a mãe nos dava quando, deixando\n\npor uns momentos o lava-lava, o passa-passa\n\ndas roupagens alheias, se tornava uma grande\n\nboneca negra para as filhas, descobrimos uma\n\nbolinha escondida bem no couro cabeludo\n\ndela. Pensamos que fosse carrapato. A mãe\n\ncochilava e uma de minhas irmãs aflita,\n\nquerendo livrar a boneca-mãe daquele\n\npadecer, puxou rápido o bichinho. A mãe e nós\n\nrimos e rimos e rimos de nosso engano. A mãe\n\nriu tanto das lágrimas escorrerem. Mas, de que\n\ncor eram os olhos dela?\n\nEu me lembrava também de algumas\n\nhistórias da infância de minha mãe. Ela havia\n\nnascido em um lugar perdido no interior de\n\nMinas. Ali, as crianças andavam nuas até bem\n\ngrandinhas. As meninas, assim que os seios\n\ncomeçavam a brotar, ganhavam roupas antes\n\ndos meninos. ........ vezes, as histórias da\n\ninfância de minha mãe confundiam-se com\n\n........ de minha própria infância. Lembro-me\n\nde que muitas vezes, quando a mãe cozinhava,\n\nda panela subia cheiro algum. Era como se\n\ncozinhasse, ali, apenas o nosso desesperado\n\ndesejo de alimento. E era justamente nos dias\n\nde parco ou nenhum alimento que ela mais\n\nbrincava com as filhas. Nessas ocasiões a\n\nbrincadeira preferida era aquela em que a mãe\n\nera a Senhora, a Rainha. Ela se assentava em\n\nseu trono, um pequeno banquinho de madeira.\n\nFelizes colhíamos flores cultivadas em um\n\npequeno pedaço de terra que circundava o\n\nnosso barraco. Aquelas flores eram depois\n\nsolenemente distribuídas por seus cabelos,\n\nbraços e colo. E diante dela fazíamos\n\nreverências à Senhora. Postávamos deitadas\n\nno chão e batíamos cabeça para a Rainha. Nós,\n\nprincesas, em volta dela, cantávamos,\n\ndançávamos, sorríamos. A mãe só ria, de uma\n\nmaneira triste e com um sorriso molhado...\n\nMas de que cor eram os olhos de minha mãe?\n\nEu sabia, desde aquela época, que a mãe\n\ninventava esse e outros jogos para distrair a\n\nnossa fome. E a nossa fome se distraía.\n\nDe vez em quando, no final da tarde, antes\n\nque a noite tomasse conta do tempo, ela se\n\nassentava na soleira da porta e juntas\n\nficávamos contemplando as artes das nuvens\n\nno céu. Umas viravam carneirinhos; outras,\n\ncachorrinhos; algumas, gigantes adormecidos,\n\ne havia aquelas que eram só nuvens, algodão\n\ndoce. Tudo tinha de ser muito rápido, antes\n\nque a nuvem derretesse e com ela também se\n\nesvaecessem os nossos sonhos. Mas, de que\n\ncor eram os olhos de minha mãe?\n\nAdaptado de: EVARISTO, C.\nOlhos d´água.\n\nRio de Janeiro: Pallas, 2016.\n\n---\n\nConsidere as seguintes afirmações sobre palavras e expressões do texto.\n\nI - As formas\nali (l. 06),\nAli (l. 49) e\nali (l. 57) fazem referência ao espaço onde morava e circulava\n\na narradora-personagem com a sua mãe.\n\nII - A repetição da palavra\nmartelando (l. 07), seguida de reticências, expressa a ideia de que\n\ndeterminado pensamento comparecia repetidamente na mente da narradora-personagem.\n\nIII- As formas verbais no pretérito perfeito e no pretérito imperfeito marcam ações pontuais e ações\n\ncontínuas, respectivamente.\n\nQuais estão corretas?",
+      "statementMd": "**Texto-base (questões 10–15):**\n\n```\n01  Uma noite, há anos, acordei bruscamente e\n02  uma estranha pergunta explodiu de minha\n03  boca. De que cor eram os olhos de minha mãe?\n04  Atordoada, custei reconhecer o quarto da nova\n05  casa em que estava morando e não conseguia\n06  me lembrar como havia chegado até ali. E a\n07  insistente pergunta, martelando, martelando...\n08  De que cor eram os olhos de minha mãe?\n09  Aquela indagação havia surgido há dias, há\n10  meses, posso dizer. Entre um afazer e outro,\n11  eu me pegava pensando de que cor seriam os\n12  olhos de minha mãe. E o que a princípio tinha\n13  sido um mero pensamento interrogativo,\n14  naquela noite se transformou em uma dolorosa\n15  pergunta carregada de um tom acusatório.\n16  Então, eu não sabia de que cor eram os olhos\n17  de minha mãe?\n18  Sendo ........ primeira de sete filhas, desde\n19  cedo, busquei dar conta de minhas próprias\n20  dificuldades, cresci rápido, passando por uma\n21  breve adolescência. Sempre ao lado de minha\n22  mãe aprendi ........ conhecê-la. Decifrava o seu\n23  silêncio nas horas de dificuldades, como\n24  também sabia reconhecer em seus gestos,\n25  prenúncios de possíveis alegrias. Naquele\n26  momento, entretanto, me descobria cheia de\n27  culpa, por não recordar de que cor seriam os\n28  seus olhos. Eu achava tudo muito estranho,\n29  pois me lembrava nitidamente de vários\n30  detalhes do corpo dela. Da unha encravada do\n31  dedo mindinho do pé esquerdo... Da verruga\n32  que se perdia no meio da cabeleira crespa e\n33  bela... Um dia, brincando de pentear boneca,\n34  alegria que a mãe nos dava quando, deixando\n35  por uns momentos o lava-lava, o passa-passa\n36  das roupagens alheias, se tornava uma grande\n37  boneca negra para as filhas, descobrimos uma\n38  bolinha escondida bem no couro cabeludo\n39  dela. Pensamos que fosse carrapato. A mãe\n40  cochilava e uma de minhas irmãs aflita,\n41  querendo livrar a boneca-mãe daquele\n42  padecer, puxou rápido o bichinho. A mãe e nós\n43  rimos e rimos e rimos de nosso engano. A mãe\n44  riu tanto das lágrimas escorrerem. Mas, de que\n45  cor eram os olhos dela?\n46  Eu me lembrava também de algumas\n47  histórias da infância de minha mãe. Ela havia\n48  nascido em um lugar perdido no interior de\n49  Minas. Ali, as crianças andavam nuas até bem\n50  grandinhas. As meninas, assim que os seios\n51  começavam a brotar, ganhavam roupas antes\n52  dos meninos. ........ vezes, as histórias da\n53  infância de minha mãe confundiam-se com\n54  ........ de minha própria infância. Lembro-me\n55  de que muitas vezes, quando a mãe cozinhava,\n56  da panela subia cheiro algum. Era como se\n57  cozinhasse, ali, apenas o nosso desesperado\n58  desejo de alimento. E era justamente nos dias\n59  de parco ou nenhum alimento que ela mais\n60  brincava com as filhas. Nessas ocasiões a\n61  brincadeira preferida era aquela em que a mãe\n62  era a Senhora, a Rainha. Ela se assentava em\n63  seu trono, um pequeno banquinho de madeira.\n64  Felizes colhíamos flores cultivadas em um\n65  pequeno pedaço de terra que circundava o\n66  nosso barraco. Aquelas flores eram depois\n67  solenemente distribuídas por seus cabelos,\n68  braços e colo. E diante dela fazíamos\n69  reverências à Senhora. Postávamos deitadas\n70  no chão e batíamos cabeça para a Rainha. Nós,\n71  princesas, em volta dela, cantávamos,\n72  dançávamos, sorríamos. A mãe só ria, de uma\n73  maneira triste e com um sorriso molhado...\n74  Mas de que cor eram os olhos de minha mãe?\n75  Eu sabia, desde aquela época, que a mãe\n76  inventava esse e outros jogos para distrair a\n77  nossa fome. E a nossa fome se distraía.\n78  De vez em quando, no final da tarde, antes\n79  que a noite tomasse conta do tempo, ela se\n80  assentava na soleira da porta e juntas\n81  ficávamos contemplando as artes das nuvens\n82  no céu. Umas viravam carneirinhos; outras,\n83  cachorrinhos; algumas, gigantes adormecidos,\n84  e havia aquelas que eram só nuvens, algodão\n85  doce. Tudo tinha de ser muito rápido, antes\n86  que a nuvem derretesse e com ela também se\n87  esvaecessem os nossos sonhos. Mas, de que\n88  cor eram os olhos de minha mãe?\n89  Adaptado de: EVARISTO, C.\n90  Olhos d´água.\n91  Rio de Janeiro: Pallas, 2016.\n```\n\n---\n\nConsidere as seguintes afirmações sobre palavras e expressões do texto.\n\nI - As formas\nali (l. 06),\nAli (l. 49) e\nali (l. 57) fazem referência ao espaço onde morava e circulava\n\na narradora-personagem com a sua mãe.\n\nII - A repetição da palavra\nmartelando (l. 07), seguida de reticências, expressa a ideia de que\n\ndeterminado pensamento comparecia repetidamente na mente da narradora-personagem.\n\nIII- As formas verbais no pretérito perfeito e no pretérito imperfeito marcam ações pontuais e ações\n\ncontínuas, respectivamente.\n\nQuais estão corretas?",
       "alternatives": [
         "Apenas I.",
         "Apenas III.",
@@ -314,8 +314,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-13",
@@ -324,7 +324,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 10–15):**\n\nUma noite, há anos, acordei bruscamente e\n\numa estranha pergunta explodiu de minha\n\nboca. De que cor eram os olhos de minha mãe?\n\nAtordoada, custei reconhecer o quarto da nova\n\ncasa em que estava morando e não conseguia\n\nme lembrar como havia chegado até ali. E a\n\ninsistente pergunta, martelando, martelando...\n\nDe que cor eram os olhos de minha mãe?\n\nAquela indagação havia surgido há dias, há\n\nmeses, posso dizer. Entre um afazer e outro,\n\neu me pegava pensando de que cor seriam os\n\nolhos de minha mãe. E o que a princípio tinha\n\nsido um mero pensamento interrogativo,\n\nnaquela noite se transformou em uma dolorosa\n\npergunta carregada de um tom acusatório.\n\nEntão, eu não sabia de que cor eram os olhos\n\nde minha mãe?\n\nSendo ........ primeira de sete filhas, desde\n\ncedo, busquei dar conta de minhas próprias\n\ndificuldades, cresci rápido, passando por uma\n\nbreve adolescência. Sempre ao lado de minha\n\nmãe aprendi ........ conhecê-la. Decifrava o seu\n\nsilêncio nas horas de dificuldades, como\n\ntambém sabia reconhecer em seus gestos,\n\nprenúncios de possíveis alegrias. Naquele\n\nmomento, entretanto, me descobria cheia de\n\nculpa, por não recordar de que cor seriam os\n\nseus olhos. Eu achava tudo muito estranho,\n\npois me lembrava nitidamente de vários\n\ndetalhes do corpo dela. Da unha encravada do\n\ndedo mindinho do pé esquerdo... Da verruga\n\nque se perdia no meio da cabeleira crespa e\n\nbela... Um dia, brincando de pentear boneca,\n\nalegria que a mãe nos dava quando, deixando\n\npor uns momentos o lava-lava, o passa-passa\n\ndas roupagens alheias, se tornava uma grande\n\nboneca negra para as filhas, descobrimos uma\n\nbolinha escondida bem no couro cabeludo\n\ndela. Pensamos que fosse carrapato. A mãe\n\ncochilava e uma de minhas irmãs aflita,\n\nquerendo livrar a boneca-mãe daquele\n\npadecer, puxou rápido o bichinho. A mãe e nós\n\nrimos e rimos e rimos de nosso engano. A mãe\n\nriu tanto das lágrimas escorrerem. Mas, de que\n\ncor eram os olhos dela?\n\nEu me lembrava também de algumas\n\nhistórias da infância de minha mãe. Ela havia\n\nnascido em um lugar perdido no interior de\n\nMinas. Ali, as crianças andavam nuas até bem\n\ngrandinhas. As meninas, assim que os seios\n\ncomeçavam a brotar, ganhavam roupas antes\n\ndos meninos. ........ vezes, as histórias da\n\ninfância de minha mãe confundiam-se com\n\n........ de minha própria infância. Lembro-me\n\nde que muitas vezes, quando a mãe cozinhava,\n\nda panela subia cheiro algum. Era como se\n\ncozinhasse, ali, apenas o nosso desesperado\n\ndesejo de alimento. E era justamente nos dias\n\nde parco ou nenhum alimento que ela mais\n\nbrincava com as filhas. Nessas ocasiões a\n\nbrincadeira preferida era aquela em que a mãe\n\nera a Senhora, a Rainha. Ela se assentava em\n\nseu trono, um pequeno banquinho de madeira.\n\nFelizes colhíamos flores cultivadas em um\n\npequeno pedaço de terra que circundava o\n\nnosso barraco. Aquelas flores eram depois\n\nsolenemente distribuídas por seus cabelos,\n\nbraços e colo. E diante dela fazíamos\n\nreverências à Senhora. Postávamos deitadas\n\nno chão e batíamos cabeça para a Rainha. Nós,\n\nprincesas, em volta dela, cantávamos,\n\ndançávamos, sorríamos. A mãe só ria, de uma\n\nmaneira triste e com um sorriso molhado...\n\nMas de que cor eram os olhos de minha mãe?\n\nEu sabia, desde aquela época, que a mãe\n\ninventava esse e outros jogos para distrair a\n\nnossa fome. E a nossa fome se distraía.\n\nDe vez em quando, no final da tarde, antes\n\nque a noite tomasse conta do tempo, ela se\n\nassentava na soleira da porta e juntas\n\nficávamos contemplando as artes das nuvens\n\nno céu. Umas viravam carneirinhos; outras,\n\ncachorrinhos; algumas, gigantes adormecidos,\n\ne havia aquelas que eram só nuvens, algodão\n\ndoce. Tudo tinha de ser muito rápido, antes\n\nque a nuvem derretesse e com ela também se\n\nesvaecessem os nossos sonhos. Mas, de que\n\ncor eram os olhos de minha mãe?\n\nAdaptado de: EVARISTO, C.\nOlhos d´água.\n\nRio de Janeiro: Pallas, 2016.\n\n---\n\nNo bloco superior abaixo, são feitas afirmações sobre o emprego de palavras no texto; no bloco\n\ninferior, estão listadas palavras retiradas do texto.\n\nAssocie adequadamente o bloco inferior ao superior.\n\n1 - Palavra empregada como adjetivo.\n\n2 - Palavra empregada como advérbio.\n\n3 - Palavra empregada como substantivo.\n\n( )\nmero (l. 13).\n\n( )\nrápido (l. 20).\n\n( )\nbem (l. 49).\n\n( )\ngigantes (l. 83).\n\n( )\nrápido (l. 85).\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "statementMd": "**Texto-base (questões 10–15):**\n\n```\n01  Uma noite, há anos, acordei bruscamente e\n02  uma estranha pergunta explodiu de minha\n03  boca. De que cor eram os olhos de minha mãe?\n04  Atordoada, custei reconhecer o quarto da nova\n05  casa em que estava morando e não conseguia\n06  me lembrar como havia chegado até ali. E a\n07  insistente pergunta, martelando, martelando...\n08  De que cor eram os olhos de minha mãe?\n09  Aquela indagação havia surgido há dias, há\n10  meses, posso dizer. Entre um afazer e outro,\n11  eu me pegava pensando de que cor seriam os\n12  olhos de minha mãe. E o que a princípio tinha\n13  sido um mero pensamento interrogativo,\n14  naquela noite se transformou em uma dolorosa\n15  pergunta carregada de um tom acusatório.\n16  Então, eu não sabia de que cor eram os olhos\n17  de minha mãe?\n18  Sendo ........ primeira de sete filhas, desde\n19  cedo, busquei dar conta de minhas próprias\n20  dificuldades, cresci rápido, passando por uma\n21  breve adolescência. Sempre ao lado de minha\n22  mãe aprendi ........ conhecê-la. Decifrava o seu\n23  silêncio nas horas de dificuldades, como\n24  também sabia reconhecer em seus gestos,\n25  prenúncios de possíveis alegrias. Naquele\n26  momento, entretanto, me descobria cheia de\n27  culpa, por não recordar de que cor seriam os\n28  seus olhos. Eu achava tudo muito estranho,\n29  pois me lembrava nitidamente de vários\n30  detalhes do corpo dela. Da unha encravada do\n31  dedo mindinho do pé esquerdo... Da verruga\n32  que se perdia no meio da cabeleira crespa e\n33  bela... Um dia, brincando de pentear boneca,\n34  alegria que a mãe nos dava quando, deixando\n35  por uns momentos o lava-lava, o passa-passa\n36  das roupagens alheias, se tornava uma grande\n37  boneca negra para as filhas, descobrimos uma\n38  bolinha escondida bem no couro cabeludo\n39  dela. Pensamos que fosse carrapato. A mãe\n40  cochilava e uma de minhas irmãs aflita,\n41  querendo livrar a boneca-mãe daquele\n42  padecer, puxou rápido o bichinho. A mãe e nós\n43  rimos e rimos e rimos de nosso engano. A mãe\n44  riu tanto das lágrimas escorrerem. Mas, de que\n45  cor eram os olhos dela?\n46  Eu me lembrava também de algumas\n47  histórias da infância de minha mãe. Ela havia\n48  nascido em um lugar perdido no interior de\n49  Minas. Ali, as crianças andavam nuas até bem\n50  grandinhas. As meninas, assim que os seios\n51  começavam a brotar, ganhavam roupas antes\n52  dos meninos. ........ vezes, as histórias da\n53  infância de minha mãe confundiam-se com\n54  ........ de minha própria infância. Lembro-me\n55  de que muitas vezes, quando a mãe cozinhava,\n56  da panela subia cheiro algum. Era como se\n57  cozinhasse, ali, apenas o nosso desesperado\n58  desejo de alimento. E era justamente nos dias\n59  de parco ou nenhum alimento que ela mais\n60  brincava com as filhas. Nessas ocasiões a\n61  brincadeira preferida era aquela em que a mãe\n62  era a Senhora, a Rainha. Ela se assentava em\n63  seu trono, um pequeno banquinho de madeira.\n64  Felizes colhíamos flores cultivadas em um\n65  pequeno pedaço de terra que circundava o\n66  nosso barraco. Aquelas flores eram depois\n67  solenemente distribuídas por seus cabelos,\n68  braços e colo. E diante dela fazíamos\n69  reverências à Senhora. Postávamos deitadas\n70  no chão e batíamos cabeça para a Rainha. Nós,\n71  princesas, em volta dela, cantávamos,\n72  dançávamos, sorríamos. A mãe só ria, de uma\n73  maneira triste e com um sorriso molhado...\n74  Mas de que cor eram os olhos de minha mãe?\n75  Eu sabia, desde aquela época, que a mãe\n76  inventava esse e outros jogos para distrair a\n77  nossa fome. E a nossa fome se distraía.\n78  De vez em quando, no final da tarde, antes\n79  que a noite tomasse conta do tempo, ela se\n80  assentava na soleira da porta e juntas\n81  ficávamos contemplando as artes das nuvens\n82  no céu. Umas viravam carneirinhos; outras,\n83  cachorrinhos; algumas, gigantes adormecidos,\n84  e havia aquelas que eram só nuvens, algodão\n85  doce. Tudo tinha de ser muito rápido, antes\n86  que a nuvem derretesse e com ela também se\n87  esvaecessem os nossos sonhos. Mas, de que\n88  cor eram os olhos de minha mãe?\n89  Adaptado de: EVARISTO, C.\n90  Olhos d´água.\n91  Rio de Janeiro: Pallas, 2016.\n```\n\n---\n\nNo bloco superior abaixo, são feitas afirmações sobre o emprego de palavras no texto; no bloco\n\ninferior, estão listadas palavras retiradas do texto.\n\nAssocie adequadamente o bloco inferior ao superior.\n\n1 - Palavra empregada como adjetivo.\n\n2 - Palavra empregada como advérbio.\n\n3 - Palavra empregada como substantivo.\n\n( )\nmero (l. 13).\n\n( )\nrápido (l. 20).\n\n( )\nbem (l. 49).\n\n( )\ngigantes (l. 83).\n\n( )\nrápido (l. 85).\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": [
         "3 – 1 – 3 – 1 – 1.",
         "2 – 2 – 1 – 3 – 2.",
@@ -338,8 +338,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-14",
@@ -348,7 +348,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 10–15):**\n\nUma noite, há anos, acordei bruscamente e\n\numa estranha pergunta explodiu de minha\n\nboca. De que cor eram os olhos de minha mãe?\n\nAtordoada, custei reconhecer o quarto da nova\n\ncasa em que estava morando e não conseguia\n\nme lembrar como havia chegado até ali. E a\n\ninsistente pergunta, martelando, martelando...\n\nDe que cor eram os olhos de minha mãe?\n\nAquela indagação havia surgido há dias, há\n\nmeses, posso dizer. Entre um afazer e outro,\n\neu me pegava pensando de que cor seriam os\n\nolhos de minha mãe. E o que a princípio tinha\n\nsido um mero pensamento interrogativo,\n\nnaquela noite se transformou em uma dolorosa\n\npergunta carregada de um tom acusatório.\n\nEntão, eu não sabia de que cor eram os olhos\n\nde minha mãe?\n\nSendo ........ primeira de sete filhas, desde\n\ncedo, busquei dar conta de minhas próprias\n\ndificuldades, cresci rápido, passando por uma\n\nbreve adolescência. Sempre ao lado de minha\n\nmãe aprendi ........ conhecê-la. Decifrava o seu\n\nsilêncio nas horas de dificuldades, como\n\ntambém sabia reconhecer em seus gestos,\n\nprenúncios de possíveis alegrias. Naquele\n\nmomento, entretanto, me descobria cheia de\n\nculpa, por não recordar de que cor seriam os\n\nseus olhos. Eu achava tudo muito estranho,\n\npois me lembrava nitidamente de vários\n\ndetalhes do corpo dela. Da unha encravada do\n\ndedo mindinho do pé esquerdo... Da verruga\n\nque se perdia no meio da cabeleira crespa e\n\nbela... Um dia, brincando de pentear boneca,\n\nalegria que a mãe nos dava quando, deixando\n\npor uns momentos o lava-lava, o passa-passa\n\ndas roupagens alheias, se tornava uma grande\n\nboneca negra para as filhas, descobrimos uma\n\nbolinha escondida bem no couro cabeludo\n\ndela. Pensamos que fosse carrapato. A mãe\n\ncochilava e uma de minhas irmãs aflita,\n\nquerendo livrar a boneca-mãe daquele\n\npadecer, puxou rápido o bichinho. A mãe e nós\n\nrimos e rimos e rimos de nosso engano. A mãe\n\nriu tanto das lágrimas escorrerem. Mas, de que\n\ncor eram os olhos dela?\n\nEu me lembrava também de algumas\n\nhistórias da infância de minha mãe. Ela havia\n\nnascido em um lugar perdido no interior de\n\nMinas. Ali, as crianças andavam nuas até bem\n\ngrandinhas. As meninas, assim que os seios\n\ncomeçavam a brotar, ganhavam roupas antes\n\ndos meninos. ........ vezes, as histórias da\n\ninfância de minha mãe confundiam-se com\n\n........ de minha própria infância. Lembro-me\n\nde que muitas vezes, quando a mãe cozinhava,\n\nda panela subia cheiro algum. Era como se\n\ncozinhasse, ali, apenas o nosso desesperado\n\ndesejo de alimento. E era justamente nos dias\n\nde parco ou nenhum alimento que ela mais\n\nbrincava com as filhas. Nessas ocasiões a\n\nbrincadeira preferida era aquela em que a mãe\n\nera a Senhora, a Rainha. Ela se assentava em\n\nseu trono, um pequeno banquinho de madeira.\n\nFelizes colhíamos flores cultivadas em um\n\npequeno pedaço de terra que circundava o\n\nnosso barraco. Aquelas flores eram depois\n\nsolenemente distribuídas por seus cabelos,\n\nbraços e colo. E diante dela fazíamos\n\nreverências à Senhora. Postávamos deitadas\n\nno chão e batíamos cabeça para a Rainha. Nós,\n\nprincesas, em volta dela, cantávamos,\n\ndançávamos, sorríamos. A mãe só ria, de uma\n\nmaneira triste e com um sorriso molhado...\n\nMas de que cor eram os olhos de minha mãe?\n\nEu sabia, desde aquela época, que a mãe\n\ninventava esse e outros jogos para distrair a\n\nnossa fome. E a nossa fome se distraía.\n\nDe vez em quando, no final da tarde, antes\n\nque a noite tomasse conta do tempo, ela se\n\nassentava na soleira da porta e juntas\n\nficávamos contemplando as artes das nuvens\n\nno céu. Umas viravam carneirinhos; outras,\n\ncachorrinhos; algumas, gigantes adormecidos,\n\ne havia aquelas que eram só nuvens, algodão\n\ndoce. Tudo tinha de ser muito rápido, antes\n\nque a nuvem derretesse e com ela também se\n\nesvaecessem os nossos sonhos. Mas, de que\n\ncor eram os olhos de minha mãe?\n\nAdaptado de: EVARISTO, C.\nOlhos d´água.\n\nRio de Janeiro: Pallas, 2016.\n\n---\n\nAssinale com V (verdadeiro) ou F (falso) as afirmações a seguir.\n\n( ) A expressão\nde alimento (l. 58) desempenha a função sintática de complemento nominal.\n\n( ) A expressão\npor seus cabelos, braços e colo (l. 67-68) desempenha a função sintática de\n\nagente da passiva.\n\n( ) A expressão\nos nossos sonhos (l. 87) desempenha a função sintática de objeto direto.\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "statementMd": "**Texto-base (questões 10–15):**\n\n```\n01  Uma noite, há anos, acordei bruscamente e\n02  uma estranha pergunta explodiu de minha\n03  boca. De que cor eram os olhos de minha mãe?\n04  Atordoada, custei reconhecer o quarto da nova\n05  casa em que estava morando e não conseguia\n06  me lembrar como havia chegado até ali. E a\n07  insistente pergunta, martelando, martelando...\n08  De que cor eram os olhos de minha mãe?\n09  Aquela indagação havia surgido há dias, há\n10  meses, posso dizer. Entre um afazer e outro,\n11  eu me pegava pensando de que cor seriam os\n12  olhos de minha mãe. E o que a princípio tinha\n13  sido um mero pensamento interrogativo,\n14  naquela noite se transformou em uma dolorosa\n15  pergunta carregada de um tom acusatório.\n16  Então, eu não sabia de que cor eram os olhos\n17  de minha mãe?\n18  Sendo ........ primeira de sete filhas, desde\n19  cedo, busquei dar conta de minhas próprias\n20  dificuldades, cresci rápido, passando por uma\n21  breve adolescência. Sempre ao lado de minha\n22  mãe aprendi ........ conhecê-la. Decifrava o seu\n23  silêncio nas horas de dificuldades, como\n24  também sabia reconhecer em seus gestos,\n25  prenúncios de possíveis alegrias. Naquele\n26  momento, entretanto, me descobria cheia de\n27  culpa, por não recordar de que cor seriam os\n28  seus olhos. Eu achava tudo muito estranho,\n29  pois me lembrava nitidamente de vários\n30  detalhes do corpo dela. Da unha encravada do\n31  dedo mindinho do pé esquerdo... Da verruga\n32  que se perdia no meio da cabeleira crespa e\n33  bela... Um dia, brincando de pentear boneca,\n34  alegria que a mãe nos dava quando, deixando\n35  por uns momentos o lava-lava, o passa-passa\n36  das roupagens alheias, se tornava uma grande\n37  boneca negra para as filhas, descobrimos uma\n38  bolinha escondida bem no couro cabeludo\n39  dela. Pensamos que fosse carrapato. A mãe\n40  cochilava e uma de minhas irmãs aflita,\n41  querendo livrar a boneca-mãe daquele\n42  padecer, puxou rápido o bichinho. A mãe e nós\n43  rimos e rimos e rimos de nosso engano. A mãe\n44  riu tanto das lágrimas escorrerem. Mas, de que\n45  cor eram os olhos dela?\n46  Eu me lembrava também de algumas\n47  histórias da infância de minha mãe. Ela havia\n48  nascido em um lugar perdido no interior de\n49  Minas. Ali, as crianças andavam nuas até bem\n50  grandinhas. As meninas, assim que os seios\n51  começavam a brotar, ganhavam roupas antes\n52  dos meninos. ........ vezes, as histórias da\n53  infância de minha mãe confundiam-se com\n54  ........ de minha própria infância. Lembro-me\n55  de que muitas vezes, quando a mãe cozinhava,\n56  da panela subia cheiro algum. Era como se\n57  cozinhasse, ali, apenas o nosso desesperado\n58  desejo de alimento. E era justamente nos dias\n59  de parco ou nenhum alimento que ela mais\n60  brincava com as filhas. Nessas ocasiões a\n61  brincadeira preferida era aquela em que a mãe\n62  era a Senhora, a Rainha. Ela se assentava em\n63  seu trono, um pequeno banquinho de madeira.\n64  Felizes colhíamos flores cultivadas em um\n65  pequeno pedaço de terra que circundava o\n66  nosso barraco. Aquelas flores eram depois\n67  solenemente distribuídas por seus cabelos,\n68  braços e colo. E diante dela fazíamos\n69  reverências à Senhora. Postávamos deitadas\n70  no chão e batíamos cabeça para a Rainha. Nós,\n71  princesas, em volta dela, cantávamos,\n72  dançávamos, sorríamos. A mãe só ria, de uma\n73  maneira triste e com um sorriso molhado...\n74  Mas de que cor eram os olhos de minha mãe?\n75  Eu sabia, desde aquela época, que a mãe\n76  inventava esse e outros jogos para distrair a\n77  nossa fome. E a nossa fome se distraía.\n78  De vez em quando, no final da tarde, antes\n79  que a noite tomasse conta do tempo, ela se\n80  assentava na soleira da porta e juntas\n81  ficávamos contemplando as artes das nuvens\n82  no céu. Umas viravam carneirinhos; outras,\n83  cachorrinhos; algumas, gigantes adormecidos,\n84  e havia aquelas que eram só nuvens, algodão\n85  doce. Tudo tinha de ser muito rápido, antes\n86  que a nuvem derretesse e com ela também se\n87  esvaecessem os nossos sonhos. Mas, de que\n88  cor eram os olhos de minha mãe?\n89  Adaptado de: EVARISTO, C.\n90  Olhos d´água.\n91  Rio de Janeiro: Pallas, 2016.\n```\n\n---\n\nAssinale com V (verdadeiro) ou F (falso) as afirmações a seguir.\n\n( ) A expressão\nde alimento (l. 58) desempenha a função sintática de complemento nominal.\n\n( ) A expressão\npor seus cabelos, braços e colo (l. 67-68) desempenha a função sintática de\n\nagente da passiva.\n\n( ) A expressão\nos nossos sonhos (l. 87) desempenha a função sintática de objeto direto.\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       "alternatives": [
         "F – F – V.",
         "V – F – V.",
@@ -362,8 +362,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-15",
@@ -372,7 +372,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 10–15):**\n\nUma noite, há anos, acordei bruscamente e\n\numa estranha pergunta explodiu de minha\n\nboca. De que cor eram os olhos de minha mãe?\n\nAtordoada, custei reconhecer o quarto da nova\n\ncasa em que estava morando e não conseguia\n\nme lembrar como havia chegado até ali. E a\n\ninsistente pergunta, martelando, martelando...\n\nDe que cor eram os olhos de minha mãe?\n\nAquela indagação havia surgido há dias, há\n\nmeses, posso dizer. Entre um afazer e outro,\n\neu me pegava pensando de que cor seriam os\n\nolhos de minha mãe. E o que a princípio tinha\n\nsido um mero pensamento interrogativo,\n\nnaquela noite se transformou em uma dolorosa\n\npergunta carregada de um tom acusatório.\n\nEntão, eu não sabia de que cor eram os olhos\n\nde minha mãe?\n\nSendo ........ primeira de sete filhas, desde\n\ncedo, busquei dar conta de minhas próprias\n\ndificuldades, cresci rápido, passando por uma\n\nbreve adolescência. Sempre ao lado de minha\n\nmãe aprendi ........ conhecê-la. Decifrava o seu\n\nsilêncio nas horas de dificuldades, como\n\ntambém sabia reconhecer em seus gestos,\n\nprenúncios de possíveis alegrias. Naquele\n\nmomento, entretanto, me descobria cheia de\n\nculpa, por não recordar de que cor seriam os\n\nseus olhos. Eu achava tudo muito estranho,\n\npois me lembrava nitidamente de vários\n\ndetalhes do corpo dela. Da unha encravada do\n\ndedo mindinho do pé esquerdo... Da verruga\n\nque se perdia no meio da cabeleira crespa e\n\nbela... Um dia, brincando de pentear boneca,\n\nalegria que a mãe nos dava quando, deixando\n\npor uns momentos o lava-lava, o passa-passa\n\ndas roupagens alheias, se tornava uma grande\n\nboneca negra para as filhas, descobrimos uma\n\nbolinha escondida bem no couro cabeludo\n\ndela. Pensamos que fosse carrapato. A mãe\n\ncochilava e uma de minhas irmãs aflita,\n\nquerendo livrar a boneca-mãe daquele\n\npadecer, puxou rápido o bichinho. A mãe e nós\n\nrimos e rimos e rimos de nosso engano. A mãe\n\nriu tanto das lágrimas escorrerem. Mas, de que\n\ncor eram os olhos dela?\n\nEu me lembrava também de algumas\n\nhistórias da infância de minha mãe. Ela havia\n\nnascido em um lugar perdido no interior de\n\nMinas. Ali, as crianças andavam nuas até bem\n\ngrandinhas. As meninas, assim que os seios\n\ncomeçavam a brotar, ganhavam roupas antes\n\ndos meninos. ........ vezes, as histórias da\n\ninfância de minha mãe confundiam-se com\n\n........ de minha própria infância. Lembro-me\n\nde que muitas vezes, quando a mãe cozinhava,\n\nda panela subia cheiro algum. Era como se\n\ncozinhasse, ali, apenas o nosso desesperado\n\ndesejo de alimento. E era justamente nos dias\n\nde parco ou nenhum alimento que ela mais\n\nbrincava com as filhas. Nessas ocasiões a\n\nbrincadeira preferida era aquela em que a mãe\n\nera a Senhora, a Rainha. Ela se assentava em\n\nseu trono, um pequeno banquinho de madeira.\n\nFelizes colhíamos flores cultivadas em um\n\npequeno pedaço de terra que circundava o\n\nnosso barraco. Aquelas flores eram depois\n\nsolenemente distribuídas por seus cabelos,\n\nbraços e colo. E diante dela fazíamos\n\nreverências à Senhora. Postávamos deitadas\n\nno chão e batíamos cabeça para a Rainha. Nós,\n\nprincesas, em volta dela, cantávamos,\n\ndançávamos, sorríamos. A mãe só ria, de uma\n\nmaneira triste e com um sorriso molhado...\n\nMas de que cor eram os olhos de minha mãe?\n\nEu sabia, desde aquela época, que a mãe\n\ninventava esse e outros jogos para distrair a\n\nnossa fome. E a nossa fome se distraía.\n\nDe vez em quando, no final da tarde, antes\n\nque a noite tomasse conta do tempo, ela se\n\nassentava na soleira da porta e juntas\n\nficávamos contemplando as artes das nuvens\n\nno céu. Umas viravam carneirinhos; outras,\n\ncachorrinhos; algumas, gigantes adormecidos,\n\ne havia aquelas que eram só nuvens, algodão\n\ndoce. Tudo tinha de ser muito rápido, antes\n\nque a nuvem derretesse e com ela também se\n\nesvaecessem os nossos sonhos. Mas, de que\n\ncor eram os olhos de minha mãe?\n\nAdaptado de: EVARISTO, C.\nOlhos d´água.\n\nRio de Janeiro: Pallas, 2016.\n\n---\n\nAssinale a alternativa correta sobre a tipologia textual dominante de cada um dos textos da prova.",
+      "statementMd": "**Texto-base (questões 10–15):**\n\n```\n01  Uma noite, há anos, acordei bruscamente e\n02  uma estranha pergunta explodiu de minha\n03  boca. De que cor eram os olhos de minha mãe?\n04  Atordoada, custei reconhecer o quarto da nova\n05  casa em que estava morando e não conseguia\n06  me lembrar como havia chegado até ali. E a\n07  insistente pergunta, martelando, martelando...\n08  De que cor eram os olhos de minha mãe?\n09  Aquela indagação havia surgido há dias, há\n10  meses, posso dizer. Entre um afazer e outro,\n11  eu me pegava pensando de que cor seriam os\n12  olhos de minha mãe. E o que a princípio tinha\n13  sido um mero pensamento interrogativo,\n14  naquela noite se transformou em uma dolorosa\n15  pergunta carregada de um tom acusatório.\n16  Então, eu não sabia de que cor eram os olhos\n17  de minha mãe?\n18  Sendo ........ primeira de sete filhas, desde\n19  cedo, busquei dar conta de minhas próprias\n20  dificuldades, cresci rápido, passando por uma\n21  breve adolescência. Sempre ao lado de minha\n22  mãe aprendi ........ conhecê-la. Decifrava o seu\n23  silêncio nas horas de dificuldades, como\n24  também sabia reconhecer em seus gestos,\n25  prenúncios de possíveis alegrias. Naquele\n26  momento, entretanto, me descobria cheia de\n27  culpa, por não recordar de que cor seriam os\n28  seus olhos. Eu achava tudo muito estranho,\n29  pois me lembrava nitidamente de vários\n30  detalhes do corpo dela. Da unha encravada do\n31  dedo mindinho do pé esquerdo... Da verruga\n32  que se perdia no meio da cabeleira crespa e\n33  bela... Um dia, brincando de pentear boneca,\n34  alegria que a mãe nos dava quando, deixando\n35  por uns momentos o lava-lava, o passa-passa\n36  das roupagens alheias, se tornava uma grande\n37  boneca negra para as filhas, descobrimos uma\n38  bolinha escondida bem no couro cabeludo\n39  dela. Pensamos que fosse carrapato. A mãe\n40  cochilava e uma de minhas irmãs aflita,\n41  querendo livrar a boneca-mãe daquele\n42  padecer, puxou rápido o bichinho. A mãe e nós\n43  rimos e rimos e rimos de nosso engano. A mãe\n44  riu tanto das lágrimas escorrerem. Mas, de que\n45  cor eram os olhos dela?\n46  Eu me lembrava também de algumas\n47  histórias da infância de minha mãe. Ela havia\n48  nascido em um lugar perdido no interior de\n49  Minas. Ali, as crianças andavam nuas até bem\n50  grandinhas. As meninas, assim que os seios\n51  começavam a brotar, ganhavam roupas antes\n52  dos meninos. ........ vezes, as histórias da\n53  infância de minha mãe confundiam-se com\n54  ........ de minha própria infância. Lembro-me\n55  de que muitas vezes, quando a mãe cozinhava,\n56  da panela subia cheiro algum. Era como se\n57  cozinhasse, ali, apenas o nosso desesperado\n58  desejo de alimento. E era justamente nos dias\n59  de parco ou nenhum alimento que ela mais\n60  brincava com as filhas. Nessas ocasiões a\n61  brincadeira preferida era aquela em que a mãe\n62  era a Senhora, a Rainha. Ela se assentava em\n63  seu trono, um pequeno banquinho de madeira.\n64  Felizes colhíamos flores cultivadas em um\n65  pequeno pedaço de terra que circundava o\n66  nosso barraco. Aquelas flores eram depois\n67  solenemente distribuídas por seus cabelos,\n68  braços e colo. E diante dela fazíamos\n69  reverências à Senhora. Postávamos deitadas\n70  no chão e batíamos cabeça para a Rainha. Nós,\n71  princesas, em volta dela, cantávamos,\n72  dançávamos, sorríamos. A mãe só ria, de uma\n73  maneira triste e com um sorriso molhado...\n74  Mas de que cor eram os olhos de minha mãe?\n75  Eu sabia, desde aquela época, que a mãe\n76  inventava esse e outros jogos para distrair a\n77  nossa fome. E a nossa fome se distraía.\n78  De vez em quando, no final da tarde, antes\n79  que a noite tomasse conta do tempo, ela se\n80  assentava na soleira da porta e juntas\n81  ficávamos contemplando as artes das nuvens\n82  no céu. Umas viravam carneirinhos; outras,\n83  cachorrinhos; algumas, gigantes adormecidos,\n84  e havia aquelas que eram só nuvens, algodão\n85  doce. Tudo tinha de ser muito rápido, antes\n86  que a nuvem derretesse e com ela também se\n87  esvaecessem os nossos sonhos. Mas, de que\n88  cor eram os olhos de minha mãe?\n89  Adaptado de: EVARISTO, C.\n90  Olhos d´água.\n91  Rio de Janeiro: Pallas, 2016.\n```\n\n---\n\nAssinale a alternativa correta sobre a tipologia textual dominante de cada um dos textos da prova.",
       "alternatives": [
         "O texto 1 é predominantemente dissertativo, e o texto 2 é predominantemente narrativo.",
         "O texto 1 é predominantemente injuntivo, e o texto 2 é predominantemente narrativo.",
@@ -386,8 +386,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-16",
@@ -410,8 +410,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-17",
@@ -434,8 +434,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-18",
@@ -458,8 +458,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-19",
@@ -482,8 +482,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-20",
@@ -506,8 +506,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-21",
@@ -530,8 +530,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-22",
@@ -554,8 +554,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-23",
@@ -578,8 +578,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-24",
@@ -602,8 +602,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-25",
@@ -626,8 +626,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-26",
@@ -650,8 +650,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-27",
@@ -674,8 +674,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-28",
@@ -698,8 +698,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-29",
@@ -722,8 +722,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-30",
@@ -746,8 +746,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-31",
@@ -770,8 +770,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-32",
@@ -794,8 +794,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-33",
@@ -818,8 +818,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-34",
@@ -842,8 +842,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-35",
@@ -866,8 +866,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-36",
@@ -890,8 +890,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-37",
@@ -914,8 +914,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-38",
@@ -938,8 +938,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-39",
@@ -962,8 +962,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-40",
@@ -986,8 +986,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-41",
@@ -1010,8 +1010,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-42",
@@ -1034,8 +1034,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-43",
@@ -1058,8 +1058,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-44",
@@ -1082,8 +1082,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-45",
@@ -1106,8 +1106,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-47",
@@ -1130,8 +1130,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-48",
@@ -1154,8 +1154,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-49",
@@ -1178,8 +1178,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-50",
@@ -1202,8 +1202,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-51",
@@ -1226,8 +1226,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-52",
@@ -1250,8 +1250,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-53",
@@ -1274,8 +1274,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-54",
@@ -1298,8 +1298,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-55",
@@ -1322,8 +1322,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-56",
@@ -1346,8 +1346,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-57",
@@ -1370,8 +1370,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-58",
@@ -1394,8 +1394,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-59",
@@ -1418,8 +1418,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     },
     {
       "externalId": "ufrgs-2024-2024-60",
@@ -1442,8 +1442,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:50.433Z",
-      "updatedAt": "2026-05-18T23:12:50.433Z"
+      "createdAt": "2026-05-19T00:07:42.297Z",
+      "updatedAt": "2026-05-19T00:07:42.297Z"
     }
   ],
   "sessions": [],

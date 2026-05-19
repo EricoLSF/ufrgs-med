@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-05-18T23:12:56.041Z",
+  "exportedAt": "2026-05-19T00:07:47.082Z",
   "subjects": [
     {
       "id": -1,
@@ -42,7 +42,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–7):**\n\nIt’s funny that James and I turned out to be\n\nsuch great friends, considering that for the first\n\ntwo weeks of our friendship he thought I was\n\nsomeone else entirely.\n\nI remember our first meeting like it’s a scene\n\nfrom a movie about someone else. It was a\n\nThursday ........ November, and I was standing\n\nbehind the counter ........ O’Connor Books. This\n\nwas 2009. It was my final year ........\n\nuniversity, and there were twenty-nine days\n\nuntil Christmas. Our manager, Ben, was\n\nalready worried that it would be a\n\ndisappointing season, and was always walking\n\naround saying things about “the industry”. He\n\ntalked about the book industry as if it were a\n\ndragon that was chained in the basement, and\n\nwould tear us limb from limb at any moment.\n\nHe spoke about that year’s spate of stocking -\n\nfiller books – Dawn French and Julie Walters\n\nhad competing memoirs out, I believe – as if\n\nthey were charred corpses that we were flinging\n\ninto the dragon’s throat to keep it sated.\n\n“This will keep the industry going”, Ben said,\n\nwith almost touching sincerity. He had more\n\nfaith ........ the memories of character\n\nactresses than I imagine either Julie Walters or\n\nDawn French had when writing them down. I\n\nlifted another stack out of the stockroom, the\n\nbook tower starting at my waist and sitting\n\nunder my chin.\n\nJames Devlin had started as a Christmas temp\n\nthe Thursday before, which I had taken as time\n\noff so I could finish my end-of-year essays for\n\ncollege. James had spent his first shift with\n\nSabrina. Later, he would say that he was so\n\ninundated with new faces and names on his\n\nfirst shift that they were a blur, and when I said\n\nthat was nonsense, he threw his hands up and\n\nsaid straight women all looked the same to him.\n\nThe first shift with Sabrina must have been fun\n\n– puzzling, considering how little craic Sabrina\n\nwas generally understood to be – because\n\nwhen James opened the wooden flap to the\n\ncounter area, he was full of conspiracy.\n\n“\nSomeone here has sc abies”, he said, “and\n\nthey left the lotion in the jacks”.\n\nIt feels strange now, setting that first\n\nconversation down like this, because it does\n\nnothing to communicate how James was. How\n\nutterly charming this opener was to me.\n\n“\nSomeone here has scabies.” He said it like he\n\nwas Poirot investigating a country house\n\nblighted by murder. Like someone who saw the\n\ninherent prejudices of our polite society and\n\nwas prepared to unveil it. The second part of\n\nthe sentence was a whole different thing: “and\n\nthey left the lotion in the jacks.” He was from\n\nCork county, Fermoy to be exact, which was\n\nstrictly country to me. But he had grown up in\n\nthe UK – all over it, I would later learn – and\n\nso his voice had a peculiar quality that was\n\nhard to place. I was born in Douglas, a\n\nsuburban little village that was two miles south\n\nof the city centre, and I was still living there.\n\nAdaptado de: O’DONOGHUE, C .\nThe Rachel\n\nIncident. New York: Knopf Publishing Group,\n\n2023. p. 10-11.\n\n---\n\nAssinale a alternativa que preenche adequada-\n\nmente as lacunas das linhas 07, 08, 09 e 25,\n\nnesta ordem.",
+      "statementMd": "**Texto-base (questões 1–7):**\n\n```\n01  It’s funny that James and I turned out to be\n02  such great friends, considering that for the first\n03  two weeks of our friendship he thought I was\n04  someone else entirely.\n05  I remember our first meeting like it’s a scene\n06  from a movie about someone else. It was a\n07  Thursday ........ November, and I was standing\n08  behind the counter ........ O’Connor Books. This\n09  was 2009. It was my final year ........\n10  university, and there were twenty-nine days\n11  until Christmas. Our manager, Ben, was\n12  already worried that it would be a\n13  disappointing season, and was always walking\n14  around saying things about “the industry”. He\n15  talked about the book industry as if it were a\n16  dragon that was chained in the basement, and\n17  would tear us limb from limb at any moment.\n18  He spoke about that year’s spate of stocking -\n19  filler books – Dawn French and Julie Walters\n20  had competing memoirs out, I believe – as if\n21  they were charred corpses that we were flinging\n22  into the dragon’s throat to keep it sated.\n23  “This will keep the industry going”, Ben said,\n24  with almost touching sincerity. He had more\n25  faith ........ the memories of character\n26  actresses than I imagine either Julie Walters or\n27  Dawn French had when writing them down. I\n28  lifted another stack out of the stockroom, the\n29  book tower starting at my waist and sitting\n30  under my chin.\n31  James Devlin had started as a Christmas temp\n32  the Thursday before, which I had taken as time\n33  off so I could finish my end-of-year essays for\n34  college. James had spent his first shift with\n35  Sabrina. Later, he would say that he was so\n36  inundated with new faces and names on his\n37  first shift that they were a blur, and when I said\n38  that was nonsense, he threw his hands up and\n39  said straight women all looked the same to him.\n40  The first shift with Sabrina must have been fun\n41  – puzzling, considering how little craic Sabrina\n42  was generally understood to be – because\n43  when James opened the wooden flap to the\n44  counter area, he was full of conspiracy.\n45  “\n46  Someone here has sc abies”, he said, “and\n47  they left the lotion in the jacks”.\n48  It feels strange now, setting that first\n49  conversation down like this, because it does\n50  nothing to communicate how James was. How\n51  utterly charming this opener was to me.\n52  “\n53  Someone here has scabies.” He said it like he\n54  was Poirot investigating a country house\n55  blighted by murder. Like someone who saw the\n56  inherent prejudices of our polite society and\n57  was prepared to unveil it. The second part of\n58  the sentence was a whole different thing: “and\n59  they left the lotion in the jacks.” He was from\n60  Cork county, Fermoy to be exact, which was\n61  strictly country to me. But he had grown up in\n62  the UK – all over it, I would later learn – and\n63  so his voice had a peculiar quality that was\n64  hard to place. I was born in Douglas, a\n65  suburban little village that was two miles south\n66  of the city centre, and I was still living there.\n67  Adaptado de: O’DONOGHUE, C .\n68  The Rachel\n69  Incident. New York: Knopf Publishing Group,\n70  2023. p. 10-11.\n```\n\n---\n\nAssinale a alternativa que preenche adequada-\n\nmente as lacunas das linhas 07, 08, 09 e 25,\n\nnesta ordem.",
       "alternatives": [
         "in – in – of – in",
         "in – at – at – in",
@@ -56,8 +56,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-02",
@@ -66,7 +66,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–7):**\n\nIt’s funny that James and I turned out to be\n\nsuch great friends, considering that for the first\n\ntwo weeks of our friendship he thought I was\n\nsomeone else entirely.\n\nI remember our first meeting like it’s a scene\n\nfrom a movie about someone else. It was a\n\nThursday ........ November, and I was standing\n\nbehind the counter ........ O’Connor Books. This\n\nwas 2009. It was my final year ........\n\nuniversity, and there were twenty-nine days\n\nuntil Christmas. Our manager, Ben, was\n\nalready worried that it would be a\n\ndisappointing season, and was always walking\n\naround saying things about “the industry”. He\n\ntalked about the book industry as if it were a\n\ndragon that was chained in the basement, and\n\nwould tear us limb from limb at any moment.\n\nHe spoke about that year’s spate of stocking -\n\nfiller books – Dawn French and Julie Walters\n\nhad competing memoirs out, I believe – as if\n\nthey were charred corpses that we were flinging\n\ninto the dragon’s throat to keep it sated.\n\n“This will keep the industry going”, Ben said,\n\nwith almost touching sincerity. He had more\n\nfaith ........ the memories of character\n\nactresses than I imagine either Julie Walters or\n\nDawn French had when writing them down. I\n\nlifted another stack out of the stockroom, the\n\nbook tower starting at my waist and sitting\n\nunder my chin.\n\nJames Devlin had started as a Christmas temp\n\nthe Thursday before, which I had taken as time\n\noff so I could finish my end-of-year essays for\n\ncollege. James had spent his first shift with\n\nSabrina. Later, he would say that he was so\n\ninundated with new faces and names on his\n\nfirst shift that they were a blur, and when I said\n\nthat was nonsense, he threw his hands up and\n\nsaid straight women all looked the same to him.\n\nThe first shift with Sabrina must have been fun\n\n– puzzling, considering how little craic Sabrina\n\nwas generally understood to be – because\n\nwhen James opened the wooden flap to the\n\ncounter area, he was full of conspiracy.\n\n“\nSomeone here has sc abies”, he said, “and\n\nthey left the lotion in the jacks”.\n\nIt feels strange now, setting that first\n\nconversation down like this, because it does\n\nnothing to communicate how James was. How\n\nutterly charming this opener was to me.\n\n“\nSomeone here has scabies.” He said it like he\n\nwas Poirot investigating a country house\n\nblighted by murder. Like someone who saw the\n\ninherent prejudices of our polite society and\n\nwas prepared to unveil it. The second part of\n\nthe sentence was a whole different thing: “and\n\nthey left the lotion in the jacks.” He was from\n\nCork county, Fermoy to be exact, which was\n\nstrictly country to me. But he had grown up in\n\nthe UK – all over it, I would later learn – and\n\nso his voice had a peculiar quality that was\n\nhard to place. I was born in Douglas, a\n\nsuburban little village that was two miles south\n\nof the city centre, and I was still living there.\n\nAdaptado de: O’DONOGHUE, C .\nThe Rachel\n\nIncident. New York: Knopf Publishing Group,\n\n2023. p. 10-11.\n\n---\n\nAssinale a alternativa correta em relação ao\n\ntexto.",
+      "statementMd": "**Texto-base (questões 1–7):**\n\n```\n01  It’s funny that James and I turned out to be\n02  such great friends, considering that for the first\n03  two weeks of our friendship he thought I was\n04  someone else entirely.\n05  I remember our first meeting like it’s a scene\n06  from a movie about someone else. It was a\n07  Thursday ........ November, and I was standing\n08  behind the counter ........ O’Connor Books. This\n09  was 2009. It was my final year ........\n10  university, and there were twenty-nine days\n11  until Christmas. Our manager, Ben, was\n12  already worried that it would be a\n13  disappointing season, and was always walking\n14  around saying things about “the industry”. He\n15  talked about the book industry as if it were a\n16  dragon that was chained in the basement, and\n17  would tear us limb from limb at any moment.\n18  He spoke about that year’s spate of stocking -\n19  filler books – Dawn French and Julie Walters\n20  had competing memoirs out, I believe – as if\n21  they were charred corpses that we were flinging\n22  into the dragon’s throat to keep it sated.\n23  “This will keep the industry going”, Ben said,\n24  with almost touching sincerity. He had more\n25  faith ........ the memories of character\n26  actresses than I imagine either Julie Walters or\n27  Dawn French had when writing them down. I\n28  lifted another stack out of the stockroom, the\n29  book tower starting at my waist and sitting\n30  under my chin.\n31  James Devlin had started as a Christmas temp\n32  the Thursday before, which I had taken as time\n33  off so I could finish my end-of-year essays for\n34  college. James had spent his first shift with\n35  Sabrina. Later, he would say that he was so\n36  inundated with new faces and names on his\n37  first shift that they were a blur, and when I said\n38  that was nonsense, he threw his hands up and\n39  said straight women all looked the same to him.\n40  The first shift with Sabrina must have been fun\n41  – puzzling, considering how little craic Sabrina\n42  was generally understood to be – because\n43  when James opened the wooden flap to the\n44  counter area, he was full of conspiracy.\n45  “\n46  Someone here has sc abies”, he said, “and\n47  they left the lotion in the jacks”.\n48  It feels strange now, setting that first\n49  conversation down like this, because it does\n50  nothing to communicate how James was. How\n51  utterly charming this opener was to me.\n52  “\n53  Someone here has scabies.” He said it like he\n54  was Poirot investigating a country house\n55  blighted by murder. Like someone who saw the\n56  inherent prejudices of our polite society and\n57  was prepared to unveil it. The second part of\n58  the sentence was a whole different thing: “and\n59  they left the lotion in the jacks.” He was from\n60  Cork county, Fermoy to be exact, which was\n61  strictly country to me. But he had grown up in\n62  the UK – all over it, I would later learn – and\n63  so his voice had a peculiar quality that was\n64  hard to place. I was born in Douglas, a\n65  suburban little village that was two miles south\n66  of the city centre, and I was still living there.\n67  Adaptado de: O’DONOGHUE, C .\n68  The Rachel\n69  Incident. New York: Knopf Publishing Group,\n70  2023. p. 10-11.\n```\n\n---\n\nAssinale a alternativa correta em relação ao\n\ntexto.",
       "alternatives": [
         "O texto revive o encontro entre a\n\nnarradora e James, no primeiro turno de\n\ntrabalho dele na livraria, enfatizando como\n\nos muitos nomes e rostos apresentados\n\nnaquela ocasião tornaram a memória\n\ndesse evento difusa.",
         "James pressupôs que sua colega Sabrina\n\ntivesse uma doença de pele, devido ao fato\n\nde ele ter encontrado uma loção no\n\nbanheiro da livraria.",
@@ -80,8 +80,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-03",
@@ -90,7 +90,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–7):**\n\nIt’s funny that James and I turned out to be\n\nsuch great friends, considering that for the first\n\ntwo weeks of our friendship he thought I was\n\nsomeone else entirely.\n\nI remember our first meeting like it’s a scene\n\nfrom a movie about someone else. It was a\n\nThursday ........ November, and I was standing\n\nbehind the counter ........ O’Connor Books. This\n\nwas 2009. It was my final year ........\n\nuniversity, and there were twenty-nine days\n\nuntil Christmas. Our manager, Ben, was\n\nalready worried that it would be a\n\ndisappointing season, and was always walking\n\naround saying things about “the industry”. He\n\ntalked about the book industry as if it were a\n\ndragon that was chained in the basement, and\n\nwould tear us limb from limb at any moment.\n\nHe spoke about that year’s spate of stocking -\n\nfiller books – Dawn French and Julie Walters\n\nhad competing memoirs out, I believe – as if\n\nthey were charred corpses that we were flinging\n\ninto the dragon’s throat to keep it sated.\n\n“This will keep the industry going”, Ben said,\n\nwith almost touching sincerity. He had more\n\nfaith ........ the memories of character\n\nactresses than I imagine either Julie Walters or\n\nDawn French had when writing them down. I\n\nlifted another stack out of the stockroom, the\n\nbook tower starting at my waist and sitting\n\nunder my chin.\n\nJames Devlin had started as a Christmas temp\n\nthe Thursday before, which I had taken as time\n\noff so I could finish my end-of-year essays for\n\ncollege. James had spent his first shift with\n\nSabrina. Later, he would say that he was so\n\ninundated with new faces and names on his\n\nfirst shift that they were a blur, and when I said\n\nthat was nonsense, he threw his hands up and\n\nsaid straight women all looked the same to him.\n\nThe first shift with Sabrina must have been fun\n\n– puzzling, considering how little craic Sabrina\n\nwas generally understood to be – because\n\nwhen James opened the wooden flap to the\n\ncounter area, he was full of conspiracy.\n\n“\nSomeone here has sc abies”, he said, “and\n\nthey left the lotion in the jacks”.\n\nIt feels strange now, setting that first\n\nconversation down like this, because it does\n\nnothing to communicate how James was. How\n\nutterly charming this opener was to me.\n\n“\nSomeone here has scabies.” He said it like he\n\nwas Poirot investigating a country house\n\nblighted by murder. Like someone who saw the\n\ninherent prejudices of our polite society and\n\nwas prepared to unveil it. The second part of\n\nthe sentence was a whole different thing: “and\n\nthey left the lotion in the jacks.” He was from\n\nCork county, Fermoy to be exact, which was\n\nstrictly country to me. But he had grown up in\n\nthe UK – all over it, I would later learn – and\n\nso his voice had a peculiar quality that was\n\nhard to place. I was born in Douglas, a\n\nsuburban little village that was two miles south\n\nof the city centre, and I was still living there.\n\nAdaptado de: O’DONOGHUE, C .\nThe Rachel\n\nIncident. New York: Knopf Publishing Group,\n\n2023. p. 10-11.\n\n---\n\nAssinale a alternativa que apresenta termos\n\nque, conforme empregados no texto, operam\n\ncomo membros de uma mesma classe de\n\npalavras.",
+      "statementMd": "**Texto-base (questões 1–7):**\n\n```\n01  It’s funny that James and I turned out to be\n02  such great friends, considering that for the first\n03  two weeks of our friendship he thought I was\n04  someone else entirely.\n05  I remember our first meeting like it’s a scene\n06  from a movie about someone else. It was a\n07  Thursday ........ November, and I was standing\n08  behind the counter ........ O’Connor Books. This\n09  was 2009. It was my final year ........\n10  university, and there were twenty-nine days\n11  until Christmas. Our manager, Ben, was\n12  already worried that it would be a\n13  disappointing season, and was always walking\n14  around saying things about “the industry”. He\n15  talked about the book industry as if it were a\n16  dragon that was chained in the basement, and\n17  would tear us limb from limb at any moment.\n18  He spoke about that year’s spate of stocking -\n19  filler books – Dawn French and Julie Walters\n20  had competing memoirs out, I believe – as if\n21  they were charred corpses that we were flinging\n22  into the dragon’s throat to keep it sated.\n23  “This will keep the industry going”, Ben said,\n24  with almost touching sincerity. He had more\n25  faith ........ the memories of character\n26  actresses than I imagine either Julie Walters or\n27  Dawn French had when writing them down. I\n28  lifted another stack out of the stockroom, the\n29  book tower starting at my waist and sitting\n30  under my chin.\n31  James Devlin had started as a Christmas temp\n32  the Thursday before, which I had taken as time\n33  off so I could finish my end-of-year essays for\n34  college. James had spent his first shift with\n35  Sabrina. Later, he would say that he was so\n36  inundated with new faces and names on his\n37  first shift that they were a blur, and when I said\n38  that was nonsense, he threw his hands up and\n39  said straight women all looked the same to him.\n40  The first shift with Sabrina must have been fun\n41  – puzzling, considering how little craic Sabrina\n42  was generally understood to be – because\n43  when James opened the wooden flap to the\n44  counter area, he was full of conspiracy.\n45  “\n46  Someone here has sc abies”, he said, “and\n47  they left the lotion in the jacks”.\n48  It feels strange now, setting that first\n49  conversation down like this, because it does\n50  nothing to communicate how James was. How\n51  utterly charming this opener was to me.\n52  “\n53  Someone here has scabies.” He said it like he\n54  was Poirot investigating a country house\n55  blighted by murder. Like someone who saw the\n56  inherent prejudices of our polite society and\n57  was prepared to unveil it. The second part of\n58  the sentence was a whole different thing: “and\n59  they left the lotion in the jacks.” He was from\n60  Cork county, Fermoy to be exact, which was\n61  strictly country to me. But he had grown up in\n62  the UK – all over it, I would later learn – and\n63  so his voice had a peculiar quality that was\n64  hard to place. I was born in Douglas, a\n65  suburban little village that was two miles south\n66  of the city centre, and I was still living there.\n67  Adaptado de: O’DONOGHUE, C .\n68  The Rachel\n69  Incident. New York: Knopf Publishing Group,\n70  2023. p. 10-11.\n```\n\n---\n\nAssinale a alternativa que apresenta termos\n\nque, conforme empregados no texto, operam\n\ncomo membros de uma mesma classe de\n\npalavras.",
       "alternatives": [
         "funny (l. 01) –\nentirely (l. 04) –\nutterly\n\n(l. 50)",
         "tear (l. 17) –\nspate (l. 18) –\nstockroom\n\n(l. 28)",
@@ -104,8 +104,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-04",
@@ -114,7 +114,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–7):**\n\nIt’s funny that James and I turned out to be\n\nsuch great friends, considering that for the first\n\ntwo weeks of our friendship he thought I was\n\nsomeone else entirely.\n\nI remember our first meeting like it’s a scene\n\nfrom a movie about someone else. It was a\n\nThursday ........ November, and I was standing\n\nbehind the counter ........ O’Connor Books. This\n\nwas 2009. It was my final year ........\n\nuniversity, and there were twenty-nine days\n\nuntil Christmas. Our manager, Ben, was\n\nalready worried that it would be a\n\ndisappointing season, and was always walking\n\naround saying things about “the industry”. He\n\ntalked about the book industry as if it were a\n\ndragon that was chained in the basement, and\n\nwould tear us limb from limb at any moment.\n\nHe spoke about that year’s spate of stocking -\n\nfiller books – Dawn French and Julie Walters\n\nhad competing memoirs out, I believe – as if\n\nthey were charred corpses that we were flinging\n\ninto the dragon’s throat to keep it sated.\n\n“This will keep the industry going”, Ben said,\n\nwith almost touching sincerity. He had more\n\nfaith ........ the memories of character\n\nactresses than I imagine either Julie Walters or\n\nDawn French had when writing them down. I\n\nlifted another stack out of the stockroom, the\n\nbook tower starting at my waist and sitting\n\nunder my chin.\n\nJames Devlin had started as a Christmas temp\n\nthe Thursday before, which I had taken as time\n\noff so I could finish my end-of-year essays for\n\ncollege. James had spent his first shift with\n\nSabrina. Later, he would say that he was so\n\ninundated with new faces and names on his\n\nfirst shift that they were a blur, and when I said\n\nthat was nonsense, he threw his hands up and\n\nsaid straight women all looked the same to him.\n\nThe first shift with Sabrina must have been fun\n\n– puzzling, considering how little craic Sabrina\n\nwas generally understood to be – because\n\nwhen James opened the wooden flap to the\n\ncounter area, he was full of conspiracy.\n\n“\nSomeone here has sc abies”, he said, “and\n\nthey left the lotion in the jacks”.\n\nIt feels strange now, setting that first\n\nconversation down like this, because it does\n\nnothing to communicate how James was. How\n\nutterly charming this opener was to me.\n\n“\nSomeone here has scabies.” He said it like he\n\nwas Poirot investigating a country house\n\nblighted by murder. Like someone who saw the\n\ninherent prejudices of our polite society and\n\nwas prepared to unveil it. The second part of\n\nthe sentence was a whole different thing: “and\n\nthey left the lotion in the jacks.” He was from\n\nCork county, Fermoy to be exact, which was\n\nstrictly country to me. But he had grown up in\n\nthe UK – all over it, I would later learn – and\n\nso his voice had a peculiar quality that was\n\nhard to place. I was born in Douglas, a\n\nsuburban little village that was two miles south\n\nof the city centre, and I was still living there.\n\nAdaptado de: O’DONOGHUE, C .\nThe Rachel\n\nIncident. New York: Knopf Publishing Group,\n\n2023. p. 10-11.\n\n---\n\nConsidere as seguintes propostas de alteração\n\nde segmentos do texto.\n\nI - Substituição de\nlike it’s (l. 05) por as if it\n\nwere .\n\nII - Substituição de\nhe would say (l. 35) por\n\nhe used to saying .\n\nIII- Substituição de\nit (l. 55) por\nthem .\n\nQuais resultariam gramaticalmente corretas, se\n\naplicadas ao texto?",
+      "statementMd": "**Texto-base (questões 1–7):**\n\n```\n01  It’s funny that James and I turned out to be\n02  such great friends, considering that for the first\n03  two weeks of our friendship he thought I was\n04  someone else entirely.\n05  I remember our first meeting like it’s a scene\n06  from a movie about someone else. It was a\n07  Thursday ........ November, and I was standing\n08  behind the counter ........ O’Connor Books. This\n09  was 2009. It was my final year ........\n10  university, and there were twenty-nine days\n11  until Christmas. Our manager, Ben, was\n12  already worried that it would be a\n13  disappointing season, and was always walking\n14  around saying things about “the industry”. He\n15  talked about the book industry as if it were a\n16  dragon that was chained in the basement, and\n17  would tear us limb from limb at any moment.\n18  He spoke about that year’s spate of stocking -\n19  filler books – Dawn French and Julie Walters\n20  had competing memoirs out, I believe – as if\n21  they were charred corpses that we were flinging\n22  into the dragon’s throat to keep it sated.\n23  “This will keep the industry going”, Ben said,\n24  with almost touching sincerity. He had more\n25  faith ........ the memories of character\n26  actresses than I imagine either Julie Walters or\n27  Dawn French had when writing them down. I\n28  lifted another stack out of the stockroom, the\n29  book tower starting at my waist and sitting\n30  under my chin.\n31  James Devlin had started as a Christmas temp\n32  the Thursday before, which I had taken as time\n33  off so I could finish my end-of-year essays for\n34  college. James had spent his first shift with\n35  Sabrina. Later, he would say that he was so\n36  inundated with new faces and names on his\n37  first shift that they were a blur, and when I said\n38  that was nonsense, he threw his hands up and\n39  said straight women all looked the same to him.\n40  The first shift with Sabrina must have been fun\n41  – puzzling, considering how little craic Sabrina\n42  was generally understood to be – because\n43  when James opened the wooden flap to the\n44  counter area, he was full of conspiracy.\n45  “\n46  Someone here has sc abies”, he said, “and\n47  they left the lotion in the jacks”.\n48  It feels strange now, setting that first\n49  conversation down like this, because it does\n50  nothing to communicate how James was. How\n51  utterly charming this opener was to me.\n52  “\n53  Someone here has scabies.” He said it like he\n54  was Poirot investigating a country house\n55  blighted by murder. Like someone who saw the\n56  inherent prejudices of our polite society and\n57  was prepared to unveil it. The second part of\n58  the sentence was a whole different thing: “and\n59  they left the lotion in the jacks.” He was from\n60  Cork county, Fermoy to be exact, which was\n61  strictly country to me. But he had grown up in\n62  the UK – all over it, I would later learn – and\n63  so his voice had a peculiar quality that was\n64  hard to place. I was born in Douglas, a\n65  suburban little village that was two miles south\n66  of the city centre, and I was still living there.\n67  Adaptado de: O’DONOGHUE, C .\n68  The Rachel\n69  Incident. New York: Knopf Publishing Group,\n70  2023. p. 10-11.\n```\n\n---\n\nConsidere as seguintes propostas de alteração\n\nde segmentos do texto.\n\nI - Substituição de\nlike it’s (l. 05) por as if it\n\nwere .\n\nII - Substituição de\nhe would say (l. 35) por\n\nhe used to saying .\n\nIII- Substituição de\nit (l. 55) por\nthem .\n\nQuais resultariam gramaticalmente corretas, se\n\naplicadas ao texto?",
       "alternatives": [
         "Apenas I.",
         "Apenas II.",
@@ -128,8 +128,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-05",
@@ -138,7 +138,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–7):**\n\nIt’s funny that James and I turned out to be\n\nsuch great friends, considering that for the first\n\ntwo weeks of our friendship he thought I was\n\nsomeone else entirely.\n\nI remember our first meeting like it’s a scene\n\nfrom a movie about someone else. It was a\n\nThursday ........ November, and I was standing\n\nbehind the counter ........ O’Connor Books. This\n\nwas 2009. It was my final year ........\n\nuniversity, and there were twenty-nine days\n\nuntil Christmas. Our manager, Ben, was\n\nalready worried that it would be a\n\ndisappointing season, and was always walking\n\naround saying things about “the industry”. He\n\ntalked about the book industry as if it were a\n\ndragon that was chained in the basement, and\n\nwould tear us limb from limb at any moment.\n\nHe spoke about that year’s spate of stocking -\n\nfiller books – Dawn French and Julie Walters\n\nhad competing memoirs out, I believe – as if\n\nthey were charred corpses that we were flinging\n\ninto the dragon’s throat to keep it sated.\n\n“This will keep the industry going”, Ben said,\n\nwith almost touching sincerity. He had more\n\nfaith ........ the memories of character\n\nactresses than I imagine either Julie Walters or\n\nDawn French had when writing them down. I\n\nlifted another stack out of the stockroom, the\n\nbook tower starting at my waist and sitting\n\nunder my chin.\n\nJames Devlin had started as a Christmas temp\n\nthe Thursday before, which I had taken as time\n\noff so I could finish my end-of-year essays for\n\ncollege. James had spent his first shift with\n\nSabrina. Later, he would say that he was so\n\ninundated with new faces and names on his\n\nfirst shift that they were a blur, and when I said\n\nthat was nonsense, he threw his hands up and\n\nsaid straight women all looked the same to him.\n\nThe first shift with Sabrina must have been fun\n\n– puzzling, considering how little craic Sabrina\n\nwas generally understood to be – because\n\nwhen James opened the wooden flap to the\n\ncounter area, he was full of conspiracy.\n\n“\nSomeone here has sc abies”, he said, “and\n\nthey left the lotion in the jacks”.\n\nIt feels strange now, setting that first\n\nconversation down like this, because it does\n\nnothing to communicate how James was. How\n\nutterly charming this opener was to me.\n\n“\nSomeone here has scabies.” He said it like he\n\nwas Poirot investigating a country house\n\nblighted by murder. Like someone who saw the\n\ninherent prejudices of our polite society and\n\nwas prepared to unveil it. The second part of\n\nthe sentence was a whole different thing: “and\n\nthey left the lotion in the jacks.” He was from\n\nCork county, Fermoy to be exact, which was\n\nstrictly country to me. But he had grown up in\n\nthe UK – all over it, I would later learn – and\n\nso his voice had a peculiar quality that was\n\nhard to place. I was born in Douglas, a\n\nsuburban little village that was two miles south\n\nof the city centre, and I was still living there.\n\nAdaptado de: O’DONOGHUE, C .\nThe Rachel\n\nIncident. New York: Knopf Publishing Group,\n\n2023. p. 10-11.\n\n---\n\nConsidere as seguintes afirmações em relação\n\nao texto.\n\nI - O segmento\nLater, he would say that he\n\nwas so inundated with new faces and\n\nnames on his first shift (l. 35-37)\n\nadiciona humor ao texto pelo claro exagero\n\nempregado.\n\nII - O segmento\nThe first shift with Sabrina\n\nmust have been fun – puzzling,\n\nconsidering how little craic Sabrina\n\nwas generally understood to be (l. 40-42)\n\nconfere um tom irônico à narrativa.\n\nIII- A comparação entre James e Poirot (l. 51-53)\n\ndeixa implícita a admiração da narradora pelo\n\ncolega.\n\nQuais estão corretas?",
+      "statementMd": "**Texto-base (questões 1–7):**\n\n```\n01  It’s funny that James and I turned out to be\n02  such great friends, considering that for the first\n03  two weeks of our friendship he thought I was\n04  someone else entirely.\n05  I remember our first meeting like it’s a scene\n06  from a movie about someone else. It was a\n07  Thursday ........ November, and I was standing\n08  behind the counter ........ O’Connor Books. This\n09  was 2009. It was my final year ........\n10  university, and there were twenty-nine days\n11  until Christmas. Our manager, Ben, was\n12  already worried that it would be a\n13  disappointing season, and was always walking\n14  around saying things about “the industry”. He\n15  talked about the book industry as if it were a\n16  dragon that was chained in the basement, and\n17  would tear us limb from limb at any moment.\n18  He spoke about that year’s spate of stocking -\n19  filler books – Dawn French and Julie Walters\n20  had competing memoirs out, I believe – as if\n21  they were charred corpses that we were flinging\n22  into the dragon’s throat to keep it sated.\n23  “This will keep the industry going”, Ben said,\n24  with almost touching sincerity. He had more\n25  faith ........ the memories of character\n26  actresses than I imagine either Julie Walters or\n27  Dawn French had when writing them down. I\n28  lifted another stack out of the stockroom, the\n29  book tower starting at my waist and sitting\n30  under my chin.\n31  James Devlin had started as a Christmas temp\n32  the Thursday before, which I had taken as time\n33  off so I could finish my end-of-year essays for\n34  college. James had spent his first shift with\n35  Sabrina. Later, he would say that he was so\n36  inundated with new faces and names on his\n37  first shift that they were a blur, and when I said\n38  that was nonsense, he threw his hands up and\n39  said straight women all looked the same to him.\n40  The first shift with Sabrina must have been fun\n41  – puzzling, considering how little craic Sabrina\n42  was generally understood to be – because\n43  when James opened the wooden flap to the\n44  counter area, he was full of conspiracy.\n45  “\n46  Someone here has sc abies”, he said, “and\n47  they left the lotion in the jacks”.\n48  It feels strange now, setting that first\n49  conversation down like this, because it does\n50  nothing to communicate how James was. How\n51  utterly charming this opener was to me.\n52  “\n53  Someone here has scabies.” He said it like he\n54  was Poirot investigating a country house\n55  blighted by murder. Like someone who saw the\n56  inherent prejudices of our polite society and\n57  was prepared to unveil it. The second part of\n58  the sentence was a whole different thing: “and\n59  they left the lotion in the jacks.” He was from\n60  Cork county, Fermoy to be exact, which was\n61  strictly country to me. But he had grown up in\n62  the UK – all over it, I would later learn – and\n63  so his voice had a peculiar quality that was\n64  hard to place. I was born in Douglas, a\n65  suburban little village that was two miles south\n66  of the city centre, and I was still living there.\n67  Adaptado de: O’DONOGHUE, C .\n68  The Rachel\n69  Incident. New York: Knopf Publishing Group,\n70  2023. p. 10-11.\n```\n\n---\n\nConsidere as seguintes afirmações em relação\n\nao texto.\n\nI - O segmento\nLater, he would say that he\n\nwas so inundated with new faces and\n\nnames on his first shift (l. 35-37)\n\nadiciona humor ao texto pelo claro exagero\n\nempregado.\n\nII - O segmento\nThe first shift with Sabrina\n\nmust have been fun – puzzling,\n\nconsidering how little craic Sabrina\n\nwas generally understood to be (l. 40-42)\n\nconfere um tom irônico à narrativa.\n\nIII- A comparação entre James e Poirot (l. 51-53)\n\ndeixa implícita a admiração da narradora pelo\n\ncolega.\n\nQuais estão corretas?",
       "alternatives": [
         "Apenas I.",
         "Apenas III.",
@@ -152,8 +152,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-06",
@@ -162,7 +162,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–7):**\n\nIt’s funny that James and I turned out to be\n\nsuch great friends, considering that for the first\n\ntwo weeks of our friendship he thought I was\n\nsomeone else entirely.\n\nI remember our first meeting like it’s a scene\n\nfrom a movie about someone else. It was a\n\nThursday ........ November, and I was standing\n\nbehind the counter ........ O’Connor Books. This\n\nwas 2009. It was my final year ........\n\nuniversity, and there were twenty-nine days\n\nuntil Christmas. Our manager, Ben, was\n\nalready worried that it would be a\n\ndisappointing season, and was always walking\n\naround saying things about “the industry”. He\n\ntalked about the book industry as if it were a\n\ndragon that was chained in the basement, and\n\nwould tear us limb from limb at any moment.\n\nHe spoke about that year’s spate of stocking -\n\nfiller books – Dawn French and Julie Walters\n\nhad competing memoirs out, I believe – as if\n\nthey were charred corpses that we were flinging\n\ninto the dragon’s throat to keep it sated.\n\n“This will keep the industry going”, Ben said,\n\nwith almost touching sincerity. He had more\n\nfaith ........ the memories of character\n\nactresses than I imagine either Julie Walters or\n\nDawn French had when writing them down. I\n\nlifted another stack out of the stockroom, the\n\nbook tower starting at my waist and sitting\n\nunder my chin.\n\nJames Devlin had started as a Christmas temp\n\nthe Thursday before, which I had taken as time\n\noff so I could finish my end-of-year essays for\n\ncollege. James had spent his first shift with\n\nSabrina. Later, he would say that he was so\n\ninundated with new faces and names on his\n\nfirst shift that they were a blur, and when I said\n\nthat was nonsense, he threw his hands up and\n\nsaid straight women all looked the same to him.\n\nThe first shift with Sabrina must have been fun\n\n– puzzling, considering how little craic Sabrina\n\nwas generally understood to be – because\n\nwhen James opened the wooden flap to the\n\ncounter area, he was full of conspiracy.\n\n“\nSomeone here has sc abies”, he said, “and\n\nthey left the lotion in the jacks”.\n\nIt feels strange now, setting that first\n\nconversation down like this, because it does\n\nnothing to communicate how James was. How\n\nutterly charming this opener was to me.\n\n“\nSomeone here has scabies.” He said it like he\n\nwas Poirot investigating a country house\n\nblighted by murder. Like someone who saw the\n\ninherent prejudices of our polite society and\n\nwas prepared to unveil it. The second part of\n\nthe sentence was a whole different thing: “and\n\nthey left the lotion in the jacks.” He was from\n\nCork county, Fermoy to be exact, which was\n\nstrictly country to me. But he had grown up in\n\nthe UK – all over it, I would later learn – and\n\nso his voice had a peculiar quality that was\n\nhard to place. I was born in Douglas, a\n\nsuburban little village that was two miles south\n\nof the city centre, and I was still living there.\n\nAdaptado de: O’DONOGHUE, C .\nThe Rachel\n\nIncident. New York: Knopf Publishing Group,\n\n2023. p. 10-11.\n\n---\n\narruinado\n\nA sequência correta de preenchimento dos\n\nparênteses, de cima para baixo, é",
+      "statementMd": "**Texto-base (questões 1–7):**\n\n```\n01  It’s funny that James and I turned out to be\n02  such great friends, considering that for the first\n03  two weeks of our friendship he thought I was\n04  someone else entirely.\n05  I remember our first meeting like it’s a scene\n06  from a movie about someone else. It was a\n07  Thursday ........ November, and I was standing\n08  behind the counter ........ O’Connor Books. This\n09  was 2009. It was my final year ........\n10  university, and there were twenty-nine days\n11  until Christmas. Our manager, Ben, was\n12  already worried that it would be a\n13  disappointing season, and was always walking\n14  around saying things about “the industry”. He\n15  talked about the book industry as if it were a\n16  dragon that was chained in the basement, and\n17  would tear us limb from limb at any moment.\n18  He spoke about that year’s spate of stocking -\n19  filler books – Dawn French and Julie Walters\n20  had competing memoirs out, I believe – as if\n21  they were charred corpses that we were flinging\n22  into the dragon’s throat to keep it sated.\n23  “This will keep the industry going”, Ben said,\n24  with almost touching sincerity. He had more\n25  faith ........ the memories of character\n26  actresses than I imagine either Julie Walters or\n27  Dawn French had when writing them down. I\n28  lifted another stack out of the stockroom, the\n29  book tower starting at my waist and sitting\n30  under my chin.\n31  James Devlin had started as a Christmas temp\n32  the Thursday before, which I had taken as time\n33  off so I could finish my end-of-year essays for\n34  college. James had spent his first shift with\n35  Sabrina. Later, he would say that he was so\n36  inundated with new faces and names on his\n37  first shift that they were a blur, and when I said\n38  that was nonsense, he threw his hands up and\n39  said straight women all looked the same to him.\n40  The first shift with Sabrina must have been fun\n41  – puzzling, considering how little craic Sabrina\n42  was generally understood to be – because\n43  when James opened the wooden flap to the\n44  counter area, he was full of conspiracy.\n45  “\n46  Someone here has sc abies”, he said, “and\n47  they left the lotion in the jacks”.\n48  It feels strange now, setting that first\n49  conversation down like this, because it does\n50  nothing to communicate how James was. How\n51  utterly charming this opener was to me.\n52  “\n53  Someone here has scabies.” He said it like he\n54  was Poirot investigating a country house\n55  blighted by murder. Like someone who saw the\n56  inherent prejudices of our polite society and\n57  was prepared to unveil it. The second part of\n58  the sentence was a whole different thing: “and\n59  they left the lotion in the jacks.” He was from\n60  Cork county, Fermoy to be exact, which was\n61  strictly country to me. But he had grown up in\n62  the UK – all over it, I would later learn – and\n63  so his voice had a peculiar quality that was\n64  hard to place. I was born in Douglas, a\n65  suburban little village that was two miles south\n66  of the city centre, and I was still living there.\n67  Adaptado de: O’DONOGHUE, C .\n68  The Rachel\n69  Incident. New York: Knopf Publishing Group,\n70  2023. p. 10-11.\n```\n\n---\n\narruinado\n\nA sequência correta de preenchimento dos\n\nparênteses, de cima para baixo, é",
       "alternatives": [
         "3 – 1 – 6.",
         "5 – 1 – 6.",
@@ -176,8 +176,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-07",
@@ -186,7 +186,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 1–7):**\n\nIt’s funny that James and I turned out to be\n\nsuch great friends, considering that for the first\n\ntwo weeks of our friendship he thought I was\n\nsomeone else entirely.\n\nI remember our first meeting like it’s a scene\n\nfrom a movie about someone else. It was a\n\nThursday ........ November, and I was standing\n\nbehind the counter ........ O’Connor Books. This\n\nwas 2009. It was my final year ........\n\nuniversity, and there were twenty-nine days\n\nuntil Christmas. Our manager, Ben, was\n\nalready worried that it would be a\n\ndisappointing season, and was always walking\n\naround saying things about “the industry”. He\n\ntalked about the book industry as if it were a\n\ndragon that was chained in the basement, and\n\nwould tear us limb from limb at any moment.\n\nHe spoke about that year’s spate of stocking -\n\nfiller books – Dawn French and Julie Walters\n\nhad competing memoirs out, I believe – as if\n\nthey were charred corpses that we were flinging\n\ninto the dragon’s throat to keep it sated.\n\n“This will keep the industry going”, Ben said,\n\nwith almost touching sincerity. He had more\n\nfaith ........ the memories of character\n\nactresses than I imagine either Julie Walters or\n\nDawn French had when writing them down. I\n\nlifted another stack out of the stockroom, the\n\nbook tower starting at my waist and sitting\n\nunder my chin.\n\nJames Devlin had started as a Christmas temp\n\nthe Thursday before, which I had taken as time\n\noff so I could finish my end-of-year essays for\n\ncollege. James had spent his first shift with\n\nSabrina. Later, he would say that he was so\n\ninundated with new faces and names on his\n\nfirst shift that they were a blur, and when I said\n\nthat was nonsense, he threw his hands up and\n\nsaid straight women all looked the same to him.\n\nThe first shift with Sabrina must have been fun\n\n– puzzling, considering how little craic Sabrina\n\nwas generally understood to be – because\n\nwhen James opened the wooden flap to the\n\ncounter area, he was full of conspiracy.\n\n“\nSomeone here has sc abies”, he said, “and\n\nthey left the lotion in the jacks”.\n\nIt feels strange now, setting that first\n\nconversation down like this, because it does\n\nnothing to communicate how James was. How\n\nutterly charming this opener was to me.\n\n“\nSomeone here has scabies.” He said it like he\n\nwas Poirot investigating a country house\n\nblighted by murder. Like someone who saw the\n\ninherent prejudices of our polite society and\n\nwas prepared to unveil it. The second part of\n\nthe sentence was a whole different thing: “and\n\nthey left the lotion in the jacks.” He was from\n\nCork county, Fermoy to be exact, which was\n\nstrictly country to me. But he had grown up in\n\nthe UK – all over it, I would later learn – and\n\nso his voice had a peculiar quality that was\n\nhard to place. I was born in Douglas, a\n\nsuburban little village that was two miles south\n\nof the city centre, and I was still living there.\n\nAdaptado de: O’DONOGHUE, C .\nThe Rachel\n\nIncident. New York: Knopf Publishing Group,\n\n2023. p. 10-11.\n\n---\n\nConsidere as seguintes afirmações acerca do\n\nuso de pronomes no texto.\n\nI - O pronome\nthey (l. 21) refere-se a livros,\n\ncomo os escritos pelas atrizes Dawn\n\nFrench e Julie Walters.\n\nII - O pronome\nthey (l. 46) denota que James\n\nsupõe que mais de uma pessoa precisou\n\nda loção que ele encontrou no banheiro.\n\nIII- As ocorrências do pronome\nit nas linhas\n\n47, 48 e 51 têm o mesmo referente.\n\nQuais estão corretas?",
+      "statementMd": "**Texto-base (questões 1–7):**\n\n```\n01  It’s funny that James and I turned out to be\n02  such great friends, considering that for the first\n03  two weeks of our friendship he thought I was\n04  someone else entirely.\n05  I remember our first meeting like it’s a scene\n06  from a movie about someone else. It was a\n07  Thursday ........ November, and I was standing\n08  behind the counter ........ O’Connor Books. This\n09  was 2009. It was my final year ........\n10  university, and there were twenty-nine days\n11  until Christmas. Our manager, Ben, was\n12  already worried that it would be a\n13  disappointing season, and was always walking\n14  around saying things about “the industry”. He\n15  talked about the book industry as if it were a\n16  dragon that was chained in the basement, and\n17  would tear us limb from limb at any moment.\n18  He spoke about that year’s spate of stocking -\n19  filler books – Dawn French and Julie Walters\n20  had competing memoirs out, I believe – as if\n21  they were charred corpses that we were flinging\n22  into the dragon’s throat to keep it sated.\n23  “This will keep the industry going”, Ben said,\n24  with almost touching sincerity. He had more\n25  faith ........ the memories of character\n26  actresses than I imagine either Julie Walters or\n27  Dawn French had when writing them down. I\n28  lifted another stack out of the stockroom, the\n29  book tower starting at my waist and sitting\n30  under my chin.\n31  James Devlin had started as a Christmas temp\n32  the Thursday before, which I had taken as time\n33  off so I could finish my end-of-year essays for\n34  college. James had spent his first shift with\n35  Sabrina. Later, he would say that he was so\n36  inundated with new faces and names on his\n37  first shift that they were a blur, and when I said\n38  that was nonsense, he threw his hands up and\n39  said straight women all looked the same to him.\n40  The first shift with Sabrina must have been fun\n41  – puzzling, considering how little craic Sabrina\n42  was generally understood to be – because\n43  when James opened the wooden flap to the\n44  counter area, he was full of conspiracy.\n45  “\n46  Someone here has sc abies”, he said, “and\n47  they left the lotion in the jacks”.\n48  It feels strange now, setting that first\n49  conversation down like this, because it does\n50  nothing to communicate how James was. How\n51  utterly charming this opener was to me.\n52  “\n53  Someone here has scabies.” He said it like he\n54  was Poirot investigating a country house\n55  blighted by murder. Like someone who saw the\n56  inherent prejudices of our polite society and\n57  was prepared to unveil it. The second part of\n58  the sentence was a whole different thing: “and\n59  they left the lotion in the jacks.” He was from\n60  Cork county, Fermoy to be exact, which was\n61  strictly country to me. But he had grown up in\n62  the UK – all over it, I would later learn – and\n63  so his voice had a peculiar quality that was\n64  hard to place. I was born in Douglas, a\n65  suburban little village that was two miles south\n66  of the city centre, and I was still living there.\n67  Adaptado de: O’DONOGHUE, C .\n68  The Rachel\n69  Incident. New York: Knopf Publishing Group,\n70  2023. p. 10-11.\n```\n\n---\n\nConsidere as seguintes afirmações acerca do\n\nuso de pronomes no texto.\n\nI - O pronome\nthey (l. 21) refere-se a livros,\n\ncomo os escritos pelas atrizes Dawn\n\nFrench e Julie Walters.\n\nII - O pronome\nthey (l. 46) denota que James\n\nsupõe que mais de uma pessoa precisou\n\nda loção que ele encontrou no banheiro.\n\nIII- As ocorrências do pronome\nit nas linhas\n\n47, 48 e 51 têm o mesmo referente.\n\nQuais estão corretas?",
       "alternatives": [
         "Apenas I.",
         "Apenas III.",
@@ -200,8 +200,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-08",
@@ -210,7 +210,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 8–15):**\n\nIs beauty truth, and truth beauty? The two are\n\nintimately connected, possibly because our\n\nminds react similarly to both. But what works\n\nin mathematics need not work in physics, and\n\nvice versa. The relationship between\n\nmathematics and physics is deep, subtle, and\n\npuzzling. It is a philosophical conundrum of the\n\nhighest order – how science has uncovered\n\nappa rent “laws” in nature, and why nature\n\nseems to speak in the language of\n\nmathematics.\n\nIs the universe genuinely mathematical? Are its\n\napparent mathematical features mere human\n\ninventions? Or does it seem mathematical to us\n\nbecause mathematics is the deepest aspect of\n\nits infinitely complex nature that we are able to\n\nunderstand?\n\nMathematics is not some disembodied version\n\nof ultimate truth, as many used to think. If\n\nanything emerges from our tale, it is that\n\nmathematics is created by people. ........\n\nmathematicians are human and live ordinary\n\nhuman lives, the creation of new mathematics\n\nis partly a social process. But neither\n\nmathematics nor science is wholly the result of\n\nsocial processes, as social relativists often\n\nclaim. Both must respect external constraints:\n\nlogic, in the case of mathematics, and\n\nexperiment, in the case of science. However\n\ndesperately mathematicians might want to\n\ntrisect an angle by Euclidean methods, the\n\nplain fact is that it is impossible. However\n\nstrongly physicists might want Newton's law of\n\ngravity to be the ultimate description of the\n\nuniverse, the motion of the perihelion of\n\nMercury proves that it's not. This is why\n\nmathematicians are so stubbornly logical, and\n\nobsessed by concerns that most people could\n\nnot care less about. Does it really matter\n\nwhether you can solve a quintic by radicals?\n\nHistory's verdict on this question is\n\nunequivocal. It does matter. It may not matter\n\ndirectly for everyday life, but it surely matters\n\nto humanity as a whole – not because anything\n\nimportant rests on being able to solve quintic\n\nequations, but because understanding why we\n\ncan't opens a secret doorway to a new\n\nmathematical world. If Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which an\n\nequation can be solved by radicals, humanity's\n\ndiscovery of group theory would have been\n\ngreatly delayed, and perhaps might not have\n\nhappened.\n\nYou may not encounter groups in your kitchen\n\nor on your drive to work, but without them\n\ntoday's science would be severely curtailed,\n\nand our lives would be far different. Not so\n\nmuch in gadgetry like jumbo jets or GPS\n\nnavigation or cell phones – though those are\n\npart of the story too – but in insight into nature.\n\nNo one could have predicted that a pedantic\n\nquestion about equations could reveal the deep\n\nstructure of the physical world, but that is what\n\nhappened.\n\nThe clear message of history is a simple one.\n\nResearch on deep mathematical issues should\n\nnot be rejected or besmirched merely because\n\nthose issues seem to have no direct practical\n\nuse. Good mathematics is more valuable than\n\ngold, and where it comes from is mostly\n\nirrelevant. What counts is where it leads.\n\nAdapted from: STEWART, I.\nWhy Beauty is Truth –\n\nThe History of Symmetry. Cambridge, MA: Basic\n\nBooks, 2007. p. 275-276.\n\n---\n\nSelect the alternative in which all propositions\n\nwould suitably fill in the gap in line 21.",
+      "statementMd": "**Texto-base (questões 8–15):**\n\n```\n01  Is beauty truth, and truth beauty? The two are\n02  intimately connected, possibly because our\n03  minds react similarly to both. But what works\n04  in mathematics need not work in physics, and\n05  vice versa. The relationship between\n06  mathematics and physics is deep, subtle, and\n07  puzzling. It is a philosophical conundrum of the\n08  highest order – how science has uncovered\n09  appa rent “laws” in nature, and why nature\n10  seems to speak in the language of\n11  mathematics.\n12  Is the universe genuinely mathematical? Are its\n13  apparent mathematical features mere human\n14  inventions? Or does it seem mathematical to us\n15  because mathematics is the deepest aspect of\n16  its infinitely complex nature that we are able to\n17  understand?\n18  Mathematics is not some disembodied version\n19  of ultimate truth, as many used to think. If\n20  anything emerges from our tale, it is that\n21  mathematics is created by people. ........\n22  mathematicians are human and live ordinary\n23  human lives, the creation of new mathematics\n24  is partly a social process. But neither\n25  mathematics nor science is wholly the result of\n26  social processes, as social relativists often\n27  claim. Both must respect external constraints:\n28  logic, in the case of mathematics, and\n29  experiment, in the case of science. However\n30  desperately mathematicians might want to\n31  trisect an angle by Euclidean methods, the\n32  plain fact is that it is impossible. However\n33  strongly physicists might want Newton's law of\n34  gravity to be the ultimate description of the\n35  universe, the motion of the perihelion of\n36  Mercury proves that it's not. This is why\n37  mathematicians are so stubbornly logical, and\n38  obsessed by concerns that most people could\n39  not care less about. Does it really matter\n40  whether you can solve a quintic by radicals?\n41  History's verdict on this question is\n42  unequivocal. It does matter. It may not matter\n43  directly for everyday life, but it surely matters\n44  to humanity as a whole – not because anything\n45  important rests on being able to solve quintic\n46  equations, but because understanding why we\n47  can't opens a secret doorway to a new\n48  mathematical world. If Galois and his\n49  predecessors had not been obsessed with\n50  understanding the conditions under which an\n51  equation can be solved by radicals, humanity's\n52  discovery of group theory would have been\n53  greatly delayed, and perhaps might not have\n54  happened.\n55  You may not encounter groups in your kitchen\n56  or on your drive to work, but without them\n57  today's science would be severely curtailed,\n58  and our lives would be far different. Not so\n59  much in gadgetry like jumbo jets or GPS\n60  navigation or cell phones – though those are\n61  part of the story too – but in insight into nature.\n62  No one could have predicted that a pedantic\n63  question about equations could reveal the deep\n64  structure of the physical world, but that is what\n65  happened.\n66  The clear message of history is a simple one.\n67  Research on deep mathematical issues should\n68  not be rejected or besmirched merely because\n69  those issues seem to have no direct practical\n70  use. Good mathematics is more valuable than\n71  gold, and where it comes from is mostly\n72  irrelevant. What counts is where it leads.\n73  Adapted from: STEWART, I.\n74  Why Beauty is Truth –\n75  The History of Symmetry. Cambridge, MA: Basic\n76  Books, 2007. p. 275-276.\n```\n\n---\n\nSelect the alternative in which all propositions\n\nwould suitably fill in the gap in line 21.",
       "alternatives": [
         "Once – Since – Because",
         "Once – As – Because",
@@ -224,8 +224,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-09",
@@ -234,7 +234,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 8–15):**\n\nIs beauty truth, and truth beauty? The two are\n\nintimately connected, possibly because our\n\nminds react similarly to both. But what works\n\nin mathematics need not work in physics, and\n\nvice versa. The relationship between\n\nmathematics and physics is deep, subtle, and\n\npuzzling. It is a philosophical conundrum of the\n\nhighest order – how science has uncovered\n\nappa rent “laws” in nature, and why nature\n\nseems to speak in the language of\n\nmathematics.\n\nIs the universe genuinely mathematical? Are its\n\napparent mathematical features mere human\n\ninventions? Or does it seem mathematical to us\n\nbecause mathematics is the deepest aspect of\n\nits infinitely complex nature that we are able to\n\nunderstand?\n\nMathematics is not some disembodied version\n\nof ultimate truth, as many used to think. If\n\nanything emerges from our tale, it is that\n\nmathematics is created by people. ........\n\nmathematicians are human and live ordinary\n\nhuman lives, the creation of new mathematics\n\nis partly a social process. But neither\n\nmathematics nor science is wholly the result of\n\nsocial processes, as social relativists often\n\nclaim. Both must respect external constraints:\n\nlogic, in the case of mathematics, and\n\nexperiment, in the case of science. However\n\ndesperately mathematicians might want to\n\ntrisect an angle by Euclidean methods, the\n\nplain fact is that it is impossible. However\n\nstrongly physicists might want Newton's law of\n\ngravity to be the ultimate description of the\n\nuniverse, the motion of the perihelion of\n\nMercury proves that it's not. This is why\n\nmathematicians are so stubbornly logical, and\n\nobsessed by concerns that most people could\n\nnot care less about. Does it really matter\n\nwhether you can solve a quintic by radicals?\n\nHistory's verdict on this question is\n\nunequivocal. It does matter. It may not matter\n\ndirectly for everyday life, but it surely matters\n\nto humanity as a whole – not because anything\n\nimportant rests on being able to solve quintic\n\nequations, but because understanding why we\n\ncan't opens a secret doorway to a new\n\nmathematical world. If Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which an\n\nequation can be solved by radicals, humanity's\n\ndiscovery of group theory would have been\n\ngreatly delayed, and perhaps might not have\n\nhappened.\n\nYou may not encounter groups in your kitchen\n\nor on your drive to work, but without them\n\ntoday's science would be severely curtailed,\n\nand our lives would be far different. Not so\n\nmuch in gadgetry like jumbo jets or GPS\n\nnavigation or cell phones – though those are\n\npart of the story too – but in insight into nature.\n\nNo one could have predicted that a pedantic\n\nquestion about equations could reveal the deep\n\nstructure of the physical world, but that is what\n\nhappened.\n\nThe clear message of history is a simple one.\n\nResearch on deep mathematical issues should\n\nnot be rejected or besmirched merely because\n\nthose issues seem to have no direct practical\n\nuse. Good mathematics is more valuable than\n\ngold, and where it comes from is mostly\n\nirrelevant. What counts is where it leads.\n\nAdapted from: STEWART, I.\nWhy Beauty is Truth –\n\nThe History of Symmetry. Cambridge, MA: Basic\n\nBooks, 2007. p. 275-276.\n\n---\n\nSelect the alternative that adequately summarizes the text.",
+      "statementMd": "**Texto-base (questões 8–15):**\n\n```\n01  Is beauty truth, and truth beauty? The two are\n02  intimately connected, possibly because our\n03  minds react similarly to both. But what works\n04  in mathematics need not work in physics, and\n05  vice versa. The relationship between\n06  mathematics and physics is deep, subtle, and\n07  puzzling. It is a philosophical conundrum of the\n08  highest order – how science has uncovered\n09  appa rent “laws” in nature, and why nature\n10  seems to speak in the language of\n11  mathematics.\n12  Is the universe genuinely mathematical? Are its\n13  apparent mathematical features mere human\n14  inventions? Or does it seem mathematical to us\n15  because mathematics is the deepest aspect of\n16  its infinitely complex nature that we are able to\n17  understand?\n18  Mathematics is not some disembodied version\n19  of ultimate truth, as many used to think. If\n20  anything emerges from our tale, it is that\n21  mathematics is created by people. ........\n22  mathematicians are human and live ordinary\n23  human lives, the creation of new mathematics\n24  is partly a social process. But neither\n25  mathematics nor science is wholly the result of\n26  social processes, as social relativists often\n27  claim. Both must respect external constraints:\n28  logic, in the case of mathematics, and\n29  experiment, in the case of science. However\n30  desperately mathematicians might want to\n31  trisect an angle by Euclidean methods, the\n32  plain fact is that it is impossible. However\n33  strongly physicists might want Newton's law of\n34  gravity to be the ultimate description of the\n35  universe, the motion of the perihelion of\n36  Mercury proves that it's not. This is why\n37  mathematicians are so stubbornly logical, and\n38  obsessed by concerns that most people could\n39  not care less about. Does it really matter\n40  whether you can solve a quintic by radicals?\n41  History's verdict on this question is\n42  unequivocal. It does matter. It may not matter\n43  directly for everyday life, but it surely matters\n44  to humanity as a whole – not because anything\n45  important rests on being able to solve quintic\n46  equations, but because understanding why we\n47  can't opens a secret doorway to a new\n48  mathematical world. If Galois and his\n49  predecessors had not been obsessed with\n50  understanding the conditions under which an\n51  equation can be solved by radicals, humanity's\n52  discovery of group theory would have been\n53  greatly delayed, and perhaps might not have\n54  happened.\n55  You may not encounter groups in your kitchen\n56  or on your drive to work, but without them\n57  today's science would be severely curtailed,\n58  and our lives would be far different. Not so\n59  much in gadgetry like jumbo jets or GPS\n60  navigation or cell phones – though those are\n61  part of the story too – but in insight into nature.\n62  No one could have predicted that a pedantic\n63  question about equations could reveal the deep\n64  structure of the physical world, but that is what\n65  happened.\n66  The clear message of history is a simple one.\n67  Research on deep mathematical issues should\n68  not be rejected or besmirched merely because\n69  those issues seem to have no direct practical\n70  use. Good mathematics is more valuable than\n71  gold, and where it comes from is mostly\n72  irrelevant. What counts is where it leads.\n73  Adapted from: STEWART, I.\n74  Why Beauty is Truth –\n75  The History of Symmetry. Cambridge, MA: Basic\n76  Books, 2007. p. 275-276.\n```\n\n---\n\nSelect the alternative that adequately summarizes the text.",
       "alternatives": [
         "While some might think that mathematics and physics contradict each other, they are inseparable\n\nsciences whose value should not be undermined, as their association provides important insights\n\ninto nature.",
         "However stubbornly logical they attempt to be, mathematicians do not prove able to disentangle\n\nmathematics from physics, as the inseparability of the two sciences poses challenges to\n\nresearchers in both fields.",
@@ -248,8 +248,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-10",
@@ -258,7 +258,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 8–15):**\n\nIs beauty truth, and truth beauty? The two are\n\nintimately connected, possibly because our\n\nminds react similarly to both. But what works\n\nin mathematics need not work in physics, and\n\nvice versa. The relationship between\n\nmathematics and physics is deep, subtle, and\n\npuzzling. It is a philosophical conundrum of the\n\nhighest order – how science has uncovered\n\nappa rent “laws” in nature, and why nature\n\nseems to speak in the language of\n\nmathematics.\n\nIs the universe genuinely mathematical? Are its\n\napparent mathematical features mere human\n\ninventions? Or does it seem mathematical to us\n\nbecause mathematics is the deepest aspect of\n\nits infinitely complex nature that we are able to\n\nunderstand?\n\nMathematics is not some disembodied version\n\nof ultimate truth, as many used to think. If\n\nanything emerges from our tale, it is that\n\nmathematics is created by people. ........\n\nmathematicians are human and live ordinary\n\nhuman lives, the creation of new mathematics\n\nis partly a social process. But neither\n\nmathematics nor science is wholly the result of\n\nsocial processes, as social relativists often\n\nclaim. Both must respect external constraints:\n\nlogic, in the case of mathematics, and\n\nexperiment, in the case of science. However\n\ndesperately mathematicians might want to\n\ntrisect an angle by Euclidean methods, the\n\nplain fact is that it is impossible. However\n\nstrongly physicists might want Newton's law of\n\ngravity to be the ultimate description of the\n\nuniverse, the motion of the perihelion of\n\nMercury proves that it's not. This is why\n\nmathematicians are so stubbornly logical, and\n\nobsessed by concerns that most people could\n\nnot care less about. Does it really matter\n\nwhether you can solve a quintic by radicals?\n\nHistory's verdict on this question is\n\nunequivocal. It does matter. It may not matter\n\ndirectly for everyday life, but it surely matters\n\nto humanity as a whole – not because anything\n\nimportant rests on being able to solve quintic\n\nequations, but because understanding why we\n\ncan't opens a secret doorway to a new\n\nmathematical world. If Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which an\n\nequation can be solved by radicals, humanity's\n\ndiscovery of group theory would have been\n\ngreatly delayed, and perhaps might not have\n\nhappened.\n\nYou may not encounter groups in your kitchen\n\nor on your drive to work, but without them\n\ntoday's science would be severely curtailed,\n\nand our lives would be far different. Not so\n\nmuch in gadgetry like jumbo jets or GPS\n\nnavigation or cell phones – though those are\n\npart of the story too – but in insight into nature.\n\nNo one could have predicted that a pedantic\n\nquestion about equations could reveal the deep\n\nstructure of the physical world, but that is what\n\nhappened.\n\nThe clear message of history is a simple one.\n\nResearch on deep mathematical issues should\n\nnot be rejected or besmirched merely because\n\nthose issues seem to have no direct practical\n\nuse. Good mathematics is more valuable than\n\ngold, and where it comes from is mostly\n\nirrelevant. What counts is where it leads.\n\nAdapted from: STEWART, I.\nWhy Beauty is Truth –\n\nThe History of Symmetry. Cambridge, MA: Basic\n\nBooks, 2007. p. 275-276.\n\n---\n\nMark the statements below T (true) or F (false), according to the text.\n\n( ) Mathematics is not an area detached from human experience. Nevertheless, the text fails to\n\nprovide practical examples of how it contributes to improve aspects of our daily life.\n\n( ) The word\ncould (l. 62) may be replaced by must , without causing changes to grammar accuracy\n\nor to the original meaning of the sentence.\n\n( ) Mathematics unequivocally relates to social processes, history, logic, and philosophy.\n\n( ) The segment\nResearch on deep mathematical issues should not be rejected or\n\nbesmirched (l. 67-68) may be rephrased as One should not reject or besmirch research\n\non deep mathematical issues , without causing changes to grammar accuracy or to the original\n\nmeaning of the sentence.\n\nThe correct sequence of filling in the parentheses, from top to bottom, is",
+      "statementMd": "**Texto-base (questões 8–15):**\n\n```\n01  Is beauty truth, and truth beauty? The two are\n02  intimately connected, possibly because our\n03  minds react similarly to both. But what works\n04  in mathematics need not work in physics, and\n05  vice versa. The relationship between\n06  mathematics and physics is deep, subtle, and\n07  puzzling. It is a philosophical conundrum of the\n08  highest order – how science has uncovered\n09  appa rent “laws” in nature, and why nature\n10  seems to speak in the language of\n11  mathematics.\n12  Is the universe genuinely mathematical? Are its\n13  apparent mathematical features mere human\n14  inventions? Or does it seem mathematical to us\n15  because mathematics is the deepest aspect of\n16  its infinitely complex nature that we are able to\n17  understand?\n18  Mathematics is not some disembodied version\n19  of ultimate truth, as many used to think. If\n20  anything emerges from our tale, it is that\n21  mathematics is created by people. ........\n22  mathematicians are human and live ordinary\n23  human lives, the creation of new mathematics\n24  is partly a social process. But neither\n25  mathematics nor science is wholly the result of\n26  social processes, as social relativists often\n27  claim. Both must respect external constraints:\n28  logic, in the case of mathematics, and\n29  experiment, in the case of science. However\n30  desperately mathematicians might want to\n31  trisect an angle by Euclidean methods, the\n32  plain fact is that it is impossible. However\n33  strongly physicists might want Newton's law of\n34  gravity to be the ultimate description of the\n35  universe, the motion of the perihelion of\n36  Mercury proves that it's not. This is why\n37  mathematicians are so stubbornly logical, and\n38  obsessed by concerns that most people could\n39  not care less about. Does it really matter\n40  whether you can solve a quintic by radicals?\n41  History's verdict on this question is\n42  unequivocal. It does matter. It may not matter\n43  directly for everyday life, but it surely matters\n44  to humanity as a whole – not because anything\n45  important rests on being able to solve quintic\n46  equations, but because understanding why we\n47  can't opens a secret doorway to a new\n48  mathematical world. If Galois and his\n49  predecessors had not been obsessed with\n50  understanding the conditions under which an\n51  equation can be solved by radicals, humanity's\n52  discovery of group theory would have been\n53  greatly delayed, and perhaps might not have\n54  happened.\n55  You may not encounter groups in your kitchen\n56  or on your drive to work, but without them\n57  today's science would be severely curtailed,\n58  and our lives would be far different. Not so\n59  much in gadgetry like jumbo jets or GPS\n60  navigation or cell phones – though those are\n61  part of the story too – but in insight into nature.\n62  No one could have predicted that a pedantic\n63  question about equations could reveal the deep\n64  structure of the physical world, but that is what\n65  happened.\n66  The clear message of history is a simple one.\n67  Research on deep mathematical issues should\n68  not be rejected or besmirched merely because\n69  those issues seem to have no direct practical\n70  use. Good mathematics is more valuable than\n71  gold, and where it comes from is mostly\n72  irrelevant. What counts is where it leads.\n73  Adapted from: STEWART, I.\n74  Why Beauty is Truth –\n75  The History of Symmetry. Cambridge, MA: Basic\n76  Books, 2007. p. 275-276.\n```\n\n---\n\nMark the statements below T (true) or F (false), according to the text.\n\n( ) Mathematics is not an area detached from human experience. Nevertheless, the text fails to\n\nprovide practical examples of how it contributes to improve aspects of our daily life.\n\n( ) The word\ncould (l. 62) may be replaced by must , without causing changes to grammar accuracy\n\nor to the original meaning of the sentence.\n\n( ) Mathematics unequivocally relates to social processes, history, logic, and philosophy.\n\n( ) The segment\nResearch on deep mathematical issues should not be rejected or\n\nbesmirched (l. 67-68) may be rephrased as One should not reject or besmirch research\n\non deep mathematical issues , without causing changes to grammar accuracy or to the original\n\nmeaning of the sentence.\n\nThe correct sequence of filling in the parentheses, from top to bottom, is",
       "alternatives": [
         "F – T – T – T.",
         "F – F – T – T.",
@@ -272,8 +272,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-11",
@@ -282,7 +282,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 8–15):**\n\nIs beauty truth, and truth beauty? The two are\n\nintimately connected, possibly because our\n\nminds react similarly to both. But what works\n\nin mathematics need not work in physics, and\n\nvice versa. The relationship between\n\nmathematics and physics is deep, subtle, and\n\npuzzling. It is a philosophical conundrum of the\n\nhighest order – how science has uncovered\n\nappa rent “laws” in nature, and why nature\n\nseems to speak in the language of\n\nmathematics.\n\nIs the universe genuinely mathematical? Are its\n\napparent mathematical features mere human\n\ninventions? Or does it seem mathematical to us\n\nbecause mathematics is the deepest aspect of\n\nits infinitely complex nature that we are able to\n\nunderstand?\n\nMathematics is not some disembodied version\n\nof ultimate truth, as many used to think. If\n\nanything emerges from our tale, it is that\n\nmathematics is created by people. ........\n\nmathematicians are human and live ordinary\n\nhuman lives, the creation of new mathematics\n\nis partly a social process. But neither\n\nmathematics nor science is wholly the result of\n\nsocial processes, as social relativists often\n\nclaim. Both must respect external constraints:\n\nlogic, in the case of mathematics, and\n\nexperiment, in the case of science. However\n\ndesperately mathematicians might want to\n\ntrisect an angle by Euclidean methods, the\n\nplain fact is that it is impossible. However\n\nstrongly physicists might want Newton's law of\n\ngravity to be the ultimate description of the\n\nuniverse, the motion of the perihelion of\n\nMercury proves that it's not. This is why\n\nmathematicians are so stubbornly logical, and\n\nobsessed by concerns that most people could\n\nnot care less about. Does it really matter\n\nwhether you can solve a quintic by radicals?\n\nHistory's verdict on this question is\n\nunequivocal. It does matter. It may not matter\n\ndirectly for everyday life, but it surely matters\n\nto humanity as a whole – not because anything\n\nimportant rests on being able to solve quintic\n\nequations, but because understanding why we\n\ncan't opens a secret doorway to a new\n\nmathematical world. If Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which an\n\nequation can be solved by radicals, humanity's\n\ndiscovery of group theory would have been\n\ngreatly delayed, and perhaps might not have\n\nhappened.\n\nYou may not encounter groups in your kitchen\n\nor on your drive to work, but without them\n\ntoday's science would be severely curtailed,\n\nand our lives would be far different. Not so\n\nmuch in gadgetry like jumbo jets or GPS\n\nnavigation or cell phones – though those are\n\npart of the story too – but in insight into nature.\n\nNo one could have predicted that a pedantic\n\nquestion about equations could reveal the deep\n\nstructure of the physical world, but that is what\n\nhappened.\n\nThe clear message of history is a simple one.\n\nResearch on deep mathematical issues should\n\nnot be rejected or besmirched merely because\n\nthose issues seem to have no direct practical\n\nuse. Good mathematics is more valuable than\n\ngold, and where it comes from is mostly\n\nirrelevant. What counts is where it leads.\n\nAdapted from: STEWART, I.\nWhy Beauty is Truth –\n\nThe History of Symmetry. Cambridge, MA: Basic\n\nBooks, 2007. p. 275-276.\n\n---\n\nSelect the alternative that offers adequate synonyms to the words\nintimately (l. 02),\ngenuinely\n\n(l. 12) and\nstubbornly (l. 37).",
+      "statementMd": "**Texto-base (questões 8–15):**\n\n```\n01  Is beauty truth, and truth beauty? The two are\n02  intimately connected, possibly because our\n03  minds react similarly to both. But what works\n04  in mathematics need not work in physics, and\n05  vice versa. The relationship between\n06  mathematics and physics is deep, subtle, and\n07  puzzling. It is a philosophical conundrum of the\n08  highest order – how science has uncovered\n09  appa rent “laws” in nature, and why nature\n10  seems to speak in the language of\n11  mathematics.\n12  Is the universe genuinely mathematical? Are its\n13  apparent mathematical features mere human\n14  inventions? Or does it seem mathematical to us\n15  because mathematics is the deepest aspect of\n16  its infinitely complex nature that we are able to\n17  understand?\n18  Mathematics is not some disembodied version\n19  of ultimate truth, as many used to think. If\n20  anything emerges from our tale, it is that\n21  mathematics is created by people. ........\n22  mathematicians are human and live ordinary\n23  human lives, the creation of new mathematics\n24  is partly a social process. But neither\n25  mathematics nor science is wholly the result of\n26  social processes, as social relativists often\n27  claim. Both must respect external constraints:\n28  logic, in the case of mathematics, and\n29  experiment, in the case of science. However\n30  desperately mathematicians might want to\n31  trisect an angle by Euclidean methods, the\n32  plain fact is that it is impossible. However\n33  strongly physicists might want Newton's law of\n34  gravity to be the ultimate description of the\n35  universe, the motion of the perihelion of\n36  Mercury proves that it's not. This is why\n37  mathematicians are so stubbornly logical, and\n38  obsessed by concerns that most people could\n39  not care less about. Does it really matter\n40  whether you can solve a quintic by radicals?\n41  History's verdict on this question is\n42  unequivocal. It does matter. It may not matter\n43  directly for everyday life, but it surely matters\n44  to humanity as a whole – not because anything\n45  important rests on being able to solve quintic\n46  equations, but because understanding why we\n47  can't opens a secret doorway to a new\n48  mathematical world. If Galois and his\n49  predecessors had not been obsessed with\n50  understanding the conditions under which an\n51  equation can be solved by radicals, humanity's\n52  discovery of group theory would have been\n53  greatly delayed, and perhaps might not have\n54  happened.\n55  You may not encounter groups in your kitchen\n56  or on your drive to work, but without them\n57  today's science would be severely curtailed,\n58  and our lives would be far different. Not so\n59  much in gadgetry like jumbo jets or GPS\n60  navigation or cell phones – though those are\n61  part of the story too – but in insight into nature.\n62  No one could have predicted that a pedantic\n63  question about equations could reveal the deep\n64  structure of the physical world, but that is what\n65  happened.\n66  The clear message of history is a simple one.\n67  Research on deep mathematical issues should\n68  not be rejected or besmirched merely because\n69  those issues seem to have no direct practical\n70  use. Good mathematics is more valuable than\n71  gold, and where it comes from is mostly\n72  irrelevant. What counts is where it leads.\n73  Adapted from: STEWART, I.\n74  Why Beauty is Truth –\n75  The History of Symmetry. Cambridge, MA: Basic\n76  Books, 2007. p. 275-276.\n```\n\n---\n\nSelect the alternative that offers adequate synonyms to the words\nintimately (l. 02),\ngenuinely\n\n(l. 12) and\nstubbornly (l. 37).",
       "alternatives": [
         "imperceptibly – indeed – clumsily",
         "closely – sincerely – astonishingly",
@@ -296,8 +296,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-12",
@@ -306,7 +306,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 8–15):**\n\nIs beauty truth, and truth beauty? The two are\n\nintimately connected, possibly because our\n\nminds react similarly to both. But what works\n\nin mathematics need not work in physics, and\n\nvice versa. The relationship between\n\nmathematics and physics is deep, subtle, and\n\npuzzling. It is a philosophical conundrum of the\n\nhighest order – how science has uncovered\n\nappa rent “laws” in nature, and why nature\n\nseems to speak in the language of\n\nmathematics.\n\nIs the universe genuinely mathematical? Are its\n\napparent mathematical features mere human\n\ninventions? Or does it seem mathematical to us\n\nbecause mathematics is the deepest aspect of\n\nits infinitely complex nature that we are able to\n\nunderstand?\n\nMathematics is not some disembodied version\n\nof ultimate truth, as many used to think. If\n\nanything emerges from our tale, it is that\n\nmathematics is created by people. ........\n\nmathematicians are human and live ordinary\n\nhuman lives, the creation of new mathematics\n\nis partly a social process. But neither\n\nmathematics nor science is wholly the result of\n\nsocial processes, as social relativists often\n\nclaim. Both must respect external constraints:\n\nlogic, in the case of mathematics, and\n\nexperiment, in the case of science. However\n\ndesperately mathematicians might want to\n\ntrisect an angle by Euclidean methods, the\n\nplain fact is that it is impossible. However\n\nstrongly physicists might want Newton's law of\n\ngravity to be the ultimate description of the\n\nuniverse, the motion of the perihelion of\n\nMercury proves that it's not. This is why\n\nmathematicians are so stubbornly logical, and\n\nobsessed by concerns that most people could\n\nnot care less about. Does it really matter\n\nwhether you can solve a quintic by radicals?\n\nHistory's verdict on this question is\n\nunequivocal. It does matter. It may not matter\n\ndirectly for everyday life, but it surely matters\n\nto humanity as a whole – not because anything\n\nimportant rests on being able to solve quintic\n\nequations, but because understanding why we\n\ncan't opens a secret doorway to a new\n\nmathematical world. If Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which an\n\nequation can be solved by radicals, humanity's\n\ndiscovery of group theory would have been\n\ngreatly delayed, and perhaps might not have\n\nhappened.\n\nYou may not encounter groups in your kitchen\n\nor on your drive to work, but without them\n\ntoday's science would be severely curtailed,\n\nand our lives would be far different. Not so\n\nmuch in gadgetry like jumbo jets or GPS\n\nnavigation or cell phones – though those are\n\npart of the story too – but in insight into nature.\n\nNo one could have predicted that a pedantic\n\nquestion about equations could reveal the deep\n\nstructure of the physical world, but that is what\n\nhappened.\n\nThe clear message of history is a simple one.\n\nResearch on deep mathematical issues should\n\nnot be rejected or besmirched merely because\n\nthose issues seem to have no direct practical\n\nuse. Good mathematics is more valuable than\n\ngold, and where it comes from is mostly\n\nirrelevant. What counts is where it leads.\n\nAdapted from: STEWART, I.\nWhy Beauty is Truth –\n\nThe History of Symmetry. Cambridge, MA: Basic\n\nBooks, 2007. p. 275-276.\n\n---\n\nConsider the statements below.\n\nI - By using the phrase\nphilosophical\n\nconundrum of the highest order\n\n(l. 07-08), the author expresses ethical\n\nissues related to the relationship between\n\nmathematics and physics.\n\nII - By stating that\nMathematics is not\n\nsome disembodied version of the\n\nultimate truth (l. 18-19), the author\n\nstates mathematics is fallible just like the\n\nother social sciences.\n\nIII- By using the term\nunequivocal (l. 42),\n\nthe author states that the importance of\n\nmathematics is not under question\n\nregardless of whether people agree on its\n\nimportance.\n\nWhich ones are correct according to the text?",
+      "statementMd": "**Texto-base (questões 8–15):**\n\n```\n01  Is beauty truth, and truth beauty? The two are\n02  intimately connected, possibly because our\n03  minds react similarly to both. But what works\n04  in mathematics need not work in physics, and\n05  vice versa. The relationship between\n06  mathematics and physics is deep, subtle, and\n07  puzzling. It is a philosophical conundrum of the\n08  highest order – how science has uncovered\n09  appa rent “laws” in nature, and why nature\n10  seems to speak in the language of\n11  mathematics.\n12  Is the universe genuinely mathematical? Are its\n13  apparent mathematical features mere human\n14  inventions? Or does it seem mathematical to us\n15  because mathematics is the deepest aspect of\n16  its infinitely complex nature that we are able to\n17  understand?\n18  Mathematics is not some disembodied version\n19  of ultimate truth, as many used to think. If\n20  anything emerges from our tale, it is that\n21  mathematics is created by people. ........\n22  mathematicians are human and live ordinary\n23  human lives, the creation of new mathematics\n24  is partly a social process. But neither\n25  mathematics nor science is wholly the result of\n26  social processes, as social relativists often\n27  claim. Both must respect external constraints:\n28  logic, in the case of mathematics, and\n29  experiment, in the case of science. However\n30  desperately mathematicians might want to\n31  trisect an angle by Euclidean methods, the\n32  plain fact is that it is impossible. However\n33  strongly physicists might want Newton's law of\n34  gravity to be the ultimate description of the\n35  universe, the motion of the perihelion of\n36  Mercury proves that it's not. This is why\n37  mathematicians are so stubbornly logical, and\n38  obsessed by concerns that most people could\n39  not care less about. Does it really matter\n40  whether you can solve a quintic by radicals?\n41  History's verdict on this question is\n42  unequivocal. It does matter. It may not matter\n43  directly for everyday life, but it surely matters\n44  to humanity as a whole – not because anything\n45  important rests on being able to solve quintic\n46  equations, but because understanding why we\n47  can't opens a secret doorway to a new\n48  mathematical world. If Galois and his\n49  predecessors had not been obsessed with\n50  understanding the conditions under which an\n51  equation can be solved by radicals, humanity's\n52  discovery of group theory would have been\n53  greatly delayed, and perhaps might not have\n54  happened.\n55  You may not encounter groups in your kitchen\n56  or on your drive to work, but without them\n57  today's science would be severely curtailed,\n58  and our lives would be far different. Not so\n59  much in gadgetry like jumbo jets or GPS\n60  navigation or cell phones – though those are\n61  part of the story too – but in insight into nature.\n62  No one could have predicted that a pedantic\n63  question about equations could reveal the deep\n64  structure of the physical world, but that is what\n65  happened.\n66  The clear message of history is a simple one.\n67  Research on deep mathematical issues should\n68  not be rejected or besmirched merely because\n69  those issues seem to have no direct practical\n70  use. Good mathematics is more valuable than\n71  gold, and where it comes from is mostly\n72  irrelevant. What counts is where it leads.\n73  Adapted from: STEWART, I.\n74  Why Beauty is Truth –\n75  The History of Symmetry. Cambridge, MA: Basic\n76  Books, 2007. p. 275-276.\n```\n\n---\n\nConsider the statements below.\n\nI - By using the phrase\nphilosophical\n\nconundrum of the highest order\n\n(l. 07-08), the author expresses ethical\n\nissues related to the relationship between\n\nmathematics and physics.\n\nII - By stating that\nMathematics is not\n\nsome disembodied version of the\n\nultimate truth (l. 18-19), the author\n\nstates mathematics is fallible just like the\n\nother social sciences.\n\nIII- By using the term\nunequivocal (l. 42),\n\nthe author states that the importance of\n\nmathematics is not under question\n\nregardless of whether people agree on its\n\nimportance.\n\nWhich ones are correct according to the text?",
       "alternatives": [
         "Only I.",
         "Only II.",
@@ -320,8 +320,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-13",
@@ -330,7 +330,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 8–15):**\n\nIs beauty truth, and truth beauty? The two are\n\nintimately connected, possibly because our\n\nminds react similarly to both. But what works\n\nin mathematics need not work in physics, and\n\nvice versa. The relationship between\n\nmathematics and physics is deep, subtle, and\n\npuzzling. It is a philosophical conundrum of the\n\nhighest order – how science has uncovered\n\nappa rent “laws” in nature, and why nature\n\nseems to speak in the language of\n\nmathematics.\n\nIs the universe genuinely mathematical? Are its\n\napparent mathematical features mere human\n\ninventions? Or does it seem mathematical to us\n\nbecause mathematics is the deepest aspect of\n\nits infinitely complex nature that we are able to\n\nunderstand?\n\nMathematics is not some disembodied version\n\nof ultimate truth, as many used to think. If\n\nanything emerges from our tale, it is that\n\nmathematics is created by people. ........\n\nmathematicians are human and live ordinary\n\nhuman lives, the creation of new mathematics\n\nis partly a social process. But neither\n\nmathematics nor science is wholly the result of\n\nsocial processes, as social relativists often\n\nclaim. Both must respect external constraints:\n\nlogic, in the case of mathematics, and\n\nexperiment, in the case of science. However\n\ndesperately mathematicians might want to\n\ntrisect an angle by Euclidean methods, the\n\nplain fact is that it is impossible. However\n\nstrongly physicists might want Newton's law of\n\ngravity to be the ultimate description of the\n\nuniverse, the motion of the perihelion of\n\nMercury proves that it's not. This is why\n\nmathematicians are so stubbornly logical, and\n\nobsessed by concerns that most people could\n\nnot care less about. Does it really matter\n\nwhether you can solve a quintic by radicals?\n\nHistory's verdict on this question is\n\nunequivocal. It does matter. It may not matter\n\ndirectly for everyday life, but it surely matters\n\nto humanity as a whole – not because anything\n\nimportant rests on being able to solve quintic\n\nequations, but because understanding why we\n\ncan't opens a secret doorway to a new\n\nmathematical world. If Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which an\n\nequation can be solved by radicals, humanity's\n\ndiscovery of group theory would have been\n\ngreatly delayed, and perhaps might not have\n\nhappened.\n\nYou may not encounter groups in your kitchen\n\nor on your drive to work, but without them\n\ntoday's science would be severely curtailed,\n\nand our lives would be far different. Not so\n\nmuch in gadgetry like jumbo jets or GPS\n\nnavigation or cell phones – though those are\n\npart of the story too – but in insight into nature.\n\nNo one could have predicted that a pedantic\n\nquestion about equations could reveal the deep\n\nstructure of the physical world, but that is what\n\nhappened.\n\nThe clear message of history is a simple one.\n\nResearch on deep mathematical issues should\n\nnot be rejected or besmirched merely because\n\nthose issues seem to have no direct practical\n\nuse. Good mathematics is more valuable than\n\ngold, and where it comes from is mostly\n\nirrelevant. What counts is where it leads.\n\nAdapted from: STEWART, I.\nWhy Beauty is Truth –\n\nThe History of Symmetry. Cambridge, MA: Basic\n\nBooks, 2007. p. 275-276.\n\n---\n\nIf the segment\nthe universe (l. 12) were\n\nreplaced by universes , how many additional\n\nchanges would be necessary for the paragraph\n\nfrom lines 12 to 17 to be grammatically\n\ncorrect?",
+      "statementMd": "**Texto-base (questões 8–15):**\n\n```\n01  Is beauty truth, and truth beauty? The two are\n02  intimately connected, possibly because our\n03  minds react similarly to both. But what works\n04  in mathematics need not work in physics, and\n05  vice versa. The relationship between\n06  mathematics and physics is deep, subtle, and\n07  puzzling. It is a philosophical conundrum of the\n08  highest order – how science has uncovered\n09  appa rent “laws” in nature, and why nature\n10  seems to speak in the language of\n11  mathematics.\n12  Is the universe genuinely mathematical? Are its\n13  apparent mathematical features mere human\n14  inventions? Or does it seem mathematical to us\n15  because mathematics is the deepest aspect of\n16  its infinitely complex nature that we are able to\n17  understand?\n18  Mathematics is not some disembodied version\n19  of ultimate truth, as many used to think. If\n20  anything emerges from our tale, it is that\n21  mathematics is created by people. ........\n22  mathematicians are human and live ordinary\n23  human lives, the creation of new mathematics\n24  is partly a social process. But neither\n25  mathematics nor science is wholly the result of\n26  social processes, as social relativists often\n27  claim. Both must respect external constraints:\n28  logic, in the case of mathematics, and\n29  experiment, in the case of science. However\n30  desperately mathematicians might want to\n31  trisect an angle by Euclidean methods, the\n32  plain fact is that it is impossible. However\n33  strongly physicists might want Newton's law of\n34  gravity to be the ultimate description of the\n35  universe, the motion of the perihelion of\n36  Mercury proves that it's not. This is why\n37  mathematicians are so stubbornly logical, and\n38  obsessed by concerns that most people could\n39  not care less about. Does it really matter\n40  whether you can solve a quintic by radicals?\n41  History's verdict on this question is\n42  unequivocal. It does matter. It may not matter\n43  directly for everyday life, but it surely matters\n44  to humanity as a whole – not because anything\n45  important rests on being able to solve quintic\n46  equations, but because understanding why we\n47  can't opens a secret doorway to a new\n48  mathematical world. If Galois and his\n49  predecessors had not been obsessed with\n50  understanding the conditions under which an\n51  equation can be solved by radicals, humanity's\n52  discovery of group theory would have been\n53  greatly delayed, and perhaps might not have\n54  happened.\n55  You may not encounter groups in your kitchen\n56  or on your drive to work, but without them\n57  today's science would be severely curtailed,\n58  and our lives would be far different. Not so\n59  much in gadgetry like jumbo jets or GPS\n60  navigation or cell phones – though those are\n61  part of the story too – but in insight into nature.\n62  No one could have predicted that a pedantic\n63  question about equations could reveal the deep\n64  structure of the physical world, but that is what\n65  happened.\n66  The clear message of history is a simple one.\n67  Research on deep mathematical issues should\n68  not be rejected or besmirched merely because\n69  those issues seem to have no direct practical\n70  use. Good mathematics is more valuable than\n71  gold, and where it comes from is mostly\n72  irrelevant. What counts is where it leads.\n73  Adapted from: STEWART, I.\n74  Why Beauty is Truth –\n75  The History of Symmetry. Cambridge, MA: Basic\n76  Books, 2007. p. 275-276.\n```\n\n---\n\nIf the segment\nthe universe (l. 12) were\n\nreplaced by universes , how many additional\n\nchanges would be necessary for the paragraph\n\nfrom lines 12 to 17 to be grammatically\n\ncorrect?",
       "alternatives": [
         "2.",
         "3.",
@@ -344,8 +344,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-14",
@@ -354,7 +354,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 8–15):**\n\nIs beauty truth, and truth beauty? The two are\n\nintimately connected, possibly because our\n\nminds react similarly to both. But what works\n\nin mathematics need not work in physics, and\n\nvice versa. The relationship between\n\nmathematics and physics is deep, subtle, and\n\npuzzling. It is a philosophical conundrum of the\n\nhighest order – how science has uncovered\n\nappa rent “laws” in nature, and why nature\n\nseems to speak in the language of\n\nmathematics.\n\nIs the universe genuinely mathematical? Are its\n\napparent mathematical features mere human\n\ninventions? Or does it seem mathematical to us\n\nbecause mathematics is the deepest aspect of\n\nits infinitely complex nature that we are able to\n\nunderstand?\n\nMathematics is not some disembodied version\n\nof ultimate truth, as many used to think. If\n\nanything emerges from our tale, it is that\n\nmathematics is created by people. ........\n\nmathematicians are human and live ordinary\n\nhuman lives, the creation of new mathematics\n\nis partly a social process. But neither\n\nmathematics nor science is wholly the result of\n\nsocial processes, as social relativists often\n\nclaim. Both must respect external constraints:\n\nlogic, in the case of mathematics, and\n\nexperiment, in the case of science. However\n\ndesperately mathematicians might want to\n\ntrisect an angle by Euclidean methods, the\n\nplain fact is that it is impossible. However\n\nstrongly physicists might want Newton's law of\n\ngravity to be the ultimate description of the\n\nuniverse, the motion of the perihelion of\n\nMercury proves that it's not. This is why\n\nmathematicians are so stubbornly logical, and\n\nobsessed by concerns that most people could\n\nnot care less about. Does it really matter\n\nwhether you can solve a quintic by radicals?\n\nHistory's verdict on this question is\n\nunequivocal. It does matter. It may not matter\n\ndirectly for everyday life, but it surely matters\n\nto humanity as a whole – not because anything\n\nimportant rests on being able to solve quintic\n\nequations, but because understanding why we\n\ncan't opens a secret doorway to a new\n\nmathematical world. If Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which an\n\nequation can be solved by radicals, humanity's\n\ndiscovery of group theory would have been\n\ngreatly delayed, and perhaps might not have\n\nhappened.\n\nYou may not encounter groups in your kitchen\n\nor on your drive to work, but without them\n\ntoday's science would be severely curtailed,\n\nand our lives would be far different. Not so\n\nmuch in gadgetry like jumbo jets or GPS\n\nnavigation or cell phones – though those are\n\npart of the story too – but in insight into nature.\n\nNo one could have predicted that a pedantic\n\nquestion about equations could reveal the deep\n\nstructure of the physical world, but that is what\n\nhappened.\n\nThe clear message of history is a simple one.\n\nResearch on deep mathematical issues should\n\nnot be rejected or besmirched merely because\n\nthose issues seem to have no direct practical\n\nuse. Good mathematics is more valuable than\n\ngold, and where it comes from is mostly\n\nirrelevant. What counts is where it leads.\n\nAdapted from: STEWART, I.\nWhy Beauty is Truth –\n\nThe History of Symmetry. Cambridge, MA: Basic\n\nBooks, 2007. p. 275-276.\n\n---\n\nConsider the following propositions for\n\nrephrasing the segment\nIt may not matter\n\ndirectly for everyday life, but it surely\n\nmatters to humanity as a whole (l. 42-44).\n\nI - It surely matters to humanity as a whole,\n\nhowever it may not matter directly for\n\neveryday life.\n\nII - Though it may not matter directly for\n\neveryday life, it surely matters to humanity\n\nas a whole.\n\nIII- Despite it may matter directly for everyday\n\nlife, it surely matters to humanity as a whole.\n\nIf applied to the text, which ones would be\n\ncorrect and keep the original meaning?",
+      "statementMd": "**Texto-base (questões 8–15):**\n\n```\n01  Is beauty truth, and truth beauty? The two are\n02  intimately connected, possibly because our\n03  minds react similarly to both. But what works\n04  in mathematics need not work in physics, and\n05  vice versa. The relationship between\n06  mathematics and physics is deep, subtle, and\n07  puzzling. It is a philosophical conundrum of the\n08  highest order – how science has uncovered\n09  appa rent “laws” in nature, and why nature\n10  seems to speak in the language of\n11  mathematics.\n12  Is the universe genuinely mathematical? Are its\n13  apparent mathematical features mere human\n14  inventions? Or does it seem mathematical to us\n15  because mathematics is the deepest aspect of\n16  its infinitely complex nature that we are able to\n17  understand?\n18  Mathematics is not some disembodied version\n19  of ultimate truth, as many used to think. If\n20  anything emerges from our tale, it is that\n21  mathematics is created by people. ........\n22  mathematicians are human and live ordinary\n23  human lives, the creation of new mathematics\n24  is partly a social process. But neither\n25  mathematics nor science is wholly the result of\n26  social processes, as social relativists often\n27  claim. Both must respect external constraints:\n28  logic, in the case of mathematics, and\n29  experiment, in the case of science. However\n30  desperately mathematicians might want to\n31  trisect an angle by Euclidean methods, the\n32  plain fact is that it is impossible. However\n33  strongly physicists might want Newton's law of\n34  gravity to be the ultimate description of the\n35  universe, the motion of the perihelion of\n36  Mercury proves that it's not. This is why\n37  mathematicians are so stubbornly logical, and\n38  obsessed by concerns that most people could\n39  not care less about. Does it really matter\n40  whether you can solve a quintic by radicals?\n41  History's verdict on this question is\n42  unequivocal. It does matter. It may not matter\n43  directly for everyday life, but it surely matters\n44  to humanity as a whole – not because anything\n45  important rests on being able to solve quintic\n46  equations, but because understanding why we\n47  can't opens a secret doorway to a new\n48  mathematical world. If Galois and his\n49  predecessors had not been obsessed with\n50  understanding the conditions under which an\n51  equation can be solved by radicals, humanity's\n52  discovery of group theory would have been\n53  greatly delayed, and perhaps might not have\n54  happened.\n55  You may not encounter groups in your kitchen\n56  or on your drive to work, but without them\n57  today's science would be severely curtailed,\n58  and our lives would be far different. Not so\n59  much in gadgetry like jumbo jets or GPS\n60  navigation or cell phones – though those are\n61  part of the story too – but in insight into nature.\n62  No one could have predicted that a pedantic\n63  question about equations could reveal the deep\n64  structure of the physical world, but that is what\n65  happened.\n66  The clear message of history is a simple one.\n67  Research on deep mathematical issues should\n68  not be rejected or besmirched merely because\n69  those issues seem to have no direct practical\n70  use. Good mathematics is more valuable than\n71  gold, and where it comes from is mostly\n72  irrelevant. What counts is where it leads.\n73  Adapted from: STEWART, I.\n74  Why Beauty is Truth –\n75  The History of Symmetry. Cambridge, MA: Basic\n76  Books, 2007. p. 275-276.\n```\n\n---\n\nConsider the following propositions for\n\nrephrasing the segment\nIt may not matter\n\ndirectly for everyday life, but it surely\n\nmatters to humanity as a whole (l. 42-44).\n\nI - It surely matters to humanity as a whole,\n\nhowever it may not matter directly for\n\neveryday life.\n\nII - Though it may not matter directly for\n\neveryday life, it surely matters to humanity\n\nas a whole.\n\nIII- Despite it may matter directly for everyday\n\nlife, it surely matters to humanity as a whole.\n\nIf applied to the text, which ones would be\n\ncorrect and keep the original meaning?",
       "alternatives": [
         "Only I.",
         "Only II.",
@@ -368,8 +368,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-15",
@@ -378,7 +378,7 @@
       "year": 2024,
       "source": "UFRGS",
       "difficulty": null,
-      "statementMd": "**Texto-base (questões 8–15):**\n\nIs beauty truth, and truth beauty? The two are\n\nintimately connected, possibly because our\n\nminds react similarly to both. But what works\n\nin mathematics need not work in physics, and\n\nvice versa. The relationship between\n\nmathematics and physics is deep, subtle, and\n\npuzzling. It is a philosophical conundrum of the\n\nhighest order – how science has uncovered\n\nappa rent “laws” in nature, and why nature\n\nseems to speak in the language of\n\nmathematics.\n\nIs the universe genuinely mathematical? Are its\n\napparent mathematical features mere human\n\ninventions? Or does it seem mathematical to us\n\nbecause mathematics is the deepest aspect of\n\nits infinitely complex nature that we are able to\n\nunderstand?\n\nMathematics is not some disembodied version\n\nof ultimate truth, as many used to think. If\n\nanything emerges from our tale, it is that\n\nmathematics is created by people. ........\n\nmathematicians are human and live ordinary\n\nhuman lives, the creation of new mathematics\n\nis partly a social process. But neither\n\nmathematics nor science is wholly the result of\n\nsocial processes, as social relativists often\n\nclaim. Both must respect external constraints:\n\nlogic, in the case of mathematics, and\n\nexperiment, in the case of science. However\n\ndesperately mathematicians might want to\n\ntrisect an angle by Euclidean methods, the\n\nplain fact is that it is impossible. However\n\nstrongly physicists might want Newton's law of\n\ngravity to be the ultimate description of the\n\nuniverse, the motion of the perihelion of\n\nMercury proves that it's not. This is why\n\nmathematicians are so stubbornly logical, and\n\nobsessed by concerns that most people could\n\nnot care less about. Does it really matter\n\nwhether you can solve a quintic by radicals?\n\nHistory's verdict on this question is\n\nunequivocal. It does matter. It may not matter\n\ndirectly for everyday life, but it surely matters\n\nto humanity as a whole – not because anything\n\nimportant rests on being able to solve quintic\n\nequations, but because understanding why we\n\ncan't opens a secret doorway to a new\n\nmathematical world. If Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which an\n\nequation can be solved by radicals, humanity's\n\ndiscovery of group theory would have been\n\ngreatly delayed, and perhaps might not have\n\nhappened.\n\nYou may not encounter groups in your kitchen\n\nor on your drive to work, but without them\n\ntoday's science would be severely curtailed,\n\nand our lives would be far different. Not so\n\nmuch in gadgetry like jumbo jets or GPS\n\nnavigation or cell phones – though those are\n\npart of the story too – but in insight into nature.\n\nNo one could have predicted that a pedantic\n\nquestion about equations could reveal the deep\n\nstructure of the physical world, but that is what\n\nhappened.\n\nThe clear message of history is a simple one.\n\nResearch on deep mathematical issues should\n\nnot be rejected or besmirched merely because\n\nthose issues seem to have no direct practical\n\nuse. Good mathematics is more valuable than\n\ngold, and where it comes from is mostly\n\nirrelevant. What counts is where it leads.\n\nAdapted from: STEWART, I.\nWhy Beauty is Truth –\n\nThe History of Symmetry. Cambridge, MA: Basic\n\nBooks, 2007. p. 275-276.\n\n---\n\nConsider the following propositions for\n\nrephrasing the sentence\nIf Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which\n\nan equation can be solved by radicals,\n\nhumanity’s discovery of group theory\n\nwould have been greatly delayed (l. 48-53).\n\nI - Had Galois and his predecessors not been\n\nobsessed with understanding the conditions\n\nunder which an equation can be solved by\n\nradicals, humanity’s discovery of group\n\ntheory would have been greatly delayed.\n\nII - Humanity’s discovery of group theory\n\nwould have been greatly delayed had Galois\n\nand his predecessors not been obsessed with\n\nunderstanding the conditions under which\n\nan equation can be solved by radicals.\n\nIII- Had Galois and his predecessors been\n\nobsessed with understanding the conditions\n\nunder which an equation can be solved by\n\nradicals, humanity´s discovery of group\n\ntheory would not have been greatly delayed.\n\nIf applied to the text, which one(s) would be\n\ncorrect and keep the original meaning?",
+      "statementMd": "**Texto-base (questões 8–15):**\n\n```\n01  Is beauty truth, and truth beauty? The two are\n02  intimately connected, possibly because our\n03  minds react similarly to both. But what works\n04  in mathematics need not work in physics, and\n05  vice versa. The relationship between\n06  mathematics and physics is deep, subtle, and\n07  puzzling. It is a philosophical conundrum of the\n08  highest order – how science has uncovered\n09  appa rent “laws” in nature, and why nature\n10  seems to speak in the language of\n11  mathematics.\n12  Is the universe genuinely mathematical? Are its\n13  apparent mathematical features mere human\n14  inventions? Or does it seem mathematical to us\n15  because mathematics is the deepest aspect of\n16  its infinitely complex nature that we are able to\n17  understand?\n18  Mathematics is not some disembodied version\n19  of ultimate truth, as many used to think. If\n20  anything emerges from our tale, it is that\n21  mathematics is created by people. ........\n22  mathematicians are human and live ordinary\n23  human lives, the creation of new mathematics\n24  is partly a social process. But neither\n25  mathematics nor science is wholly the result of\n26  social processes, as social relativists often\n27  claim. Both must respect external constraints:\n28  logic, in the case of mathematics, and\n29  experiment, in the case of science. However\n30  desperately mathematicians might want to\n31  trisect an angle by Euclidean methods, the\n32  plain fact is that it is impossible. However\n33  strongly physicists might want Newton's law of\n34  gravity to be the ultimate description of the\n35  universe, the motion of the perihelion of\n36  Mercury proves that it's not. This is why\n37  mathematicians are so stubbornly logical, and\n38  obsessed by concerns that most people could\n39  not care less about. Does it really matter\n40  whether you can solve a quintic by radicals?\n41  History's verdict on this question is\n42  unequivocal. It does matter. It may not matter\n43  directly for everyday life, but it surely matters\n44  to humanity as a whole – not because anything\n45  important rests on being able to solve quintic\n46  equations, but because understanding why we\n47  can't opens a secret doorway to a new\n48  mathematical world. If Galois and his\n49  predecessors had not been obsessed with\n50  understanding the conditions under which an\n51  equation can be solved by radicals, humanity's\n52  discovery of group theory would have been\n53  greatly delayed, and perhaps might not have\n54  happened.\n55  You may not encounter groups in your kitchen\n56  or on your drive to work, but without them\n57  today's science would be severely curtailed,\n58  and our lives would be far different. Not so\n59  much in gadgetry like jumbo jets or GPS\n60  navigation or cell phones – though those are\n61  part of the story too – but in insight into nature.\n62  No one could have predicted that a pedantic\n63  question about equations could reveal the deep\n64  structure of the physical world, but that is what\n65  happened.\n66  The clear message of history is a simple one.\n67  Research on deep mathematical issues should\n68  not be rejected or besmirched merely because\n69  those issues seem to have no direct practical\n70  use. Good mathematics is more valuable than\n71  gold, and where it comes from is mostly\n72  irrelevant. What counts is where it leads.\n73  Adapted from: STEWART, I.\n74  Why Beauty is Truth –\n75  The History of Symmetry. Cambridge, MA: Basic\n76  Books, 2007. p. 275-276.\n```\n\n---\n\nConsider the following propositions for\n\nrephrasing the sentence\nIf Galois and his\n\npredecessors had not been obsessed with\n\nunderstanding the conditions under which\n\nan equation can be solved by radicals,\n\nhumanity’s discovery of group theory\n\nwould have been greatly delayed (l. 48-53).\n\nI - Had Galois and his predecessors not been\n\nobsessed with understanding the conditions\n\nunder which an equation can be solved by\n\nradicals, humanity’s discovery of group\n\ntheory would have been greatly delayed.\n\nII - Humanity’s discovery of group theory\n\nwould have been greatly delayed had Galois\n\nand his predecessors not been obsessed with\n\nunderstanding the conditions under which\n\nan equation can be solved by radicals.\n\nIII- Had Galois and his predecessors been\n\nobsessed with understanding the conditions\n\nunder which an equation can be solved by\n\nradicals, humanity´s discovery of group\n\ntheory would not have been greatly delayed.\n\nIf applied to the text, which one(s) would be\n\ncorrect and keep the original meaning?",
       "alternatives": [
         "Only I.",
         "Only III.",
@@ -392,8 +392,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-17",
@@ -416,8 +416,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-18",
@@ -440,8 +440,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-19",
@@ -464,8 +464,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-20",
@@ -488,8 +488,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-21",
@@ -512,8 +512,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-22",
@@ -536,8 +536,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-24",
@@ -560,8 +560,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-25",
@@ -584,8 +584,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-26",
@@ -608,8 +608,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-28",
@@ -632,8 +632,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-29",
@@ -656,8 +656,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-30",
@@ -680,8 +680,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-31",
@@ -704,8 +704,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-32",
@@ -728,8 +728,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-33",
@@ -752,8 +752,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-35",
@@ -776,8 +776,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-36",
@@ -800,8 +800,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-37",
@@ -824,8 +824,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-38",
@@ -848,8 +848,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-39",
@@ -872,8 +872,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-41",
@@ -896,8 +896,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-42",
@@ -920,8 +920,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-43",
@@ -944,8 +944,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-44",
@@ -968,8 +968,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-45",
@@ -992,8 +992,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-46",
@@ -1016,8 +1016,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-47",
@@ -1040,8 +1040,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-48",
@@ -1064,8 +1064,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-49",
@@ -1088,8 +1088,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-50",
@@ -1112,8 +1112,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-52",
@@ -1136,8 +1136,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-53",
@@ -1160,8 +1160,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-54",
@@ -1184,8 +1184,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-55",
@@ -1208,8 +1208,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-56",
@@ -1232,8 +1232,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-57",
@@ -1256,8 +1256,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-58",
@@ -1280,8 +1280,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-59",
@@ -1304,8 +1304,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-60",
@@ -1328,8 +1328,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-61",
@@ -1352,8 +1352,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-62",
@@ -1376,8 +1376,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-63",
@@ -1400,8 +1400,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-64",
@@ -1424,8 +1424,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-65",
@@ -1448,8 +1448,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-66",
@@ -1472,8 +1472,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-67",
@@ -1496,8 +1496,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-69",
@@ -1520,8 +1520,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-70",
@@ -1544,8 +1544,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-71",
@@ -1568,8 +1568,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-72",
@@ -1592,8 +1592,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-73",
@@ -1616,8 +1616,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-74",
@@ -1640,8 +1640,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     },
     {
       "externalId": "ufrgs-2024-d2-2024-75",
@@ -1664,8 +1664,8 @@
       "isFavorite": 0,
       "isArchived": 0,
       "needsReview": 1,
-      "createdAt": "2026-05-18T23:12:56.041Z",
-      "updatedAt": "2026-05-18T23:12:56.041Z"
+      "createdAt": "2026-05-19T00:07:47.082Z",
+      "updatedAt": "2026-05-19T00:07:47.082Z"
     }
   ],
   "sessions": [],
