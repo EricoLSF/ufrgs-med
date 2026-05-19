@@ -32,7 +32,12 @@ function Dashboard() {
   async function loadStarter() {
     setLoading(true)
     try {
-      for (const url of ['/cv2024-dia1.json', '/cv2024-dia2.json']) {
+      const urls = [
+        '/cv2024-dia1.json', '/cv2024-dia2.json',
+        '/cv2023-dia1.json', '/cv2023-dia2.json',
+        '/cv2022-dia1.json', '/cv2022-dia2.json',
+      ]
+      for (const url of urls) {
         const payload = await (await fetch(url)).json()
         await importQuestions(payload)
       }
@@ -58,10 +63,10 @@ function Dashboard() {
           <CardContent className="flex flex-col items-start gap-3 p-6 md:flex-row md:items-center md:justify-between">
             <div>
               <div className="flex items-center gap-2 text-base font-semibold">
-                <Sparkles className="h-4 w-4" /> Comece com UFRGS 2024
+                <Sparkles className="h-4 w-4" /> Comece com UFRGS 2022–2024
               </div>
               <p className="mt-1 text-sm text-muted-foreground">
-                Importa 127 questões reais (1º e 2º dia) direto pro seu banco. Tudo fica salvo neste navegador.
+                Importa ~400 questões reais (3 anos × 2 dias) direto pro seu banco. Tudo fica salvo neste navegador.
               </p>
             </div>
             <Button onClick={loadStarter} disabled={loading}>

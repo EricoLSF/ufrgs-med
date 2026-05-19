@@ -14,6 +14,10 @@ import { cn } from '@/lib/utils'
 const STARTER_PACKS = [
   { label: 'UFRGS 2024 — 1º Dia (Port/Lit/Hist/Mat)', url: '/cv2024-dia1.json' },
   { label: 'UFRGS 2024 — 2º Dia (LE/Fís/Quím/Geo/Bio)', url: '/cv2024-dia2.json' },
+  { label: 'UFRGS 2023 — 1º Dia', url: '/cv2023-dia1.json' },
+  { label: 'UFRGS 2023 — 2º Dia', url: '/cv2023-dia2.json' },
+  { label: 'UFRGS 2022 — 1º Dia', url: '/cv2022-dia1.json' },
+  { label: 'UFRGS 2022 — 2º Dia', url: '/cv2022-dia2.json' },
 ]
 
 export const Route = createFileRoute('/settings')({ component: Settings })
