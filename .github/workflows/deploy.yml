@@ -32,6 +32,9 @@ jobs:
         env:
           VITE_BASE: /ufrgs-med/
 
+      - name: Type check (after Vite generated routeTree)
+        run: npx tsc -b
+
       # SPA fallback: GitHub Pages serves 404.html for any unknown path,
       # so we copy index.html there. The SPA reads the URL and routes properly.
       - run: cp dist/index.html dist/404.html
