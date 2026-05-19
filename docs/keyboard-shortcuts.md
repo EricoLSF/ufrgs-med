@@ -20,6 +20,7 @@
 
 | Tecla | Ação |
 |---|---|
+| `F` | Modo foco (esconde sidebar + topbar, fonte ligeiramente maior) |
 | `⌘K` / `Ctrl+K` | Busca rápida — *em breve* |
 
 ## Implementação

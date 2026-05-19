@@ -8,6 +8,28 @@ Diário de mudanças relevantes, em ordem cronológica reversa. Cada entrada tem
 
 ## 2026-05-18
 
+### Phase 15 — UX: Por revisar + Modo Foco
+- `QuestionList` ganha toggle "Por revisar" (filtra `needsReview=1`) com contador no badge
+- Cards de questão mostram badge "revisar" amarelo
+- `QuestionEditor` ganha botão "Marcar revisada" quando `needsReview=1` (clica → seta 0 + autosave)
+- Modo Foco: atalho global `F` no `__root.tsx` esconde sidebar+topbar, fonte 17px, hint discreto bottom-right pra sair
+
+### Phase 14 — Deploy GitHub Pages + CI
+- `.github/workflows/deploy.yml`: build no push pra `main`, sobe pra `gh-pages` via deploy-pages
+- `vite.config.ts`: `base` lê de `VITE_BASE` env (CI passa `/ufrgs-med/`)
+- `main.tsx`: router.basepath = `import.meta.env.BASE_URL`
+- Fetches em routes/{index,settings,help} usam `BASE_URL` como prefixo
+- 404.html copiado de index.html no build (SPA fallback)
+- `configure-pages` com `enablement: true` tenta auto-habilitar Pages
+- **Bloqueio**: GitHub Pages em repo privado exige Pro plan. Usuário escolheu tornar repo público
+
+### Phase 13 — Scrape UFRGS 2023 e 2022
+- 4 PDFs (1º e 2º dia INGLES de cada ano), 259 questões adicionais (total 386)
+- Texto-base detectado: 2022 dia1 (1-9, 10-15), 2023 dia1 (1-8), 2022 dia2 (1-8), 2023 dia2 (1-7, 8-15)
+- Anuladas puladas: 2023#20, 2022#25 + #60
+- 2021 não existe (UFRGS pulou de cv-2020 pra cv-2022 por causa de pandemia)
+- `STARTER_PACKS` em Settings agora tem 6 entradas; Dashboard CTA importa todos os 6
+
 ### Plano — Primo (assistente IA) + integração do playbook
 - Playbook `playbook-ufrgs-medicina.html` (do Downloads) preservado em `public/playbook.html` + resumo em `docs/playbook.md`
 - `PLAN.md`: nova seção "Camada IA — Primo" mapeando P1-P9 (erro→variantes, post-mortem socrático, Feynman invertido, depth-bombing, redação, etc.)

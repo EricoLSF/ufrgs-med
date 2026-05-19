@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react'
 import { useNavigate } from '@tanstack/react-router'
-import { ArrowLeft, Save, Trash2 } from 'lucide-react'
+import { AlertTriangle, ArrowLeft, CheckCircle2, Save, Trash2 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
+import { Badge } from '@/components/ui/badge'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Select } from '@/components/ui/select'
@@ -106,6 +107,23 @@ export function QuestionEditor({ id, initial }: { id?: number; initial?: Questio
           </div>
         </div>
         <div className="flex items-center gap-2">
+          {form.needsReview === 1 && (
+            <Badge variant="warning" className="hidden md:inline-flex">
+              <AlertTriangle className="mr-1 h-3 w-3" /> precisa revisão
+            </Badge>
+          )}
+          {id != null && form.needsReview === 1 && (
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => {
+                patch({ needsReview: 0 })
+                setTimeout(save, 0)
+              }}
+            >
+              <CheckCircle2 /> Marcar revisada
+            </Button>
+          )}
           {id != null && (
             <Button variant="ghost" size="sm" onClick={remove}>
               <Trash2 /> Excluir

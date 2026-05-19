@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Link, useNavigate } from '@tanstack/react-router'
 import { useLiveQuery } from 'dexie-react-hooks'
-import { Archive, Plus, Search, Star } from 'lucide-react'
+import { AlertTriangle, Archive, Plus, Search, Star } from 'lucide-react'
 import { Button, buttonVariants } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Select } from '@/components/ui/select'
@@ -23,10 +23,18 @@ export function QuestionList() {
   const [tag, setTag] = useState('')
   const [showArchived, setShowArchived] = useState(false)
   const [favOnly, setFavOnly] = useState(false)
+  const [reviewOnly, setReviewOnly] = useState(false)
+
+  const reviewCount = useLiveQuery(
+    () => db.questions.where('needsReview').equals(1).count(),
+    [],
+    0,
+  )
 
   const questions = useLiveQuery(async () => {
     let coll = db.questions.where('isArchived').equals(showArchived ? 1 : 0)
     if (favOnly) coll = coll.and((q) => q.isFavorite === 1)
+    if (reviewOnly) coll = coll.and((q) => q.needsReview === 1)
     if (subjectId !== '') coll = coll.and((q) => q.subjectId === subjectId)
     if (year) coll = coll.and((q) => q.year === Number(year))
     if (tag) {
@@ -39,7 +47,7 @@ export function QuestionList() {
     }
     const arr = await coll.reverse().sortBy('createdAt')
     return arr.slice(0, PAGE)
-  }, [subjectId, year, search, tag, showArchived, favOnly], [])
+  }, [subjectId, year, search, tag, showArchived, favOnly, reviewOnly], [])
 
   return (
     <div className="mx-auto max-w-6xl space-y-6 p-6 md:p-10">
@@ -82,6 +90,15 @@ export function QuestionList() {
       </div>
 
       <div className="flex flex-wrap gap-2 text-xs">
+        <Toggle on={reviewOnly} onClick={() => setReviewOnly((v) => !v)}>
+          <AlertTriangle className="h-3 w-3" />
+          Por revisar
+          {reviewCount > 0 && (
+            <span className={cn('ml-1 rounded-full px-1.5 text-[10px]', reviewOnly ? 'bg-background/30' : 'bg-warning/20 text-[var(--color-warning)]')}>
+              {reviewCount}
+            </span>
+          )}
+        </Toggle>
         <Toggle on={favOnly} onClick={() => setFavOnly((v) => !v)}>
           <Star className="h-3 w-3" /> Favoritas
         </Toggle>
@@ -120,6 +137,9 @@ export function QuestionList() {
                       <span style={{ color: s.color }} className="font-medium">{s.name}</span>
                     )}
                     {q.year && <Badge variant="outline">{q.year}</Badge>}
+                    {q.needsReview === 1 && (
+                      <Badge variant="warning"><AlertTriangle className="mr-1 h-2.5 w-2.5" />revisar</Badge>
+                    )}
                     {q.isFavorite === 1 && <Star className="h-3 w-3 fill-current text-amber-500" />}
                     {q.tags.slice(0, 4).map((t) => (
                       <Badge key={t} variant="secondary">#{t}</Badge>
