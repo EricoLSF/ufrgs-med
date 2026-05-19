@@ -6,6 +6,18 @@ Diário de mudanças relevantes, em ordem cronológica reversa. Cada entrada tem
 
 ---
 
+## 2026-05-19
+
+### Phase 16 — Primo P1: erro → 5 variantes (Gemini)
+- API key recebida do Carlos (formato `AIza...` = Gemini, não Anthropic). Pivot: provider padrão = Gemini
+- `src/lib/llm/` com types + gemini.ts (chama `gemini-2.5-flash` via REST) + prompts.ts (template do playbook) + index.ts (carrega settings + factory)
+- API key armazenada em `db.settings` (NUNCA hardcoded — repo é público; sincroniza via Drive)
+- Settings ganha card "Primo — assistente IA" com input pra key + seletor de modelo
+- QuestionEditor topbar ganha botão "Variantes" (Sparkles icon) que abre `VariantsModal`
+- Modal: loading → call Gemini → parse JSON → 5 cards com preview de cada variante + botão "Adicionar ao banco"
+- Variantes adicionadas têm `source='Primo (variante)'` + tag `primo-variant` + `needsReview=0` (LLM output usável direto)
+- Smoke test: gerou 5 variantes de questão de Biologia (Biomas) em ~30s, parseou JSON limpo, adicionou ao banco
+
 ## 2026-05-18
 
 ### Phase 15 — UX: Por revisar + Modo Foco

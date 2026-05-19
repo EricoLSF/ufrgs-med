@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react'
 import { useNavigate } from '@tanstack/react-router'
-import { AlertTriangle, ArrowLeft, CheckCircle2, Save, Trash2 } from 'lucide-react'
+import { AlertTriangle, ArrowLeft, CheckCircle2, Save, Sparkles, Trash2 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
+import { VariantsModal } from '@/features/primo/variants-modal'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Select } from '@/components/ui/select'
@@ -22,6 +23,7 @@ export function QuestionEditor({ id, initial }: { id?: number; initial?: Questio
   const [form, setForm] = useState<QuestionDraft | null>(initial ?? null)
   const [savedAt, setSavedAt] = useState<number | null>(null)
   const [tagsRaw, setTagsRaw] = useState(initial?.tags.join(', ') ?? '')
+  const [variantsOpen, setVariantsOpen] = useState(false)
 
   // Initialize draft once subjects load (for "new" case)
   useEffect(() => {
@@ -124,6 +126,16 @@ export function QuestionEditor({ id, initial }: { id?: number; initial?: Questio
               <CheckCircle2 /> Marcar revisada
             </Button>
           )}
+          {id != null && canSave && (
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => setVariantsOpen(true)}
+              title="Gerar 5 variantes com o Primo"
+            >
+              <Sparkles /> Variantes
+            </Button>
+          )}
           {id != null && (
             <Button variant="ghost" size="sm" onClick={remove}>
               <Trash2 /> Excluir
@@ -134,6 +146,14 @@ export function QuestionEditor({ id, initial }: { id?: number; initial?: Questio
           </Button>
         </div>
       </div>
+
+      {variantsOpen && id != null && subject && (
+        <VariantsModal
+          question={{ ...form, id, createdAt: '', updatedAt: '' }}
+          subject={subject}
+          onClose={() => setVariantsOpen(false)}
+        />
+      )}
 
       <div className="grid flex-1 grid-cols-1 gap-0 overflow-hidden lg:grid-cols-2">
         {/* form */}

@@ -9,6 +9,7 @@ import { useUI, type Theme } from '@/stores/ui'
 import { downloadJson, exportAll, importQuestions, resetDatabase, type ImportReport } from '@/lib/io'
 import { connect, disconnect, loadDriveSettings, pull, push, useSync, watchChanges } from '@/lib/drive/sync'
 import { DEFAULT_CLIENT_ID } from '@/lib/drive/types'
+import { DEFAULT_LLM_SETTINGS, loadLLMSettings, saveLLMSettings, type LLMSettings } from '@/lib/llm'
 import { cn } from '@/lib/utils'
 
 const STARTER_PACKS = [
@@ -127,6 +128,8 @@ function Settings() {
         </CardContent>
       </Card>
 
+      <PrimoCard />
+
       <DriveCard />
 
       <Card>
@@ -213,6 +216,84 @@ function Row({ label, children }: { label: string; children: React.ReactNode }) 
       <div className="text-sm font-medium">{label}</div>
       {children}
     </div>
+  )
+}
+
+function PrimoCard() {
+  const [s, setS] = useState<LLMSettings>(DEFAULT_LLM_SETTINGS)
+  const [saving, setSaving] = useState(false)
+  const [savedAt, setSavedAt] = useState<number | null>(null)
+  const [showKey, setShowKey] = useState(false)
+
+  useEffect(() => { loadLLMSettings().then(setS) }, [])
+
+  async function save() {
+    setSaving(true)
+    try {
+      await saveLLMSettings(s)
+      setSavedAt(Date.now())
+    } finally {
+      setSaving(false)
+    }
+  }
+
+  const configured = !!s.apiKey
+
+  return (
+    <Card>
+      <CardHeader>
+        <CardTitle className="flex items-center gap-2">
+          <Sparkles className="h-4 w-4 text-[var(--color-warning)]" />
+          Primo — assistente IA
+        </CardTitle>
+        <CardDescription>
+          Cola sua chave Gemini pra ativar geração de variantes, post-mortem socrático e outras
+          features do <a className="underline" href={import.meta.env.BASE_URL + 'playbook.html'} target="_blank" rel="noreferrer">playbook</a>.
+        </CardDescription>
+      </CardHeader>
+      <CardContent className="space-y-4">
+        <div className="space-y-1.5">
+          <Label>API key Gemini (Google AI Studio)</Label>
+          <div className="flex gap-2">
+            <Input
+              value={s.apiKey ?? ''}
+              onChange={(e) => setS({ ...s, apiKey: e.target.value || null })}
+              placeholder="AIzaSy..."
+              type={showKey ? 'text' : 'password'}
+              className="font-mono text-xs"
+            />
+            <Button variant="outline" size="sm" onClick={() => setShowKey((v) => !v)}>
+              {showKey ? 'Ocultar' : 'Mostrar'}
+            </Button>
+          </div>
+          <p className="text-xs text-muted-foreground">
+            Pegue uma em <a className="underline" href="https://aistudio.google.com/apikey" target="_blank" rel="noreferrer">aistudio.google.com/apikey</a> (grátis). Salva no IndexedDB, sincroniza via Drive.
+          </p>
+        </div>
+
+        <div className="space-y-1.5">
+          <Label>Modelo</Label>
+          <select
+            value={s.model}
+            onChange={(e) => setS({ ...s, model: e.target.value })}
+            className="h-9 w-full rounded-md border border-input bg-background px-3 text-sm"
+          >
+            <option value="gemini-2.5-flash">gemini-2.5-flash (rápido, barato)</option>
+            <option value="gemini-2.5-pro">gemini-2.5-pro (melhor qualidade, mais caro)</option>
+            <option value="gemini-2.0-flash-exp">gemini-2.0-flash-exp (experimental)</option>
+          </select>
+        </div>
+
+        <div className="flex items-center justify-between">
+          <span className="text-xs text-muted-foreground">
+            {savedAt && Date.now() - savedAt < 3000
+              ? '✓ Salvo'
+              : configured ? 'Primo está pronto.' : 'Sem chave configurada — Primo desabilitado.'}
+          </span>
+          <Button size="sm" onClick={save} disabled={saving}>Salvar</Button>
+        </div>
+      </CardContent>
+    </Card>
   )
 }
 
