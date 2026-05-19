@@ -25,11 +25,6 @@ jobs:
           node-version: 22
           cache: npm
 
-      - name: Auto-enable Pages if not yet enabled
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
       - run: npm ci
 
       - name: Build (with base path for GitHub Pages)
