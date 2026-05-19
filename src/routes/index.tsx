@@ -32,13 +32,13 @@ function Dashboard() {
   async function loadStarter() {
     setLoading(true)
     try {
-      const urls = [
-        '/cv2024-dia1.json', '/cv2024-dia2.json',
-        '/cv2023-dia1.json', '/cv2023-dia2.json',
-        '/cv2022-dia1.json', '/cv2022-dia2.json',
+      const files = [
+        'cv2024-dia1.json', 'cv2024-dia2.json',
+        'cv2023-dia1.json', 'cv2023-dia2.json',
+        'cv2022-dia1.json', 'cv2022-dia2.json',
       ]
-      for (const url of urls) {
-        const payload = await (await fetch(url)).json()
+      for (const f of files) {
+        const payload = await (await fetch(import.meta.env.BASE_URL + f)).json()
         await importQuestions(payload)
       }
     } finally {

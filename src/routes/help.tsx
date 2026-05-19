@@ -34,29 +34,35 @@ function titleFromFilename(path: string): string {
     .join(' ')
 }
 
+// Rewrite root-absolute links (e.g. /playbook.html) so they work under any base path.
+function rewriteLinks(md: string): string {
+  const base = import.meta.env.BASE_URL.replace(/\/$/, '')
+  return md.replace(/\]\(\/([^)\s]+)\)/g, (_, p) => `](${base}/${p})`)
+}
+
 function buildDocs(): Doc[] {
   const docs: Doc[] = []
   for (const [path, content] of Object.entries(rawDocs)) {
     docs.push({
       slug: path.split('/').pop()!.replace(/\.md$/, ''),
       title: titleFromMarkdown(content, titleFromFilename(path)),
-      content, group: 'guia',
+      content: rewriteLinks(content), group: 'guia',
     })
   }
-  for (const [path, content] of Object.entries(rawScraperReadme)) {
+  for (const [, content] of Object.entries(rawScraperReadme)) {
     docs.push({
       slug: 'scraper', title: titleFromMarkdown(content, 'Scraper UFRGS'),
-      content, group: 'guia',
+      content: rewriteLinks(content), group: 'guia',
     })
   }
-  for (const [path, content] of Object.entries(rawPlan)) {
-    docs.push({ slug: 'plan', title: titleFromMarkdown(content, 'Plano'), content, group: 'projeto' })
+  for (const [, content] of Object.entries(rawPlan)) {
+    docs.push({ slug: 'plan', title: titleFromMarkdown(content, 'Plano'), content: rewriteLinks(content), group: 'projeto' })
   }
-  for (const [path, content] of Object.entries(rawTodo)) {
-    docs.push({ slug: 'todo', title: titleFromMarkdown(content, 'TODO'), content, group: 'projeto' })
+  for (const [, content] of Object.entries(rawTodo)) {
+    docs.push({ slug: 'todo', title: titleFromMarkdown(content, 'TODO'), content: rewriteLinks(content), group: 'projeto' })
   }
-  for (const [path, content] of Object.entries(rawLog)) {
-    docs.push({ slug: 'log', title: titleFromMarkdown(content, 'Log'), content, group: 'projeto' })
+  for (const [, content] of Object.entries(rawLog)) {
+    docs.push({ slug: 'log', title: titleFromMarkdown(content, 'Log'), content: rewriteLinks(content), group: 'projeto' })
   }
   return docs.sort((a, b) => a.title.localeCompare(b.title))
 }

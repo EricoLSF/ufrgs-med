@@ -12,12 +12,12 @@ import { DEFAULT_CLIENT_ID } from '@/lib/drive/types'
 import { cn } from '@/lib/utils'
 
 const STARTER_PACKS = [
-  { label: 'UFRGS 2024 — 1º Dia (Port/Lit/Hist/Mat)', url: '/cv2024-dia1.json' },
-  { label: 'UFRGS 2024 — 2º Dia (LE/Fís/Quím/Geo/Bio)', url: '/cv2024-dia2.json' },
-  { label: 'UFRGS 2023 — 1º Dia', url: '/cv2023-dia1.json' },
-  { label: 'UFRGS 2023 — 2º Dia', url: '/cv2023-dia2.json' },
-  { label: 'UFRGS 2022 — 1º Dia', url: '/cv2022-dia1.json' },
-  { label: 'UFRGS 2022 — 2º Dia', url: '/cv2022-dia2.json' },
+  { label: 'UFRGS 2024 — 1º Dia (Port/Lit/Hist/Mat)', file: 'cv2024-dia1.json' },
+  { label: 'UFRGS 2024 — 2º Dia (LE/Fís/Quím/Geo/Bio)', file: 'cv2024-dia2.json' },
+  { label: 'UFRGS 2023 — 1º Dia', file: 'cv2023-dia1.json' },
+  { label: 'UFRGS 2023 — 2º Dia', file: 'cv2023-dia2.json' },
+  { label: 'UFRGS 2022 — 1º Dia', file: 'cv2022-dia1.json' },
+  { label: 'UFRGS 2022 — 2º Dia', file: 'cv2022-dia2.json' },
 ]
 
 export const Route = createFileRoute('/settings')({ component: Settings })
@@ -52,10 +52,10 @@ function Settings() {
     await resetDatabase()
   }
 
-  async function loadStarter(url: string) {
+  async function loadStarter(file: string) {
     setImportError(null)
     try {
-      const payload = await (await fetch(url)).json()
+      const payload = await (await fetch(import.meta.env.BASE_URL + file)).json()
       const report = await importQuestions(payload)
       setImportReport(report)
     } catch (e) {
@@ -138,9 +138,9 @@ function Settings() {
         </CardHeader>
         <CardContent className="space-y-2">
           {STARTER_PACKS.map((p) => (
-            <div key={p.url} className="flex items-center justify-between gap-3 rounded-md border border-border p-3 text-sm">
+            <div key={p.file} className="flex items-center justify-between gap-3 rounded-md border border-border p-3 text-sm">
               <span>{p.label}</span>
-              <Button variant="secondary" size="sm" onClick={() => loadStarter(p.url)}>
+              <Button variant="secondary" size="sm" onClick={() => loadStarter(p.file)}>
                 <Sparkles /> Importar
               </Button>
             </div>
