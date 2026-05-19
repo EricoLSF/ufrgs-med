@@ -18,6 +18,17 @@ Diário de mudanças relevantes, em ordem cronológica reversa. Cada entrada tem
 - Variantes adicionadas têm `source='Primo (variante)'` + tag `primo-variant` + `needsReview=0` (LLM output usável direto)
 - Smoke test: gerou 5 variantes de questão de Biologia (Biomas) em ~30s, parseou JSON limpo, adicionou ao banco
 
+## 2026-05-19
+
+### Phase 16 — Primo P1 (erro → 5 variantes) com Gemini
+- `src/lib/llm/` provider-agnostic: `types`, `gemini`, `prompts`, `index` (factory que lê settings)
+- API key vive em `db.settings.llm` (NÃO hardcodada em código — risco de leak; chave do Carlos foi Gemini formato `AIza...`)
+- Settings: nova card "Primo" com input mascarado + seletor de modelo
+- QuestionEditor: botão `Variantes` no topbar (só pra questões salvas) abre modal full-screen
+- Modal: stream prompt → parse JSON → renderiza 5 cards com statement/alts/comentário/armadilha. "Adicionar ao banco" cria question com tag `primo-variant` + source `Primo (variante)` + `needsReview=0`
+- Modelo padrão: `gemini-2.5-flash` (rápido, barato)
+- Testado: Gemini responde, JSON parsing funciona
+
 ## 2026-05-18
 
 ### Phase 15 — UX: Por revisar + Modo Foco
